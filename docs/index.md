@@ -2515,6 +2515,36 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
+## Human mesh recover
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-22**|**VLPose: Bridging the Domain Gap in Pose Estimation with Language-Vision Tuning**|Jingyao Li et.al.|[2402.14456](http://arxiv.org/abs/2402.14456)|null|
+|**2024-02-18**|**Boosting Semi-Supervised 2D Human Pose Estimation by Revisiting Data Augmentation and Consistency Training**|Huayi Zhou et.al.|[2402.11566](http://arxiv.org/abs/2402.11566)|**[link](https://github.com/hnuzhy/multiaugs)**|
+|**2024-02-16**|**Occlusion Resilient 3D Human Pose Estimation**|Soumava Kumar Roy et.al.|[2402.11036](http://arxiv.org/abs/2402.11036)|null|
+|**2024-01-28**|**Towards a large-scale fused and labeled dataset of human pose while interacting with robots in shared urban areas**|E. Sherafat et.al.|[2402.10077](http://arxiv.org/abs/2402.10077)|null|
+|**2024-02-15**|**Lester: rotoscope animation through video object segmentation and tracking**|Ruben Tous et.al.|[2402.09883](http://arxiv.org/abs/2402.09883)|**[link](https://github.com/rtous/lester)**|
+|**2024-02-16**|**IMUOptimize: A Data-Driven Approach to Optimal IMU Placement for Human Pose Estimation with Transformer Architecture**|Varun Ramani et.al.|[2402.08923](http://arxiv.org/abs/2402.08923)|null|
+|**2024-02-04**|**Uncertainty-Aware Testing-Time Optimization for 3D Human Pose Estimation**|Ti Wang et.al.|[2402.02339](http://arxiv.org/abs/2402.02339)|null|
+|**2024-02-01**|**In-Bed Pose Estimation: A Review**|Ziya Ata Yazıcı et.al.|[2402.00700](http://arxiv.org/abs/2402.00700)|null|
+|**2024-01-30**|**Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers**|Jianbin Jiao et.al.|[2401.16700](http://arxiv.org/abs/2401.16700)|null|
+|**2024-01-28**|**Multi-Person 3D Pose Estimation from Multi-View Uncalibrated Depth Cameras**|Yu-Jhe Li et.al.|[2401.15616](http://arxiv.org/abs/2401.15616)|null|
+
+## Tracking
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-22**|**Reading Relevant Feature from Global Representation Memory for Visual Object Tracking**|Xinyu Zhou et.al.|[2402.14392](http://arxiv.org/abs/2402.14392)|null|
+|**2024-02-21**|**GDTM: An Indoor Geospatial Tracking Dataset with Distributed Multimodal Sensors**|Ho Lyun Jeong et.al.|[2402.14136](http://arxiv.org/abs/2402.14136)|**[link](https://github.com/nesl/gdtm)**|
+|**2024-02-20**|**OLViT: Multi-Modal State Tracking via Attention-Based Embeddings for Video-Grounded Dialog**|Adnen Abdessaied et.al.|[2402.13146](http://arxiv.org/abs/2402.13146)|null|
+|**2024-02-20**|**MapTrack: Tracking in the Map**|Fei Wang et.al.|[2402.12968](http://arxiv.org/abs/2402.12968)|null|
+|**2024-02-20**|**BronchoTrack: Airway Lumen Tracking for Branch-Level Bronchoscopic Localization**|Qingyao Tian et.al.|[2402.12763](http://arxiv.org/abs/2402.12763)|null|
+|**2024-02-20**|**Neuromorphic Synergy for Video Binarization**|Shijie Lin et.al.|[2402.12644](http://arxiv.org/abs/2402.12644)|**[link](https://github.com/eleboss/ebr)**|
+|**2024-02-19**|**UncertaintyTrack: Exploiting Detection and Localization Uncertainty in Multi-Object Tracking**|Chang Won Lee et.al.|[2402.12303](http://arxiv.org/abs/2402.12303)|null|
+|**2024-02-15**|**Beyond Kalman Filters: Deep Learning-Based Filters for Improved Object Tracking**|Momir Adžemović et.al.|[2402.09865](http://arxiv.org/abs/2402.09865)|null|
+|**2024-02-14**|**Design and Realization of a Benchmarking Testbed for Evaluating Autonomous Platooning Algorithms**|Michael Shaham et.al.|[2402.09233](http://arxiv.org/abs/2402.09233)|null|
+|**2024-02-20**|**Camera Calibration through Geometric Constraints from Rotation and Projection Matrices**|Muhammad Waleed et.al.|[2402.08437](http://arxiv.org/abs/2402.08437)|**[link](https://github.com/cvlablums/cvgl-camera-calibration)**|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
