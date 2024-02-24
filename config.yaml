@@ -23,7 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Human mesh recover":
-        filters" ["Human mesh recover", "Human pose estimation"]
+        filters: ["Human mesh recover", "Human pose estimation"]
     "Tracking":
         filters: ["person tracking", "vehicle tracking", "object tracking", "person re-idenfication", "person reid"]
     "SLAM": 
