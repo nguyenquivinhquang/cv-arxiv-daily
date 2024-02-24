@@ -401,7 +401,7 @@ def demo(**config):
             update_paper_links(json_file)
         else:    
             # update json data
-            update_json_file(json_file,data_collector)
+            update_json_file(json_file, data_collector)
         # json data to markdown
         json_to_md(json_file,md_file, task ='Update Readme', \
             show_badge = show_badge)
