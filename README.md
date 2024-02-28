@@ -37,11 +37,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**In Defense and Revival of Bayesian Filtering for Thermal Infrared Object Tracking**|Peng Gao et.al.|[2402.17098](http://arxiv.org/abs/2402.17098)|null|
 |**2024-02-26**|**SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking**|Yu Lin et.al.|[2402.16249](http://arxiv.org/abs/2402.16249)|null|
 |**2024-02-26**|**Real-Time Vehicle Detection and Urban Traffic Behavior Analysis Based on UAV Traffic Videos on Mobile Devices**|Yuan Zhu et.al.|[2402.16246](http://arxiv.org/abs/2402.16246)|null|
 |**2024-02-24**|**Multi-Object Tracking by Hierarchical Visual Representations**|Jinkun Cao et.al.|[2402.15895](http://arxiv.org/abs/2402.15895)|null|
 |**2024-02-24**|**Detection Is Tracking: Point Cloud Multi-Sweep Deep Learning Models Revisited**|Lingji Chen et.al.|[2402.15756](http://arxiv.org/abs/2402.15756)|null|
-|**2024-02-23**|**Reading Relevant Feature from Global Representation Memory for Visual Object Tracking**|Xinyu Zhou et.al.|[2402.14392](http://arxiv.org/abs/2402.14392)|null|
+|**2024-02-26**|**Reading Relevant Feature from Global Representation Memory for Visual Object Tracking**|Xinyu Zhou et.al.|[2402.14392](http://arxiv.org/abs/2402.14392)|null|
 |**2024-02-21**|**GDTM: An Indoor Geospatial Tracking Dataset with Distributed Multimodal Sensors**|Ho Lyun Jeong et.al.|[2402.14136](http://arxiv.org/abs/2402.14136)|**[link](https://github.com/nesl/gdtm)**|
 |**2024-02-20**|**OLViT: Multi-Modal State Tracking via Attention-Based Embeddings for Video-Grounded Dialog**|Adnen Abdessaied et.al.|[2402.13146](http://arxiv.org/abs/2402.13146)|null|
 |**2024-02-20**|**MapTrack: Tracking in the Map**|Fei Wang et.al.|[2402.12968](http://arxiv.org/abs/2402.12968)|null|
