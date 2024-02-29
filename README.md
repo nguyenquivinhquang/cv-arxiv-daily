@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-28**|**NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images**|Jingrui Yu et.al.|[2402.18196](http://arxiv.org/abs/2402.18196)|null|
 |**2024-02-22**|**VLPose: Bridging the Domain Gap in Pose Estimation with Language-Vision Tuning**|Jingyao Li et.al.|[2402.14456](http://arxiv.org/abs/2402.14456)|null|
 |**2024-02-18**|**Boosting Semi-Supervised 2D Human Pose Estimation by Revisiting Data Augmentation and Consistency Training**|Huayi Zhou et.al.|[2402.11566](http://arxiv.org/abs/2402.11566)|**[link](https://github.com/hnuzhy/multiaugs)**|
 |**2024-02-16**|**Occlusion Resilient 3D Human Pose Estimation**|Soumava Kumar Roy et.al.|[2402.11036](http://arxiv.org/abs/2402.11036)|null|
@@ -37,6 +38,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-28**|**Estimation of railway vehicle response for track geometry evaluation using branch Fourier neural operator**|Qingjing Wang et.al.|[2402.18366](http://arxiv.org/abs/2402.18366)|null|
+|**2024-02-28**|**EchoTrack: Auditory Referring Multi-Object Tracking for Autonomous Driving**|Jiacheng Lin et.al.|[2402.18302](http://arxiv.org/abs/2402.18302)|**[link](https://github.com/lab206/echotrack)**|
+|**2024-02-28**|**Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks**|Zhewei Wu et.al.|[2402.17976](http://arxiv.org/abs/2402.17976)|null|
+|**2024-02-27**|**SWTrack: Multiple Hypothesis Sliding Window 3D Multi-Object Tracking**|Sandro Papais et.al.|[2402.17892](http://arxiv.org/abs/2402.17892)|null|
 |**2024-02-27**|**In Defense and Revival of Bayesian Filtering for Thermal Infrared Object Tracking**|Peng Gao et.al.|[2402.17098](http://arxiv.org/abs/2402.17098)|null|
 |**2024-02-26**|**SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking**|Yu Lin et.al.|[2402.16249](http://arxiv.org/abs/2402.16249)|null|
 |**2024-02-26**|**Real-Time Vehicle Detection and Urban Traffic Behavior Analysis Based on UAV Traffic Videos on Mobile Devices**|Yuan Zhu et.al.|[2402.16246](http://arxiv.org/abs/2402.16246)|null|
