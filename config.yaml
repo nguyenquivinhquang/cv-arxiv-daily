@@ -27,6 +27,6 @@ keywords:
     "Tracking":
         filters: ["person tracking", "vehicle tracking", "object tracking", "person re-idenfication", "person reid"]
     "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
+        filters: ["SLAM", "Visual Odometry", "Dynamic SLAM", "camera pose estimation"]
     "SFM":
         filters: ["SFM", "Structure from Motion"]
