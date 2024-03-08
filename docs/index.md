@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.07
+## Updated on 2024.03.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Human mesh recovery
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-04**|**PowerSkel: A Device-Free Framework Using CSI Signal for Human Skeleton Estimation in Power Station**|Cunyi Yin et.al.|[2403.01913](http://arxiv.org/abs/2403.01913)|null|
+|**2024-03-04**|**PowerSkel: A Device-Free Framework Using CSI Signal for Human Skeleton Estimation in Power Station**|Cunyi Yin et.al.|[2403.01913](http://arxiv.org/abs/2403.01913)|**[link](https://github.com/power-operation/ckdformer)**|
 |**2024-03-01**|**Graph Convolutional Neural Networks for Automated Echocardiography View Recognition: A Holistic Approach**|Sarina Thomas et.al.|[2402.19062](http://arxiv.org/abs/2402.19062)|null|
 |**2024-02-29**|**Deep Learning for 3D Human Pose Estimation and Mesh Recovery: A Survey**|Yang Liu et.al.|[2402.18844](http://arxiv.org/abs/2402.18844)|**[link](https://github.com/liuyangme/sota-3dhpe-hmr)**|
 |**2024-02-28**|**NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images**|Jingrui Yu et.al.|[2402.18196](http://arxiv.org/abs/2402.18196)|null|
