@@ -44,6 +44,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**A Study on Centralised and Decentralised Swarm Robotics Architecture for Part Delivery System**|Angelos Dimakos et.al.|[2403.07635](http://arxiv.org/abs/2403.07635)|null|
 |**2024-03-12**|**LiDAR Point Cloud-based Multiple Vehicle Tracking with Probabilistic Measurement-Region Association**|Guanhua Ding et.al.|[2403.06423](http://arxiv.org/abs/2403.06423)|null|
 |**2024-03-09**|**SSF-Net: Spatial-Spectral Fusion Network with Spectral Angle Awareness for Hyperspectral Object Tracking**|Hanzheng Wang et.al.|[2403.05852](http://arxiv.org/abs/2403.05852)|null|
 |**2024-03-09**|**Long-term Frame-Event Visual Tracking: Benchmark Dataset and Baseline**|Xiao Wang et.al.|[2403.05839](http://arxiv.org/abs/2403.05839)|null|
