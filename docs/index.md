@@ -14,10 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-17**|**A Dual-Augmentor Framework for Domain Generalization in 3D Human Pose Estimation**|Qucheng Peng et.al.|[2403.11310](http://arxiv.org/abs/2403.11310)|null|
 |**2024-03-14**|**Improving Real-Time Omnidirectional 3D Multi-Person Human Pose Estimation with People Matching and Unsupervised 2D-3D Lifting**|Pawel Knap et.al.|[2403.09437](http://arxiv.org/abs/2403.09437)|null|
 |**2024-03-13**|**Data Augmentation in Human-Centric Vision**|Wentao Jiang et.al.|[2403.08650](http://arxiv.org/abs/2403.08650)|null|
 |**2024-03-11**|**Transformer-based Fusion of 2D-pose and Spatio-temporal Embeddings for Distracted Driver Action Recognition**|Erkut Akdag et.al.|[2403.06577](http://arxiv.org/abs/2403.06577)|null|
-|**2024-03-10**|**Diffusion Models Trained with Large Data Are Transferable Visual Models**|Guangkai Xu et.al.|[2403.06090](http://arxiv.org/abs/2403.06090)|null|
+|**2024-03-15**|**Diffusion Models Trained with Large Data Are Transferable Visual Models**|Guangkai Xu et.al.|[2403.06090](http://arxiv.org/abs/2403.06090)|null|
 |**2024-03-07**|**Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser**|Qingyuan Cai et.al.|[2403.04444](http://arxiv.org/abs/2403.04444)|null|
 |**2024-03-04**|**PowerSkel: A Device-Free Framework Using CSI Signal for Human Skeleton Estimation in Power Station**|Cunyi Yin et.al.|[2403.01913](http://arxiv.org/abs/2403.01913)|**[link](https://github.com/power-operation/ckdformer)**|
 |**2024-03-01**|**Graph Convolutional Neural Networks for Automated Echocardiography View Recognition: A Holistic Approach**|Sarina Thomas et.al.|[2402.19062](http://arxiv.org/abs/2402.19062)|null|
@@ -38,6 +39,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-17**|**NetTrack: Tracking Highly Dynamic Objects with a Net**|Guangze Zheng et.al.|[2403.11186](http://arxiv.org/abs/2403.11186)|null|
+|**2024-03-16**|**View-Centric Multi-Object Tracking with Homographic Matching in Moving UAV**|Deyi Ji et.al.|[2403.10830](http://arxiv.org/abs/2403.10830)|null|
+|**2024-03-16**|**Exploring Learning-based Motion Models in Multi-Object Tracking**|Hsiang-Wei Huang et.al.|[2403.10826](http://arxiv.org/abs/2403.10826)|null|
+|**2024-03-16**|**Bidirectional Multi-Step Domain Generalization for Visible-Infrared Person Re-Identification**|Mahdi Alehdaghi et.al.|[2403.10782](http://arxiv.org/abs/2403.10782)|null|
+|**2024-03-15**|**NeuFlow: Real-time, High-accuracy Optical Flow Estimation on Robots Using Edge Devices**|Zhiyong Zhang et.al.|[2403.10425](http://arxiv.org/abs/2403.10425)|**[link](https://github.com/neufieldrobotics/neuflow)**|
 |**2024-03-14**|**OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning**|Lingyi Hong et.al.|[2403.09634](http://arxiv.org/abs/2403.09634)|null|
 |**2024-03-13**|**Data Augmentation in Human-Centric Vision**|Wentao Jiang et.al.|[2403.08650](http://arxiv.org/abs/2403.08650)|null|
 |**2024-03-13**|**Object Permanence Filter for Robust Tracking with Interactive Robots**|Shaoting Peng et.al.|[2403.08231](http://arxiv.org/abs/2403.08231)|null|
@@ -79,6 +85,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639](http://arxiv.org/abs/2403.11639)|null|
+|**2024-03-16**|**Efficient Domain Adaptation for Endoscopic Visual Odometry**|Junyang Wu et.al.|[2403.10860](http://arxiv.org/abs/2403.10860)|null|
+|**2024-03-14**|**Visual Inertial Odometry using Focal Plane Binary Features (BIT-VIO)**|Matthew Lisondra et.al.|[2403.09882](http://arxiv.org/abs/2403.09882)|null|
 |**2024-03-05**|**FAR: Flexible, Accurate and Robust 6DoF Relative Camera Pose Estimation**|Chris Rockwell et.al.|[2403.03221](http://arxiv.org/abs/2403.03221)|null|
 |**2024-03-02**|**Single-image camera calibration with model-free distortion correction**|Katia Genovese et.al.|[2403.01263](http://arxiv.org/abs/2403.01263)|null|
 |**2024-03-02**|**Grid-based Fast and Structural Visual Odometry**|Zhang Zhihe et.al.|[2403.01110](http://arxiv.org/abs/2403.01110)|null|
@@ -101,6 +110,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639](http://arxiv.org/abs/2403.11639)|null|
 |**2024-03-14**|**Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting**|Jaewoo Jung et.al.|[2403.09413](http://arxiv.org/abs/2403.09413)|**[link](https://github.com/KU-CVLAB/RAIN-GS)**|
 |**2024-03-13**|**Refractive COLMAP: Refractive Structure-from-Motion Revisited**|Mengkun She et.al.|[2403.08640](http://arxiv.org/abs/2403.08640)|null|
 |**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
