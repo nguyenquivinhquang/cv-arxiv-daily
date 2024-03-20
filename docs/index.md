@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.19
+## Updated on 2024.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Human mesh recovery
@@ -92,7 +92,7 @@ layout: default
 |**2024-03-02**|**Single-image camera calibration with model-free distortion correction**|Katia Genovese et.al.|[2403.01263](http://arxiv.org/abs/2403.01263)|null|
 |**2024-03-02**|**Grid-based Fast and Structural Visual Odometry**|Zhang Zhihe et.al.|[2403.01110](http://arxiv.org/abs/2403.01110)|null|
 |**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|**[link](https://github.com/master-cai/voloc)**|
-|**2024-02-22**|**Cameras as Rays: Pose Estimation via Ray Diffusion**|Jason Y. Zhang et.al.|[2402.14817](http://arxiv.org/abs/2402.14817)|null|
+|**2024-03-19**|**Cameras as Rays: Pose Estimation via Ray Diffusion**|Jason Y. Zhang et.al.|[2402.14817](http://arxiv.org/abs/2402.14817)|null|
 |**2024-02-22**|**Secure Navigation using Landmark-based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2402.14280](http://arxiv.org/abs/2402.14280)|null|
 |**2024-02-21**|**Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments**|Lukas Schmid et.al.|[2402.13817](http://arxiv.org/abs/2402.13817)|**[link](https://github.com/mit-spark/khronos)**|
 |**2024-02-19**|**Landmark-based Localization using Stereo Vision and Deep Learning in GPS-Denied Battlefield Environment**|Ganesh Sapkota et.al.|[2402.12551](http://arxiv.org/abs/2402.12551)|null|
