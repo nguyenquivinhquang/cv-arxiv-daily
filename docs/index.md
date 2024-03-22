@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**Exploring 3D Human Pose Estimation and Forecasting from the Robot's Perspective: The HARPER Dataset**|Andrea Avogaro. Andrea Toaiari et.al.|[2403.14447](http://arxiv.org/abs/2403.14447)|null|
 |**2024-03-19**|**Self-learning Canonical Space for Multi-view 3D Human Pose Estimation**|Xiaoben Li et.al.|[2403.12440](http://arxiv.org/abs/2403.12440)|null|
 |**2024-03-19**|**XPose: eXplainable Human Pose Estimation**|Luyu Qiu et.al.|[2403.12370](http://arxiv.org/abs/2403.12370)|null|
 |**2024-03-20**|**A Dual-Augmentor Framework for Domain Generalization in 3D Human Pose Estimation**|Qucheng Peng et.al.|[2403.11310](http://arxiv.org/abs/2403.11310)|null|
