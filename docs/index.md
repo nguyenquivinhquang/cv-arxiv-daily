@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones**|Luca Crupi et.al.|[2404.02567](http://arxiv.org/abs/2404.02567)|null|
 |**2024-04-02**|**SelfPose3d: Self-Supervised Multi-Person Multi-View 3d Pose Estimation**|Vinkle Srivastav et.al.|[2404.02041](http://arxiv.org/abs/2404.02041)|null|
 |**2024-04-02**|**KTPFormer: Kinematics and Trajectory Prior Knowledge-Enhanced Transformer for 3D Human Pose Estimation**|Jihua Peng et.al.|[2404.00658](http://arxiv.org/abs/2404.00658)|**[link](https://github.com/JihuaPeng/KTPFormer)**|
 |**2024-04-01**|**Video-Based Human Pose Regression via Decoupled Space-Time Aggregation**|Jijie He et.al.|[2403.19926](http://arxiv.org/abs/2403.19926)|**[link](https://github.com/zgspose/dsta)**|
@@ -51,6 +52,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Representation Alignment Contrastive Regularization for Multi-Object Tracking**|Shujie Chen et.al.|[2404.02562](http://arxiv.org/abs/2404.02562)|null|
 |**2024-03-29**|**Bayesian Nonparametrics: An Alternative to Deep Learning**|Bahman Moraffah et.al.|[2404.00085](http://arxiv.org/abs/2404.00085)|null|
 |**2024-03-29**|**MTMMC: A Large-Scale Real-World Multi-Modal Camera Tracking Benchmark**|Sanghyun Woo et.al.|[2403.20225](http://arxiv.org/abs/2403.20225)|null|
 |**2024-03-29**|**SceneTracker: Long-term Scene Flow Estimation Network**|Bo Wang et.al.|[2403.19924](http://arxiv.org/abs/2403.19924)|null|
