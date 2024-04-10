@@ -54,6 +54,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**LRR: Language-Driven Resamplable Continuous Representation against Adversarial Tracking Attacks**|Jianlang Chen et.al.|[2404.06247](http://arxiv.org/abs/2404.06247)|**[link](https://github.com/tsingqguo/robustot)**|
 |**2024-04-08**|**DepthMOT: Depth Cues Lead to a Strong Multi-Object Tracker**|Jiapeng Wu et.al.|[2404.05518](http://arxiv.org/abs/2404.05518)|**[link](https://github.com/jackwoo0831/depthmot)**|
 |**2024-04-08**|**Self-Supervised Multi-Object Tracking with Path Consistency**|Zijia Lu et.al.|[2404.05136](http://arxiv.org/abs/2404.05136)|null|
 |**2024-04-07**|**Spatial Cognition from Egocentric Video: Out of Sight, Not Out of Mind**|Chiara Plizzari et.al.|[2404.05072](http://arxiv.org/abs/2404.05072)|null|
