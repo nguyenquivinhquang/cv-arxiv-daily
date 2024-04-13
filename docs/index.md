@@ -134,7 +134,7 @@ layout: default
 |**2024-04-06**|**Salient Sparse Visual Odometry With Pose-Only Supervision**|Siyu Chen et.al.|[2404.04677](http://arxiv.org/abs/2404.04677)|null|
 |**2024-03-25**|**A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments**|Gianluca D'Amico et.al.|[2403.17084](http://arxiv.org/abs/2403.17084)|null|
 |**2024-03-19**|**On Designing Consistent Covariance Recovery from a Deep Learning Visual Odometry Engine**|Jagatpreet Singh Nir et.al.|[2403.13170](http://arxiv.org/abs/2403.13170)|null|
-|**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959](http://arxiv.org/abs/2403.12959)|null|
+|**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959](http://arxiv.org/abs/2403.12959)|**[link](https://github.com/openxrlab/xrfeitoria)**|
 |**2024-04-07**|**Human Mesh Recovery from Arbitrary Multi-view Images**|Xiaoben Li et.al.|[2403.12434](http://arxiv.org/abs/2403.12434)|null|
 |**2024-03-18**|**The POLAR Traverse Dataset: A Dataset of Stereo Camera Images Simulating Traverses across Lunar Polar Terrain under Extreme Lighting Conditions**|Margaret Hansen et.al.|[2403.12194](http://arxiv.org/abs/2403.12194)|null|
 |**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639](http://arxiv.org/abs/2403.11639)|null|
