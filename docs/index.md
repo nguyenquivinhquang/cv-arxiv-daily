@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.17
+## Updated on 2024.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Human mesh recovery
@@ -18,7 +18,7 @@ layout: default
 |**2024-04-04**|**SDPose: Tokenized Pose Estimation via Circulation-Guide Self-Distillation**|Sichen Chen et.al.|[2404.03518](http://arxiv.org/abs/2404.03518)|**[link](https://github.com/martyrpenink/sdpose)**|
 |**2024-04-04**|**Multi Positive Contrastive Learning with Pose-Consistent Generated Images**|Sho Inayoshi et.al.|[2404.03256](http://arxiv.org/abs/2404.03256)|null|
 |**2024-04-03**|**Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones**|Luca Crupi et.al.|[2404.02567](http://arxiv.org/abs/2404.02567)|null|
-|**2024-04-02**|**SelfPose3d: Self-Supervised Multi-Person Multi-View 3d Pose Estimation**|Vinkle Srivastav et.al.|[2404.02041](http://arxiv.org/abs/2404.02041)|null|
+|**2024-04-02**|**SelfPose3d: Self-Supervised Multi-Person Multi-View 3d Pose Estimation**|Vinkle Srivastav et.al.|[2404.02041](http://arxiv.org/abs/2404.02041)|**[link](https://github.com/camma-public/selfpose3d)**|
 |**2024-04-02**|**KTPFormer: Kinematics and Trajectory Prior Knowledge-Enhanced Transformer for 3D Human Pose Estimation**|Jihua Peng et.al.|[2404.00658](http://arxiv.org/abs/2404.00658)|**[link](https://github.com/JihuaPeng/KTPFormer)**|
 |**2024-04-01**|**Video-Based Human Pose Regression via Decoupled Space-Time Aggregation**|Jijie He et.al.|[2403.19926](http://arxiv.org/abs/2403.19926)|**[link](https://github.com/zgspose/dsta)**|
 |**2024-03-26**|**EgoPoseFormer: A Simple Baseline for Egocentric 3D Human Pose Estimation**|Chenhongyi Yang et.al.|[2403.18080](http://arxiv.org/abs/2403.18080)|null|
