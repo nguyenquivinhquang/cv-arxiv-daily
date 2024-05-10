@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-08**|**Adversary-Guided Motion Retargeting for Skeleton Anonymization**|Thomas Carr et.al.|[2405.05428](http://arxiv.org/abs/2405.05428)|null|
 |**2024-05-08**|**FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models**|Jinglin Xu et.al.|[2405.05216](http://arxiv.org/abs/2405.05216)|**[link](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)**|
 |**2024-05-05**|**Multi-hop graph transformer network for 3D human pose estimation**|Zaedul Islam et.al.|[2405.03055](http://arxiv.org/abs/2405.03055)|null|
 |**2024-05-03**|**Probablistic Restoration with Adaptive Noise Sampling for 3D Human Pose Estimation**|Xianzhou Zeng et.al.|[2405.02114](http://arxiv.org/abs/2405.02114)|**[link](https://github.com/xzhouzeng/prpose)**|
@@ -73,6 +74,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**Outlier-robust Kalman Filtering through Generalised Bayes**|Gerardo Duran-Martin et.al.|[2405.05646](http://arxiv.org/abs/2405.05646)|**[link](https://github.com/gerdm/weighted-likelihood-filter)**|
 |**2024-05-08**|**MOTLEE: Collaborative Multi-Object Tracking Using Temporal Consistency for Neighboring Robot Frame Alignment**|Mason B. Peterson et.al.|[2405.05210](http://arxiv.org/abs/2405.05210)|null|
 |**2024-05-08**|**TENet: Targetness Entanglement Incorporating with Multi-Scale Pooling and Mutually-Guided Fusion for RGB-E Object Tracking**|Pengcheng Shao et.al.|[2405.05004](http://arxiv.org/abs/2405.05004)|null|
 |**2024-05-08**|**Harnessing the Power of MLLMs for Transferable Text-to-Image Person ReID**|Wentao Tan et.al.|[2405.04940](http://arxiv.org/abs/2405.04940)|**[link](https://github.com/wentaotan/mllm4text-reid)**|
