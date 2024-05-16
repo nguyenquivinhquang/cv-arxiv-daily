@@ -66,6 +66,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**Color Space Learning for Cross-Color Person Re-Identification**|Jiahao Nie et.al.|[2405.09487](http://arxiv.org/abs/2405.09487)|**[link](https://github.com/niejiahao1998/csl)**|
+|**2024-05-14**|**Learning Correspondence for Deformable Objects**|Priya Sundaresan et.al.|[2405.08996](http://arxiv.org/abs/2405.08996)|null|
+|**2024-05-14**|**ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association**|Shuxiao Ding et.al.|[2405.08909](http://arxiv.org/abs/2405.08909)|**[link](https://github.com/dsx0511/ada-track)**|
 |**2024-05-12**|**MAML MOT: Multiple Object Tracking based on Meta-Learning**|Jiayi Chen et.al.|[2405.07272](http://arxiv.org/abs/2405.07272)|null|
 |**2024-05-10**|**Common Corruptions for Enhancing and Evaluating Robustness in Air-to-Air Visual Object Detection**|Anastasios Arsenos et.al.|[2405.06765](http://arxiv.org/abs/2405.06765)|null|
 |**2024-05-10**|**Ensuring UAV Safety: A Vision-only and Real-time Framework for Collision Avoidance Through Object Detection, Tracking, and Distance Estimation**|Vasileios Karampinis et.al.|[2405.06749](http://arxiv.org/abs/2405.06749)|null|
