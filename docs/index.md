@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.15
+## Updated on 2024.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Human mesh recovery
@@ -23,7 +23,7 @@ layout: default
 |**2024-04-27**|**Hybrid 3D Human Pose Estimation with Monocular Video and Sparse IMUs**|Yiming Bao et.al.|[2404.17837](http://arxiv.org/abs/2404.17837)|null|
 |**2024-04-24**|**3D Human Pose Estimation with Occlusions: Introducing BlendMimic3D Dataset and GCN Refinement**|Filipa Lino et.al.|[2404.16136](http://arxiv.org/abs/2404.16136)|**[link](https://github.com/filipalino/gcn-pose-refinement)**|
 |**2024-04-23**|**Semi-supervised 2D Human Pose Estimation via Adaptive Keypoint Masking**|Kexin Meng et.al.|[2404.14835](http://arxiv.org/abs/2404.14835)|null|
-|**2024-04-23**|**UPose3D: Uncertainty-Aware 3D Human Pose Estimation with Cross-View and Temporal Cues**|Vandad Davoodnia et.al.|[2404.14634](http://arxiv.org/abs/2404.14634)|null|
+|**2024-05-14**|**UPose3D: Uncertainty-Aware 3D Human Pose Estimation with Cross-View and Temporal Cues**|Vandad Davoodnia et.al.|[2404.14634](http://arxiv.org/abs/2404.14634)|null|
 |**2024-04-16**|**LWIRPOSE: A novel LWIR Thermal Image Dataset and Benchmark**|Avinash Upadhyay et.al.|[2404.10212](http://arxiv.org/abs/2404.10212)|**[link](https://github.com/avinres/lwirpose)**|
 |**2024-04-30**|**An Animation-based Augmentation Approach for Action Recognition from Discontinuous Video**|Xingyu Song et.al.|[2404.06741](http://arxiv.org/abs/2404.06741)|null|
 |**2024-04-04**|**SDPose: Tokenized Pose Estimation via Circulation-Guide Self-Distillation**|Sichen Chen et.al.|[2404.03518](http://arxiv.org/abs/2404.03518)|**[link](https://github.com/martyrpenink/sdpose)**|
@@ -71,7 +71,7 @@ layout: default
 |**2024-05-10**|**Ensuring UAV Safety: A Vision-only and Real-time Framework for Collision Avoidance Through Object Detection, Tracking, and Distance Estimation**|Vasileios Karampinis et.al.|[2405.06749](http://arxiv.org/abs/2405.06749)|null|
 |**2024-05-10**|**Multi-Object Tracking in the Dark**|Xinzhe Wang et.al.|[2405.06600](http://arxiv.org/abs/2405.06600)|**[link](https://github.com/ying-fu/lmot)**|
 |**2024-05-09**|**Outlier-robust Kalman Filtering through Generalised Bayes**|Gerardo Duran-Martin et.al.|[2405.05646](http://arxiv.org/abs/2405.05646)|**[link](https://github.com/gerdm/weighted-likelihood-filter)**|
-|**2024-05-08**|**MOTLEE: Collaborative Multi-Object Tracking Using Temporal Consistency for Neighboring Robot Frame Alignment**|Mason B. Peterson et.al.|[2405.05210](http://arxiv.org/abs/2405.05210)|null|
+|**2024-05-08**|**MOTLEE: Collaborative Multi-Object Tracking Using Temporal Consistency for Neighboring Robot Frame Alignment**|Mason B. Peterson et.al.|[2405.05210](http://arxiv.org/abs/2405.05210)|**[link](https://github.com/mit-acl/motlee)**|
 |**2024-05-08**|**TENet: Targetness Entanglement Incorporating with Multi-Scale Pooling and Mutually-Guided Fusion for RGB-E Object Tracking**|Pengcheng Shao et.al.|[2405.05004](http://arxiv.org/abs/2405.05004)|**[link](https://github.com/ssspc333/tenet)**|
 |**2024-05-08**|**Harnessing the Power of MLLMs for Transferable Text-to-Image Person ReID**|Wentao Tan et.al.|[2405.04940](http://arxiv.org/abs/2405.04940)|**[link](https://github.com/wentaotan/mllm4text-reid)**|
 |**2024-05-07**|**DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving**|Chen Min et.al.|[2405.04390](http://arxiv.org/abs/2405.04390)|null|
@@ -169,7 +169,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-12**|**NGD-SLAM: Towards Real-Time SLAM for Dynamic Environments without GPU**|Yuhao Zhang et.al.|[2405.07392](http://arxiv.org/abs/2405.07392)|null|
+|**2024-05-12**|**NGD-SLAM: Towards Real-Time SLAM for Dynamic Environments without GPU**|Yuhao Zhang et.al.|[2405.07392](http://arxiv.org/abs/2405.07392)|**[link](https://github.com/yuhaozhang7/NGD-SLAM)**|
 |**2024-05-10**|**MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization**|Pengcheng Zhu et.al.|[2405.06241](http://arxiv.org/abs/2405.06241)|null|
 |**2024-05-08**|**GISR: Geometric Initialization and Silhouette-based Refinement for Single-View Robot Pose and Configuration Estimation**|Ivan Bilić et.al.|[2405.04890](http://arxiv.org/abs/2405.04890)|null|
 |**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290](http://arxiv.org/abs/2405.04290)|null|
