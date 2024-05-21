@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.20
+## Updated on 2024.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Human mesh recovery
@@ -66,6 +66,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Air Signing and Privacy-Preserving Signature Verification for Digital Documents**|P. Sarveswarasarma et.al.|[2405.10868](http://arxiv.org/abs/2405.10868)|null|
+|**2024-05-16**|**A Novel Bounding Box Regression Method for Single Object Tracking**|Omar Abdelaziz et.al.|[2405.10444](http://arxiv.org/abs/2405.10444)|null|
+|**2024-05-16**|**Beyond Traditional Single Object Tracking: A Survey**|Omar Abdelaziz et.al.|[2405.10439](http://arxiv.org/abs/2405.10439)|null|
 |**2024-05-16**|**Spatial Cognition: a Wave Hypothesis**|Robert Worden et.al.|[2405.10112](http://arxiv.org/abs/2405.10112)|null|
 |**2024-05-15**|**Color Space Learning for Cross-Color Person Re-Identification**|Jiahao Nie et.al.|[2405.09487](http://arxiv.org/abs/2405.09487)|**[link](https://github.com/niejiahao1998/csl)**|
 |**2024-05-14**|**Learning Correspondence for Deformable Objects**|Priya Sundaresan et.al.|[2405.08996](http://arxiv.org/abs/2405.08996)|null|
