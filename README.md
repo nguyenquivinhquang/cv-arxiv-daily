@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-19**|**Cross-Domain Knowledge Distillation for Low-Resolution Human Pose Estimation**|Zejun Gu et.al.|[2405.11448](http://arxiv.org/abs/2405.11448)|null|
 |**2024-05-08**|**Adversary-Guided Motion Retargeting for Skeleton Anonymization**|Thomas Carr et.al.|[2405.05428](http://arxiv.org/abs/2405.05428)|null|
 |**2024-05-08**|**FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models**|Jinglin Xu et.al.|[2405.05216](http://arxiv.org/abs/2405.05216)|**[link](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)**|
 |**2024-05-05**|**Multi-hop graph transformer network for 3D human pose estimation**|Zaedul Islam et.al.|[2405.03055](http://arxiv.org/abs/2405.03055)|null|
@@ -74,6 +75,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**|Xuchen Li et.al.|[2405.12139](http://arxiv.org/abs/2405.12139)|null|
+|**2024-05-19**|**Track Anything Rapter(TAR)**|Tharun V. Puthanveettil et.al.|[2405.11655](http://arxiv.org/abs/2405.11655)|null|
+|**2024-05-19**|**RobMOT: Robust 3D Multi-Object Tracking by Observational Noise and State Estimation Drift Mitigation on LiDAR PointCloud**|Mohamed Nagy et.al.|[2405.11536](http://arxiv.org/abs/2405.11536)|null|
+|**2024-05-18**|**City-Scale Multi-Camera Vehicle Tracking System with Improved Self-Supervised Camera Link Model**|Yuqiang Lin et.al.|[2405.11345](http://arxiv.org/abs/2405.11345)|null|
 |**2024-05-17**|**Air Signing and Privacy-Preserving Signature Verification for Digital Documents**|P. Sarveswarasarma et.al.|[2405.10868](http://arxiv.org/abs/2405.10868)|null|
 |**2024-05-16**|**A Novel Bounding Box Regression Method for Single Object Tracking**|Omar Abdelaziz et.al.|[2405.10444](http://arxiv.org/abs/2405.10444)|null|
 |**2024-05-16**|**Beyond Traditional Single Object Tracking: A Survey**|Omar Abdelaziz et.al.|[2405.10439](http://arxiv.org/abs/2405.10439)|null|
@@ -186,6 +191,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120](http://arxiv.org/abs/2405.12120)|null|
 |**2024-05-17**|**Toon3D: Seeing Cartoons from a New Perspective**|Ethan Weber et.al.|[2405.10320](http://arxiv.org/abs/2405.10320)|null|
 |**2024-05-12**|**NGD-SLAM: Towards Real-Time SLAM for Dynamic Environments without GPU**|Yuhao Zhang et.al.|[2405.07392](http://arxiv.org/abs/2405.07392)|**[link](https://github.com/yuhaozhang7/NGD-SLAM)**|
 |**2024-05-10**|**MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization**|Pengcheng Zhu et.al.|[2405.06241](http://arxiv.org/abs/2405.06241)|null|
