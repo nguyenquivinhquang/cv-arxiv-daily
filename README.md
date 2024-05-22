@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-19**|**Focus on Low-Resolution Information: Multi-Granular Information-Lossless Model for Low-Resolution Human Pose Estimation**|Zejun Gu et.al.|[2405.12247](http://arxiv.org/abs/2405.12247)|null|
 |**2024-05-19**|**Cross-Domain Knowledge Distillation for Low-Resolution Human Pose Estimation**|Zejun Gu et.al.|[2405.11448](http://arxiv.org/abs/2405.11448)|null|
 |**2024-05-08**|**Adversary-Guided Motion Retargeting for Skeleton Anonymization**|Thomas Carr et.al.|[2405.05428](http://arxiv.org/abs/2405.05428)|null|
 |**2024-05-08**|**FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models**|Jinglin Xu et.al.|[2405.05216](http://arxiv.org/abs/2405.05216)|**[link](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)**|
