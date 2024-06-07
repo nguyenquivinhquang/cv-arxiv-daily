@@ -81,6 +81,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Matching Anything by Segmenting Anything**|Siyuan Li et.al.|[2406.04221](http://arxiv.org/abs/2406.04221)|**[link](https://github.com/siyuanliii/masa)**|
+|**2024-06-06**|**ActionReasoningBench: Reasoning about Actions with and without Ramification Constraints**|Divij Handa et.al.|[2406.04046](http://arxiv.org/abs/2406.04046)|null|
 |**2024-06-04**|**UA-Track: Uncertainty-Aware End-to-End 3D Multi-Object Tracking**|Lijun Zhou et.al.|[2406.02147](http://arxiv.org/abs/2406.02147)|null|
 |**2024-06-03**|**A Robust Filter for Marker-less Multi-person Tracking in Human-Robot Interaction Scenarios**|Enrico Martini et.al.|[2406.01832](http://arxiv.org/abs/2406.01832)|**[link](https://github.com/penn-figueroa-lab/markerless-human-perception)**|
 |**2024-06-03**|**Reproducibility Study on Adversarial Attacks Against Robust Transformer Trackers**|Fatemeh Nourilenjan Nokabadi et.al.|[2406.01765](http://arxiv.org/abs/2406.01765)|**[link](https://github.com/fatemehn/reproducibilitystudy)**|
@@ -220,6 +222,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**GLACE: Global Local Accelerated Coordinate Encoding**|Fangjinhua Wang et.al.|[2406.04340](http://arxiv.org/abs/2406.04340)|**[link](https://github.com/cvg/glace)**|
 |**2024-06-04**|**CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation**|Dejia Xu et.al.|[2406.02509](http://arxiv.org/abs/2406.02509)|null|
 |**2024-06-03**|**The Empirical Impact of Forgetting and Transfer in Continual Visual Odometry**|Paolo Cudrano et.al.|[2406.01797](http://arxiv.org/abs/2406.01797)|null|
 |**2024-06-03**|**Self-Supervised Geometry-Guided Initialization for Robust Monocular Visual Odometry**|Takayuki Kanai et.al.|[2406.00929](http://arxiv.org/abs/2406.00929)|null|
@@ -274,6 +277,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Localized Gaussian Point Management**|Haosen Yang et.al.|[2406.04251](http://arxiv.org/abs/2406.04251)|null|
 |**2024-06-04**|**CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation**|Dejia Xu et.al.|[2406.02509](http://arxiv.org/abs/2406.02509)|null|
 |**2024-05-29**|**Neural Radiance Fields for Novel View Synthesis in Monocular Gastroscopy**|Zijie Jiang et.al.|[2405.18863](http://arxiv.org/abs/2405.18863)|null|
 |**2024-05-29**|**3D Reconstruction with Fast Dipole Sums**|Hanyu Chen et.al.|[2405.16788](http://arxiv.org/abs/2405.16788)|null|
