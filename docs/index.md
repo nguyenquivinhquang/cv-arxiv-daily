@@ -73,6 +73,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Haptic Repurposing with GenAI**|Haoyu Wang et.al.|[2406.07228](http://arxiv.org/abs/2406.07228)|null|
+|**2024-06-11**|**UVIS: Unsupervised Video Instance Segmentation**|Shuaiyi Huang et.al.|[2406.06908](http://arxiv.org/abs/2406.06908)|null|
 |**2024-06-09**|**ControlLoc: Physical-World Hijacking Attack on Visual Perception in Autonomous Driving**|Chen Ma et.al.|[2406.05810](http://arxiv.org/abs/2406.05810)|null|
 |**2024-06-09**|**SlowPerception: Physical-World Latency Attack against Visual Perception in Autonomous Driving**|Chen Ma et.al.|[2406.05800](http://arxiv.org/abs/2406.05800)|null|
 |**2024-06-07**|**Bootstrapping Referring Multi-Object Tracking**|Yani Zhang et.al.|[2406.05039](http://arxiv.org/abs/2406.05039)|null|
