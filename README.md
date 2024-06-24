@@ -84,6 +84,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**LU2Net: A Lightweight Network for Real-time Underwater Image Enhancement**|Haodong Yang et.al.|[2406.14973](http://arxiv.org/abs/2406.14973)|null|
 |**2024-06-19**|**Velocity Analysis of Moving Objects in Earth Observation Satellite Images Using Multi-Spectral Push Broom Scanning**|Eric Keto et.al.|[2406.13710](http://arxiv.org/abs/2406.13710)|null|
 |**2024-06-19**|**Hierarchical IoU Tracking based on Interval**|Yunhao Du et.al.|[2406.13271](http://arxiv.org/abs/2406.13271)|null|
 |**2024-06-19**|**Towards Robust Evaluation: A Comprehensive Taxonomy of Datasets and Metrics for Open Domain Question Answering in the Era of Large Language Models**|Akchay Srivastava et.al.|[2406.13232](http://arxiv.org/abs/2406.13232)|null|
