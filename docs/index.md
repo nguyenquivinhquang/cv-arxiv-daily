@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.24
+## Updated on 2024.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Human mesh recovery
@@ -77,7 +77,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-21**|**LU2Net: A Lightweight Network for Real-time Underwater Image Enhancement**|Haodong Yang et.al.|[2406.14973](http://arxiv.org/abs/2406.14973)|null|
-|**2024-06-19**|**Velocity Analysis of Moving Objects in Earth Observation Satellite Images Using Multi-Spectral Push Broom Scanning**|Eric Keto et.al.|[2406.13710](http://arxiv.org/abs/2406.13710)|null|
+|**2024-06-22**|**Velocity Analysis of Moving Objects in Earth Observation Satellite Images Using Multi-Spectral Push Broom Scanning**|Eric Keto et.al.|[2406.13710](http://arxiv.org/abs/2406.13710)|null|
 |**2024-06-19**|**Hierarchical IoU Tracking based on Interval**|Yunhao Du et.al.|[2406.13271](http://arxiv.org/abs/2406.13271)|null|
 |**2024-06-19**|**Towards Robust Evaluation: A Comprehensive Taxonomy of Datasets and Metrics for Open Domain Question Answering in the Era of Large Language Models**|Akchay Srivastava et.al.|[2406.13232](http://arxiv.org/abs/2406.13232)|null|
 |**2024-06-17**|**Deep HM-SORT: Enhancing Multi-Object Tracking in Sports with Deep Features, Harmonic Mean, and Expansion IOU**|Matias Gran-Henriksen et.al.|[2406.12081](http://arxiv.org/abs/2406.12081)|null|
