@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-25**|**Automatic infant 2D pose estimation from videos: comparing seven deep neural network methods**|Filipe Gama et.al.|[2406.17382](http://arxiv.org/abs/2406.17382)|null|
+|**2024-06-27**|**Automatic infant 2D pose estimation from videos: comparing seven deep neural network methods**|Filipe Gama et.al.|[2406.17382](http://arxiv.org/abs/2406.17382)|null|
 |**2024-06-21**|**Efficient Human Pose Estimation: Leveraging Advanced Techniques with MediaPipe**|Sandeep Singh Sengar et.al.|[2406.15649](http://arxiv.org/abs/2406.15649)|**[link](https://github.com/avhixd/human_pose_estimation)**|
 |**2024-06-14**|**The BabyView dataset: High-resolution egocentric videos of infants' and young children's everyday experiences**|Bria Long et.al.|[2406.10447](http://arxiv.org/abs/2406.10447)|null|
 |**2024-06-14**|**OpenCapBench: A Benchmark to Bridge Pose Estimation and Biomechanics**|Yoni Gozlan et.al.|[2406.09788](http://arxiv.org/abs/2406.09788)|null|
@@ -80,15 +80,15 @@
 |**2024-01-30**|**Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers**|Jianbin Jiao et.al.|[2401.16700](http://arxiv.org/abs/2401.16700)|null|
 |**2024-01-28**|**Multi-Person 3D Pose Estimation from Multi-View Uncalibrated Depth Cameras**|Yu-Jhe Li et.al.|[2401.15616](http://arxiv.org/abs/2401.15616)|null|
 
-<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240628>back to top</a>)</p>
 
 ## Tracking
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-26**|**BiTrack: Bidirectional Offline 3D Multi-Object Tracking Using Camera-LiDAR Data**|Kemiao Huang et.al.|[2406.18414](http://arxiv.org/abs/2406.18414)|null|
+|**2024-06-26**|**BiTrack: Bidirectional Offline 3D Multi-Object Tracking Using Camera-LiDAR Data**|Kemiao Huang et.al.|[2406.18414](http://arxiv.org/abs/2406.18414)|**[link](https://github.com/kemo-huang/bitrack)**|
 |**2024-06-24**|**POPCat: Propagation of particles for complex annotation tasks**|Adam Srebrnjak Yang et.al.|[2406.17183](http://arxiv.org/abs/2406.17183)|null|
-|**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|null|
+|**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
 |**2024-06-24**|**The Progression of Transformers from Language to Vision to MOT: A Literature Review on Multi-Object Tracking with Transformers**|Abhi Kamboj et.al.|[2406.16784](http://arxiv.org/abs/2406.16784)|null|
 |**2024-06-21**|**LU2Net: A Lightweight Network for Real-time Underwater Image Enhancement**|Haodong Yang et.al.|[2406.14973](http://arxiv.org/abs/2406.14973)|null|
 |**2024-06-22**|**Velocity Analysis of Moving Objects in Earth Observation Satellite Images Using Multi-Spectral Push Broom Scanning**|Eric Keto et.al.|[2406.13710](http://arxiv.org/abs/2406.13710)|null|
@@ -242,7 +242,7 @@
 |**2024-02-14**|**Design and Realization of a Benchmarking Testbed for Evaluating Autonomous Platooning Algorithms**|Michael Shaham et.al.|[2402.09233](http://arxiv.org/abs/2402.09233)|null|
 |**2024-02-20**|**Camera Calibration through Geometric Constraints from Rotation and Projection Matrices**|Muhammad Waleed et.al.|[2402.08437](http://arxiv.org/abs/2402.08437)|**[link](https://github.com/cvlablums/cvgl-camera-calibration)**|
 
-<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240628>back to top</a>)</p>
 
 ## SLAM
 
@@ -301,7 +301,7 @@
 |**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887](http://arxiv.org/abs/2401.01887)|null|
 |**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|**[link](https://github.com/ZikangYuan/sr_livo)**|
 
-<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240628>back to top</a>)</p>
 
 ## SFM
 
@@ -353,7 +353,7 @@
 |**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937](http://arxiv.org/abs/2401.08937)|null|
 |**2024-01-16**|**Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions**|Yi-Fan Zuo et.al.|[2401.08043](http://arxiv.org/abs/2401.08043)|**[link](https://github.com/zyfff/canny-evt)**|
 
-<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240628>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

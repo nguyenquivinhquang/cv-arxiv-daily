@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Human mesh recovery
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-25**|**Automatic infant 2D pose estimation from videos: comparing seven deep neural network methods**|Filipe Gama et.al.|[2406.17382](http://arxiv.org/abs/2406.17382)|null|
+|**2024-06-27**|**Automatic infant 2D pose estimation from videos: comparing seven deep neural network methods**|Filipe Gama et.al.|[2406.17382](http://arxiv.org/abs/2406.17382)|null|
 |**2024-06-21**|**Efficient Human Pose Estimation: Leveraging Advanced Techniques with MediaPipe**|Sandeep Singh Sengar et.al.|[2406.15649](http://arxiv.org/abs/2406.15649)|**[link](https://github.com/avhixd/human_pose_estimation)**|
 |**2024-06-14**|**The BabyView dataset: High-resolution egocentric videos of infants' and young children's everyday experiences**|Bria Long et.al.|[2406.10447](http://arxiv.org/abs/2406.10447)|null|
 |**2024-06-14**|**OpenCapBench: A Benchmark to Bridge Pose Estimation and Biomechanics**|Yoni Gozlan et.al.|[2406.09788](http://arxiv.org/abs/2406.09788)|null|
@@ -78,9 +78,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-26**|**BiTrack: Bidirectional Offline 3D Multi-Object Tracking Using Camera-LiDAR Data**|Kemiao Huang et.al.|[2406.18414](http://arxiv.org/abs/2406.18414)|null|
+|**2024-06-26**|**BiTrack: Bidirectional Offline 3D Multi-Object Tracking Using Camera-LiDAR Data**|Kemiao Huang et.al.|[2406.18414](http://arxiv.org/abs/2406.18414)|**[link](https://github.com/kemo-huang/bitrack)**|
 |**2024-06-24**|**POPCat: Propagation of particles for complex annotation tasks**|Adam Srebrnjak Yang et.al.|[2406.17183](http://arxiv.org/abs/2406.17183)|null|
-|**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|null|
+|**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
 |**2024-06-24**|**The Progression of Transformers from Language to Vision to MOT: A Literature Review on Multi-Object Tracking with Transformers**|Abhi Kamboj et.al.|[2406.16784](http://arxiv.org/abs/2406.16784)|null|
 |**2024-06-21**|**LU2Net: A Lightweight Network for Real-time Underwater Image Enhancement**|Haodong Yang et.al.|[2406.14973](http://arxiv.org/abs/2406.14973)|null|
 |**2024-06-22**|**Velocity Analysis of Moving Objects in Earth Observation Satellite Images Using Multi-Spectral Push Broom Scanning**|Eric Keto et.al.|[2406.13710](http://arxiv.org/abs/2406.13710)|null|
