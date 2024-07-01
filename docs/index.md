@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**EPOCH: Jointly Estimating the 3D Pose of Cameras and Humans**|Nicola Garau et.al.|[2406.19726](http://arxiv.org/abs/2406.19726)|null|
 |**2024-06-27**|**Multimodal Visual-haptic pose estimation in the presence of transient occlusion**|Michael Zechmair et.al.|[2406.19323](http://arxiv.org/abs/2406.19323)|null|
 |**2024-06-27**|**Human Modelling and Pose Estimation Overview**|Pawel Knap et.al.|[2406.19290](http://arxiv.org/abs/2406.19290)|null|
 |**2024-06-27**|**Automatic infant 2D pose estimation from videos: comparing seven deep neural network methods**|Filipe Gama et.al.|[2406.17382](http://arxiv.org/abs/2406.17382)|null|
@@ -80,6 +81,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**PoliFormer: Scaling On-Policy RL with Transformers Results in Masterful Navigators**|Kuo-Hao Zeng et.al.|[2406.20083](http://arxiv.org/abs/2406.20083)|null|
+|**2024-06-28**|**eMoE-Tracker: Environmental MoE-based Transformer for Robust Event-guided Object Tracking**|Yucheng Chen et.al.|[2406.20024](http://arxiv.org/abs/2406.20024)|null|
+|**2024-06-28**|**StreamMOTP: Streaming and Unified Framework for Joint 3D Multi-Object Tracking and Trajectory Prediction**|Jiaheng Zhuang et.al.|[2406.19844](http://arxiv.org/abs/2406.19844)|null|
+|**2024-06-28**|**Basketball-SORT: An Association Method for Complex Multi-object Occlusion Problems in Basketball Multi-object Tracking**|Qingrui Hu et.al.|[2406.19655](http://arxiv.org/abs/2406.19655)|null|
 |**2024-06-26**|**BiTrack: Bidirectional Offline 3D Multi-Object Tracking Using Camera-LiDAR Data**|Kemiao Huang et.al.|[2406.18414](http://arxiv.org/abs/2406.18414)|**[link](https://github.com/kemo-huang/bitrack)**|
 |**2024-06-24**|**POPCat: Propagation of particles for complex annotation tasks**|Adam Srebrnjak Yang et.al.|[2406.17183](http://arxiv.org/abs/2406.17183)|null|
 |**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
