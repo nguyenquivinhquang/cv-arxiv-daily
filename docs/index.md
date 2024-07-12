@@ -87,6 +87,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Deep Learning-Based Robust Multi-Object Tracking via Fusion of mmWave Radar and Camera Sensors**|Lei Cheng et.al.|[2407.08049](http://arxiv.org/abs/2407.08049)|null|
 |**2024-07-08**|**GeoWATCH for Detecting Heavy Construction in Heterogeneous Time Series of Satellite Images**|Jon Crall et.al.|[2407.06337](http://arxiv.org/abs/2407.06337)|null|
 |**2024-07-07**|**Addressing single object tracking in satellite imagery through prompt-engineered solutions**|Athena Psalta et.al.|[2407.05518](http://arxiv.org/abs/2407.05518)|null|
 |**2024-07-09**|**P2P: Part-to-Part Motion Cues Guide a Strong Tracking Framework for LiDAR Point Clouds**|Jiahao Nie et.al.|[2407.05238](http://arxiv.org/abs/2407.05238)|**[link](https://github.com/haooozi/P2P)**|
@@ -265,6 +266,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Hybrid Structure-from-Motion and Camera Relocalization for Enhanced Egocentric Localization**|Jinjie Mai et.al.|[2407.08023](http://arxiv.org/abs/2407.08023)|**[link](https://github.com/wayne-mai/egoloc_v1)**|
 |**2024-07-07**|**SCIPaD: Incorporating Spatial Clues into Unsupervised Pose-Depth Joint Learning**|Yi Feng et.al.|[2407.05283](http://arxiv.org/abs/2407.05283)|**[link](https://github.com/fengyi233/SCIPaD)**|
 |**2024-07-01**|**RoDyn-SLAM: Robust Dynamic Dense RGB-D SLAM with Neural Radiance Fields**|Haochen Jiang et.al.|[2407.01303](http://arxiv.org/abs/2407.01303)|**[link](https://github.com/fudan-zvg/rodyn-slam)**|
 |**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292](http://arxiv.org/abs/2407.01292)|**[link](https://github.com/zju-fast-lab/active-relative-localization)**|
@@ -325,6 +327,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Hybrid Structure-from-Motion and Camera Relocalization for Enhanced Egocentric Localization**|Jinjie Mai et.al.|[2407.08023](http://arxiv.org/abs/2407.08023)|**[link](https://github.com/wayne-mai/egoloc_v1)**|
 |**2024-07-09**|**Computer vision tasks for intelligent aerospace missions: An overview**|Huilin Chen et.al.|[2407.06513](http://arxiv.org/abs/2407.06513)|null|
 |**2024-07-08**|**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**|Jiawei Guo et.al.|[2407.05666](http://arxiv.org/abs/2407.05666)|null|
 |**2024-07-05**|**Efficient Detection of Long Consistent Cycles and its Application to Distributed Synchronization**|Shaohan Li et.al.|[2407.04260](http://arxiv.org/abs/2407.04260)|null|
