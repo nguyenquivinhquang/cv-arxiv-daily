@@ -87,6 +87,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**DroneMOT: Drone-based Multi-Object Tracking Considering Detection Difficulties and Simultaneous Moving of Drones and Objects**|Peng Wang et.al.|[2407.09051](http://arxiv.org/abs/2407.09051)|null|
+|**2024-07-11**|**Manipulating a Tetris-Inspired 3D Video Representation**|Mihir Godbole et.al.|[2407.08885](http://arxiv.org/abs/2407.08885)|null|
+|**2024-07-11**|**Visual Multi-Object Tracking with Re-Identification and Occlusion Handling using Labeled Random Finite Sets**|Linh Van Ma et.al.|[2407.08872](http://arxiv.org/abs/2407.08872)|null|
+|**2024-07-11**|**CommRad: Context-Aware Sensing-Driven Millimeter-Wave Networks**|Ish Kumar Jain et.al.|[2407.08817](http://arxiv.org/abs/2407.08817)|null|
 |**2024-07-10**|**Deep Learning-Based Robust Multi-Object Tracking via Fusion of mmWave Radar and Camera Sensors**|Lei Cheng et.al.|[2407.08049](http://arxiv.org/abs/2407.08049)|null|
 |**2024-07-08**|**GeoWATCH for Detecting Heavy Construction in Heterogeneous Time Series of Satellite Images**|Jon Crall et.al.|[2407.06337](http://arxiv.org/abs/2407.06337)|null|
 |**2024-07-07**|**Addressing single object tracking in satellite imagery through prompt-engineered solutions**|Athena Psalta et.al.|[2407.05518](http://arxiv.org/abs/2407.05518)|null|
