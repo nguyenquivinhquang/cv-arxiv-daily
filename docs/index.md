@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.16
+## Updated on 2024.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Human mesh recovery
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-15**|**GTPT: Group-based Token Pruning Transformer for Efficient Human Pose Estimation**|Haonan Wang et.al.|[2407.10756](http://arxiv.org/abs/2407.10756)|null|
+|**2024-07-16**|**GTPT: Group-based Token Pruning Transformer for Efficient Human Pose Estimation**|Haonan Wang et.al.|[2407.10756](http://arxiv.org/abs/2407.10756)|null|
 |**2024-07-14**|**PAFUSE: Part-based Diffusion for 3D Whole-Body Pose Estimation**|Nermin Samet et.al.|[2407.10220](http://arxiv.org/abs/2407.10220)|null|
 |**2024-07-14**|**STGFormer: Spatio-Temporal GraphFormer for 3D Human Pose Estimation in Video**|Yang Liu et.al.|[2407.10099](http://arxiv.org/abs/2407.10099)|null|
 |**2024-07-10**|**Greit-HRNet: Grouped Lightweight High-Resolution Network for Human Pose Estimation**|Junjia Han et.al.|[2407.07389](http://arxiv.org/abs/2407.07389)|null|
@@ -91,7 +91,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-15**|**Effective Motion Modeling for UAV-platform Multiple Object Tracking with Re-Margin Loss**|Mufeng Yao et.al.|[2407.10485](http://arxiv.org/abs/2407.10485)|null|
-|**2024-07-14**|**Lost and Found: Overcoming Detector Failures in Online Multi-Object Tracking**|Lorenzo Vaquero et.al.|[2407.10151](http://arxiv.org/abs/2407.10151)|**[link](https://github.com/lorenzovaquero/busca)**|
+|**2024-07-16**|**Lost and Found: Overcoming Detector Failures in Online Multi-Object Tracking**|Lorenzo Vaquero et.al.|[2407.10151](http://arxiv.org/abs/2407.10151)|**[link](https://github.com/lorenzovaquero/busca)**|
 |**2024-07-12**|**DroneMOT: Drone-based Multi-Object Tracking Considering Detection Difficulties and Simultaneous Moving of Drones and Objects**|Peng Wang et.al.|[2407.09051](http://arxiv.org/abs/2407.09051)|null|
 |**2024-07-11**|**Manipulating a Tetris-Inspired 3D Video Representation**|Mihir Godbole et.al.|[2407.08885](http://arxiv.org/abs/2407.08885)|null|
 |**2024-07-11**|**Visual Multi-Object Tracking with Re-Identification and Occlusion Handling using Labeled Random Finite Sets**|Linh Van Ma et.al.|[2407.08872](http://arxiv.org/abs/2407.08872)|null|
