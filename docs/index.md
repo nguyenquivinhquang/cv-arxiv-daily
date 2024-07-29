@@ -95,6 +95,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**Leveraging Foundation Models via Knowledge Distillation in Multi-Object Tracking: Distilling DINOv2 Features to FairMOT**|Niels G. Faber et.al.|[2407.18288](http://arxiv.org/abs/2407.18288)|null|
 |**2024-07-20**|**CORT: Class-Oriented Real-time Tracking for Embedded Systems**|Edoardo Cittadini et.al.|[2407.17521](http://arxiv.org/abs/2407.17521)|null|
 |**2024-07-21**|**Multiple Object Detection and Tracking in Panoramic Videos for Cycling Safety Analysis**|Jingwei Guo et.al.|[2407.15199](http://arxiv.org/abs/2407.15199)|**[link](https://github.com/cuppp1998/360_object_tracking)**|
 |**2024-07-19**|**Temporal Correlation Meets Embedding: Towards a 2nd Generation of JDE-based Real-Time Multi-Object Tracking**|Yunfei Zhang et.al.|[2407.14086](http://arxiv.org/abs/2407.14086)|null|
