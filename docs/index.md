@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.30
+## Updated on 2024.07.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Human mesh recovery
@@ -290,7 +290,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-25**|**CodedVO: Coded Visual Odometry**|Sachin Shah et.al.|[2407.18240](http://arxiv.org/abs/2407.18240)|null|
-|**2024-07-24**|**DreamCar: Leveraging Car-specific Prior for in-the-wild 3D Car Reconstruction**|Xiaobiao Du et.al.|[2407.16988](http://arxiv.org/abs/2407.16988)|**[link](https://github.com/xiaobiaodu/DreamCar)**|
+|**2024-07-30**|**DreamCar: Leveraging Car-specific Prior for in-the-wild 3D Car Reconstruction**|Xiaobiao Du et.al.|[2407.16988](http://arxiv.org/abs/2407.16988)|**[link](https://github.com/xiaobiaodu/DreamCar)**|
 |**2024-07-23**|**Optimal camera-robot pose estimation in linear time from points and lines**|Guangyang Zeng et.al.|[2407.16151](http://arxiv.org/abs/2407.16151)|null|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
 |**2024-07-22**|**Reinforcement Learning Meets Visual Odometry**|Nico Messikommer et.al.|[2407.15626](http://arxiv.org/abs/2407.15626)|**[link](https://github.com/uzh-rpg/rl_vo)**|
