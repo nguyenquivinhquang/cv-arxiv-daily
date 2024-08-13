@@ -19,7 +19,7 @@ layout: default
 |**2024-08-07**|**Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network**|Xinyi Zhang et.al.|[2408.02922](http://arxiv.org/abs/2408.02922)|null|
 |**2024-08-05**|**Analyzing Data Efficiency and Performance of Machine Learning Algorithms for Assessing Low Back Pain Physical Rehabilitation Exercises**|Aleksa Marusic et.al.|[2408.02855](http://arxiv.org/abs/2408.02855)|null|
 |**2024-08-05**|**Joint-Motion Mutual Learning for Pose Estimation in Videos**|Sifan Wu et.al.|[2408.02285](http://arxiv.org/abs/2408.02285)|null|
-|**2024-07-26**|**Flexible graph convolutional network for 3D human pose estimation**|Abu Taib Mohammed Shahjahan et.al.|[2407.19077](http://arxiv.org/abs/2407.19077)|null|
+|**2024-07-26**|**Flexible graph convolutional network for 3D human pose estimation**|Abu Taib Mohammed Shahjahan et.al.|[2407.19077](http://arxiv.org/abs/2407.19077)|**[link](https://github.com/shahjahan0275/Flex-GCN)**|
 |**2024-07-23**|**3D-UGCN: A Unified Graph Convolutional Network for Robust 3D Human Pose Estimation from Monocular RGB Images**|Jie Zhao et.al.|[2407.16137](http://arxiv.org/abs/2407.16137)|null|
 |**2024-07-23**|**Domain-Adaptive 2D Human Pose Estimation via Dual Teachers in Extremely Low-Light Conditions**|Yihao Ai et.al.|[2407.15451](http://arxiv.org/abs/2407.15451)|null|
 |**2024-07-19**|**ESCAPE: Energy-based Selective Adaptive Correction for Out-of-distribution 3D Human Pose Estimation**|Luke Bidulka et.al.|[2407.14605](http://arxiv.org/abs/2407.14605)|null|
@@ -101,6 +101,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework**|Lukas Meyer et.al.|[2408.06190](http://arxiv.org/abs/2408.06190)|**[link](https://github.com/meyerls/fruitnerf)**|
+|**2024-08-10**|**PersonViT: Large-scale Self-supervised Vision Transformer for Person Re-Identificat**|Bin Hu et.al.|[2408.05398](http://arxiv.org/abs/2408.05398)|**[link](https://github.com/hustvl/personvit)**|
 |**2024-08-09**|**Mesh-based Object Tracking for Dynamic Semantic 3D Scene Graphs via Ray Tracing**|Lennart Niecksch et.al.|[2408.04979](http://arxiv.org/abs/2408.04979)|null|
 |**2024-08-06**|**Quantum Imaging Using Spatially Entangled Photon Pairs from a Nonlinear Metasurface**|Jinyong Ma et.al.|[2408.02903](http://arxiv.org/abs/2408.02903)|null|
 |**2024-08-05**|**VoxelTrack: Exploring Voxel Representation for 3D Point Cloud Object Tracking**|Yuxuan Lu et.al.|[2408.02263](http://arxiv.org/abs/2408.02263)|null|
@@ -305,6 +307,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-10**|**Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**|Zhongche Qu et.al.|[2408.05635](http://arxiv.org/abs/2408.05635)|null|
 |**2024-08-03**|**E $^3$ NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**|Yunshan Qi et.al.|[2408.01840](http://arxiv.org/abs/2408.01840)|null|
 |**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654](http://arxiv.org/abs/2408.01654)|**[link](https://github.com/princeton-vl/dpvo)**|
 |**2024-07-25**|**CodedVO: Coded Visual Odometry**|Sachin Shah et.al.|[2407.18240](http://arxiv.org/abs/2407.18240)|null|
