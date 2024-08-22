@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**HumanCoser: Layered 3D Human Generation via Semantic-Aware Diffusion Model**|Yi Wang et.al.|[2408.11357](http://arxiv.org/abs/2408.11357)|null|
 |**2024-08-20**|**MPL: Lifting 3D Human Pose from Multi-view 2D Poses**|Seyed Abolfazl Ghasemzadeh et.al.|[2408.10805](http://arxiv.org/abs/2408.10805)|**[link](https://github.com/aghasemzadeh/openmpl)**|
 |**2024-08-18**|**OPPH: A Vision-Based Operator for Measuring Body Movements for Personal Healthcare**|Chen Long-fei et.al.|[2408.09409](http://arxiv.org/abs/2408.09409)|null|
 |**2024-08-18**|**Combo: Co-speech holistic 3D human motion generation and efficient customizable adaptation in harmony**|Chao Xu et.al.|[2408.09397](http://arxiv.org/abs/2408.09397)|null|
@@ -109,6 +110,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**CHOTA: A Higher Order Accuracy Metric for Cell Tracking**|Timo Kaiser et.al.|[2408.11571](http://arxiv.org/abs/2408.11571)|**[link](https://github.com/celltrackingchallenge/py-ctcmetrics)**|
+|**2024-08-21**|**Low-Light Object Tracking: A Benchmark**|Pengzhi Zhong et.al.|[2408.11463](http://arxiv.org/abs/2408.11463)|null|
 |**2024-08-20**|**MambaEVT: Event Stream based Visual Object Tracking using State Space Model**|Xiao Wang et.al.|[2408.10487](http://arxiv.org/abs/2408.10487)|null|
 |**2024-08-17**|**GSLAMOT: A Tracklet and Query Graph-based Simultaneous Locating, Mapping, and Multiple Object Tracking System**|Shuo Wang et.al.|[2408.09191](http://arxiv.org/abs/2408.09191)|null|
 |**2024-08-17**|**MambaTrack: A Simple Baseline for Multiple Object Tracking with State Space Model**|Changcheng Xiao et.al.|[2408.09178](http://arxiv.org/abs/2408.09178)|null|
