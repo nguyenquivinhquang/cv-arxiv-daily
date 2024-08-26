@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**T3M: Text Guided 3D Human Motion Synthesis from Speech**|Wenshuo Peng et.al.|[2408.12885](http://arxiv.org/abs/2408.12885)|**[link](https://github.com/gloria2tt/t3m)**|
 |**2024-08-21**|**HumanCoser: Layered 3D Human Generation via Semantic-Aware Diffusion Model**|Yi Wang et.al.|[2408.11357](http://arxiv.org/abs/2408.11357)|null|
 |**2024-08-20**|**MPL: Lifting 3D Human Pose from Multi-view 2D Poses**|Seyed Abolfazl Ghasemzadeh et.al.|[2408.10805](http://arxiv.org/abs/2408.10805)|**[link](https://github.com/aghasemzadeh/openmpl)**|
 |**2024-08-18**|**OPPH: A Vision-Based Operator for Measuring Body Movements for Personal Healthcare**|Chen Long-fei et.al.|[2408.09409](http://arxiv.org/abs/2408.09409)|null|
@@ -118,6 +119,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**MCTR: Multi Camera Tracking Transformer**|Alexandru Niculescu-Mizil et.al.|[2408.13243](http://arxiv.org/abs/2408.13243)|null|
+|**2024-08-23**|**BoostTrack++: using tracklet information to detect more objects in multiple object tracking**|Vukašin Stanojević et.al.|[2408.13003](http://arxiv.org/abs/2408.13003)|**[link](https://github.com/vukasin-stanojevic/BoostTrack)**|
+|**2024-08-22**|**BankTweak: Adversarial Attack against Multi-Object Trackers by Manipulating Feature Banks**|Woojin Shin et.al.|[2408.12727](http://arxiv.org/abs/2408.12727)|null|
 |**2024-08-22**|**BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking**|Hanzheng Wang et.al.|[2408.12232](http://arxiv.org/abs/2408.12232)|null|
 |**2024-08-21**|**CHOTA: A Higher Order Accuracy Metric for Cell Tracking**|Timo Kaiser et.al.|[2408.11571](http://arxiv.org/abs/2408.11571)|**[link](https://github.com/celltrackingchallenge/py-ctcmetrics)**|
 |**2024-08-21**|**Low-Light Object Tracking: A Benchmark**|Pengzhi Zhong et.al.|[2408.11463](http://arxiv.org/abs/2408.11463)|null|
