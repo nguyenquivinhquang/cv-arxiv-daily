@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.02
+## Updated on 2024.09.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -121,13 +121,13 @@
 |**2024-01-30**|**Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers**|Jianbin Jiao et.al.|[2401.16700](http://arxiv.org/abs/2401.16700)|null|
 |**2024-01-28**|**Multi-Person 3D Pose Estimation from Multi-View Uncalibrated Depth Cameras**|Yu-Jhe Li et.al.|[2401.15616](http://arxiv.org/abs/2401.15616)|null|
 
-<p align=right>(<a href=#updated-on-20240902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240903>back to top</a>)</p>
 
 ## Tracking
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-30**|**UTrack: Multi-Object Tracking with Uncertain Detections**|Edgardo Solano-Carrillo et.al.|[2408.17098](http://arxiv.org/abs/2408.17098)|null|
+|**2024-08-30**|**UTrack: Multi-Object Tracking with Uncertain Detections**|Edgardo Solano-Carrillo et.al.|[2408.17098](http://arxiv.org/abs/2408.17098)|**[link](https://github.com/dlr-mi/utrack)**|
 |**2024-08-29**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla et.al.|[2408.16445](http://arxiv.org/abs/2408.16445)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
 |**2024-08-29**|**Estimating Dynamic Flow Features in Groups of Tracked Objects**|Tanner D. Harms et.al.|[2408.16190](http://arxiv.org/abs/2408.16190)|null|
 |**2024-08-28**|**ConsistencyTrack: A Robust Multi-Object Tracker with a Generation Strategy of Consistency Model**|Lifan Jiang et.al.|[2408.15548](http://arxiv.org/abs/2408.15548)|**[link](https://github.com/tankowa/consistencytrack)**|
@@ -347,7 +347,7 @@
 |**2024-02-14**|**Design and Realization of a Benchmarking Testbed for Evaluating Autonomous Platooning Algorithms**|Michael Shaham et.al.|[2402.09233](http://arxiv.org/abs/2402.09233)|null|
 |**2024-02-20**|**Camera Calibration through Geometric Constraints from Rotation and Projection Matrices**|Muhammad Waleed et.al.|[2402.08437](http://arxiv.org/abs/2402.08437)|**[link](https://github.com/cvlablums/cvgl-camera-calibration)**|
 
-<p align=right>(<a href=#updated-on-20240902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240903>back to top</a>)</p>
 
 ## SLAM
 
@@ -429,7 +429,7 @@
 |**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887](http://arxiv.org/abs/2401.01887)|null|
 |**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|**[link](https://github.com/ZikangYuan/sr_livo)**|
 
-<p align=right>(<a href=#updated-on-20240902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240903>back to top</a>)</p>
 
 ## SFM
 
@@ -507,7 +507,7 @@
 |**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937](http://arxiv.org/abs/2401.08937)|null|
 |**2024-01-16**|**Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions**|Yi-Fan Zuo et.al.|[2401.08043](http://arxiv.org/abs/2401.08043)|**[link](https://github.com/zyfff/canny-evt)**|
 
-<p align=right>(<a href=#updated-on-20240902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240903>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
