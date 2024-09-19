@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**Massively Multi-Person 3D Human Motion Forecasting with Scene Context**|Felix B Mueller et.al.|[2409.12189](http://arxiv.org/abs/2409.12189)|null|
+|**2024-09-18**|**Generation of Complex 3D Human Motion by Temporal and Spatial Composition of Diffusion Models**|Lorenzo Mandelli et.al.|[2409.11920](http://arxiv.org/abs/2409.11920)|null|
+|**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689](http://arxiv.org/abs/2409.11689)|null|
 |**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340](http://arxiv.org/abs/2409.11340)|**[link](https://github.com/vectorspacelab/omnigen)**|
 |**2024-09-17**|**Depth-based Privileged Information for Boosting 3D Human Pose Estimation on RGB**|Alessandro Simoni et.al.|[2409.11104](http://arxiv.org/abs/2409.11104)|null|
 |**2024-09-16**|**2D or not 2D: How Does the Dimensionality of Gesture Representation Affect 3D Co-Speech Gesture Generation?**|Téo Guichoux et.al.|[2409.10357](http://arxiv.org/abs/2409.10357)|null|
@@ -142,6 +145,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**RockTrack: A 3D Robust Multi-Camera-Ken Multi-Object Tracking Framework**|Xiaoyu Li et.al.|[2409.11749](http://arxiv.org/abs/2409.11749)|null|
 |**2024-09-17**|**SLAck: Semantic, Location, and Appearance Aware Open-Vocabulary Tracking**|Siyuan Li et.al.|[2409.11235](http://arxiv.org/abs/2409.11235)|null|
 |**2024-09-17**|**STCMOT: Spatio-Temporal Cohesion Learning for UAV-Based Multiple Object Tracking**|Jianbo Ma et.al.|[2409.11234](http://arxiv.org/abs/2409.11234)|**[link](https://github.com/ydhcg-bobo/stcmot)**|
 |**2024-09-17**|**TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection**|Philip Jacobson et.al.|[2409.10901](http://arxiv.org/abs/2409.10901)|null|
@@ -380,6 +384,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation**|Yanlin Jin et.al.|[2409.11692](http://arxiv.org/abs/2409.11692)|null|
 |**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu et.al.|[2409.09479](http://arxiv.org/abs/2409.09479)|null|
 |**2024-09-14**|**GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians**|Dasong Gao et.al.|[2409.09295](http://arxiv.org/abs/2409.09295)|null|
 |**2024-09-14**|**Panoramic Direct LiDAR-assisted Visual Odometry**|Zikang Yuan et.al.|[2409.09287](http://arxiv.org/abs/2409.09287)|null|
