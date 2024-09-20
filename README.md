@@ -154,11 +154,11 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-18**|**RockTrack: A 3D Robust Multi-Camera-Ken Multi-Object Tracking Framework**|Xiaoyu Li et.al.|[2409.11749](http://arxiv.org/abs/2409.11749)|null|
-|**2024-09-17**|**SLAck: Semantic, Location, and Appearance Aware Open-Vocabulary Tracking**|Siyuan Li et.al.|[2409.11235](http://arxiv.org/abs/2409.11235)|null|
+|**2024-09-17**|**SLAck: Semantic, Location, and Appearance Aware Open-Vocabulary Tracking**|Siyuan Li et.al.|[2409.11235](http://arxiv.org/abs/2409.11235)|**[link](https://github.com/siyuanliii/slack)**|
 |**2024-09-17**|**STCMOT: Spatio-Temporal Cohesion Learning for UAV-Based Multiple Object Tracking**|Jianbo Ma et.al.|[2409.11234](http://arxiv.org/abs/2409.11234)|**[link](https://github.com/ydhcg-bobo/stcmot)**|
 |**2024-09-17**|**TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection**|Philip Jacobson et.al.|[2409.10901](http://arxiv.org/abs/2409.10901)|null|
 |**2024-09-15**|**Tracking Virtual Meetings in the Wild: Re-identification in Multi-Participant Virtual Meetings**|Oriel Perl et.al.|[2409.09841](http://arxiv.org/abs/2409.09841)|null|
-|**2024-09-14**|**Associate Everything Detected: Facilitating Tracking-by-Detection to the Unknown**|Zimeng Fang et.al.|[2409.09293](http://arxiv.org/abs/2409.09293)|null|
+|**2024-09-14**|**Associate Everything Detected: Facilitating Tracking-by-Detection to the Unknown**|Zimeng Fang et.al.|[2409.09293](http://arxiv.org/abs/2409.09293)|**[link](https://github.com/balabooooo/aed)**|
 |**2024-09-12**|**FACT: Feature Adaptive Continual-learning Tracker for Multiple Object Tracking**|Rongzihan Song et.al.|[2409.07904](http://arxiv.org/abs/2409.07904)|null|
 |**2024-09-10**|**When to Extract ReID Features: A Selective Approach for Improved Multiple Object Tracking**|Emirhan Bayar et.al.|[2409.06617](http://arxiv.org/abs/2409.06617)|**[link](https://github.com/emirhanbayar/fast-strongsort)**|
 |**2024-09-08**|**RCBEVDet++: Toward High-accuracy Radar-Camera Fusion 3D Perception Network**|Zhiwei Lin et.al.|[2409.04979](http://arxiv.org/abs/2409.04979)|null|
