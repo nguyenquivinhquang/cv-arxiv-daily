@@ -14,9 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**DreamWaltz-G: Expressive 3D Gaussian Avatars from Skeleton-Guided 2D Diffusion**|Yukun Huang et.al.|[2409.17145](http://arxiv.org/abs/2409.17145)|null|
+|**2024-09-25**|**Single Image, Any Face: Generalisable 3D Face Generation**|Wenqing Wang et.al.|[2409.16990](http://arxiv.org/abs/2409.16990)|null|
+|**2024-09-25**|**Limitations of (Procrustes) Alignment in Assessing Multi-Person Human Pose and Shape Estimation**|Drazic Martin et.al.|[2409.16861](http://arxiv.org/abs/2409.16861)|null|
+|**2024-09-24**|**FastTalker: Jointly Generating Speech and Conversational Gestures from Text**|Zixin Guo et.al.|[2409.16404](http://arxiv.org/abs/2409.16404)|null|
 |**2024-09-24**|**Unimotion: Unifying 3D Human Motion Synthesis and Understanding**|Chuqiao Li et.al.|[2409.15904](http://arxiv.org/abs/2409.15904)|null|
 |**2024-09-21**|**ExFMan: Rendering 3D Dynamic Humans with Hybrid Monocular Blurry Frames and Events**|Kanghao Chen et.al.|[2409.14103](http://arxiv.org/abs/2409.14103)|null|
-|**2024-09-21**|**PoseAugment: Generative Human Pose Data Augmentation with Physical Plausibility for IMU-based Motion Capture**|Zhuojun Li et.al.|[2409.14101](http://arxiv.org/abs/2409.14101)|null|
+|**2024-09-21**|**PoseAugment: Generative Human Pose Data Augmentation with Physical Plausibility for IMU-based Motion Capture**|Zhuojun Li et.al.|[2409.14101](http://arxiv.org/abs/2409.14101)|**[link](https://github.com/cavespiderlzj/poseaugment-eccv2024)**|
 |**2024-09-20**|**Redefining Data Pairing for Motion Retargeting Leveraging a Human Body Prior**|Xiyana Figuera et.al.|[2409.13208](http://arxiv.org/abs/2409.13208)|null|
 |**2024-09-20**|**Bilateral Sharpness-Aware Minimization for Flatter Minima**|Jiaxin Deng et.al.|[2409.13173](http://arxiv.org/abs/2409.13173)|null|
 |**2024-09-19**|**Bayesian-Optimized One-Step Diffusion Model with Knowledge Distillation for Real-Time 3D Human Motion Prediction**|Sibo Tian et.al.|[2409.12456](http://arxiv.org/abs/2409.12456)|null|
@@ -151,6 +155,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Automated Surgical Skill Assessment in Endoscopic Pituitary Surgery using Real-time Instrument Tracking on a High-fidelity Bench-top Phantom**|Adrito Das et.al.|[2409.17025](http://arxiv.org/abs/2409.17025)|null|
+|**2024-09-25**|**Towards Underwater Camouflaged Object Tracking: An Experimental Evaluation of SAM and SAM 2**|Chunhui Zhang et.al.|[2409.16902](http://arxiv.org/abs/2409.16902)|**[link](https://github.com/983632847/awesome-multimodal-object-tracking)**|
+|**2024-09-25**|**Conditional Generative Denoiser for Nighttime UAV Tracking**|Yucheng Wang et.al.|[2409.16834](http://arxiv.org/abs/2409.16834)|null|
+|**2024-09-25**|**Progressive Representation Learning for Real-Time UAV Tracking**|Changhong Fu et.al.|[2409.16652](http://arxiv.org/abs/2409.16652)|**[link](https://github.com/vision4robotics/prl-track)**|
+|**2024-09-25**|**Enhancing Nighttime UAV Tracking with Light Distribution Suppression**|Liangliang Yao et.al.|[2409.16631](http://arxiv.org/abs/2409.16631)|**[link](https://github.com/vision4robotics/ldenhancer)**|
 |**2024-09-23**|**MCTrack: A Unified 3D Multi-Object Tracking Framework for Autonomous Driving**|Xiyang Wang et.al.|[2409.16149](http://arxiv.org/abs/2409.16149)|null|
 |**2024-09-24**|**CloudTrack: Scalable UAV Tracking with Cloud Semantics**|Yannik Blei et.al.|[2409.16111](http://arxiv.org/abs/2409.16111)|null|
 |**2024-09-22**|**TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps**|Arjun Raj et.al.|[2409.14543](http://arxiv.org/abs/2409.14543)|null|
@@ -480,6 +489,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Frequency-based View Selection in Gaussian Splatting Reconstruction**|Monica M. Q. Li et.al.|[2409.16470](http://arxiv.org/abs/2409.16470)|null|
+|**2024-09-24**|**Initialization of Monocular Visual Navigation for Autonomous Agents Using Modified Structure from Small Motion**|Juan-Diego Florez et.al.|[2409.16465](http://arxiv.org/abs/2409.16465)|null|
 |**2024-09-24**|**Exploring the potential of collaborative UAV 3D mapping in Kenyan savanna for wildlife research**|Vandita Shukla et.al.|[2409.15914](http://arxiv.org/abs/2409.15914)|null|
 |**2024-09-23**|**Assessment of Submillimeter Precision via Structure from Motion Technique in Close-Range Capture Environments**|Francisco Roza de Moraes et.al.|[2409.15602](http://arxiv.org/abs/2409.15602)|null|
 |**2024-09-17**|**GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module**|Yichen Zhang et.al.|[2409.11307](http://arxiv.org/abs/2409.11307)|null|
