@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Continual Human Pose Estimation for Incremental Integration of Keypoints and Pose Variations**|Muhammad Saif Ullah Khan et.al.|[2409.20469](http://arxiv.org/abs/2409.20469)|null|
+|**2024-09-30**|**Classroom-Inspired Multi-Mentor Distillation with Adaptive Learning Strategies**|Shalini Sarode et.al.|[2409.20237](http://arxiv.org/abs/2409.20237)|null|
+|**2024-09-30**|**GTransPDM: A Graph-embedded Transformer with Positional Decoupling for Pedestrian Crossing Intention Prediction**|Chen Xie et.al.|[2409.20223](http://arxiv.org/abs/2409.20223)|null|
+|**2024-09-29**|**PPLNs: Parametric Piecewise Linear Networks for Event-Based Temporal Modeling and Beyond**|Chen Song et.al.|[2409.19772](http://arxiv.org/abs/2409.19772)|null|
 |**2024-09-27**|**Multi-hypotheses Conditioned Point Cloud Diffusion for 3D Human Reconstruction from Occluded Images**|Donghwan Kim et.al.|[2409.18364](http://arxiv.org/abs/2409.18364)|null|
 |**2024-09-27**|**Leveraging Anthropometric Measurements to Improve Human Mesh Estimation and Ensure Consistent Body Shapes**|Katja Ludwig et.al.|[2409.17671](http://arxiv.org/abs/2409.17671)|null|
 |**2024-09-25**|**A vision-based framework for human behavior understanding in industrial assembly lines**|Konstantinos Papoutsakis et.al.|[2409.17356](http://arxiv.org/abs/2409.17356)|null|
@@ -166,6 +170,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-29**|**One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos**|Zechen Bai et.al.|[2409.19603](http://arxiv.org/abs/2409.19603)|null|
 |**2024-09-27**|**Improving Visual Object Tracking through Visual Prompting**|Shih-Fang Chen et.al.|[2409.18901](http://arxiv.org/abs/2409.18901)|**[link](https://github.com/chenshihfang/GOT)**|
 |**2024-09-27**|**Semantic Model Component Implementation for Model-driven Semantic Communications**|Haotai Liang et.al.|[2409.18704](http://arxiv.org/abs/2409.18704)|null|
 |**2024-09-30**|**An Overview of Multi-Object Estimation via Labeled Random Finite Set**|Ba-Ngu Vo et.al.|[2409.18531](http://arxiv.org/abs/2409.18531)|null|
@@ -423,6 +428,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**PuzzleBoard: A New Camera Calibration Pattern with Position Encoding**|Peer Stelldinger et.al.|[2409.20127](http://arxiv.org/abs/2409.20127)|**[link](https://github.com/PStelldinger/PuzzleBoard)**|
+|**2024-09-30**|**Robust Gaussian Splatting SLAM by Leveraging Loop Closure**|Zunjie Zhu et.al.|[2409.20111](http://arxiv.org/abs/2409.20111)|null|
+|**2024-09-30**|**DynORecon: Dynamic Object Reconstruction for Navigation**|Yiduo Wang et.al.|[2409.19928](http://arxiv.org/abs/2409.19928)|null|
 |**2024-09-20**|**Learning Visual Information Utility with PIXER**|Yash Turkar et.al.|[2409.13151](http://arxiv.org/abs/2409.13151)|null|
 |**2024-09-18**|**ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation**|Yanlin Jin et.al.|[2409.11692](http://arxiv.org/abs/2409.11692)|null|
 |**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu et.al.|[2409.09479](http://arxiv.org/abs/2409.09479)|null|
@@ -511,6 +519,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-29**|**Robust Incremental Structure-from-Motion with Hybrid Features**|Shaohui Liu et.al.|[2409.19811](http://arxiv.org/abs/2409.19811)|null|
+|**2024-09-27**|**MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion**|Bardienus Duisterhof et.al.|[2409.19152](http://arxiv.org/abs/2409.19152)|null|
 |**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673](http://arxiv.org/abs/2409.18673)|null|
 |**2024-09-26**|**BlinkTrack: Feature Tracking over 100 FPS via Events and Images**|Yichen Shen et.al.|[2409.17981](http://arxiv.org/abs/2409.17981)|null|
 |**2024-09-24**|**Frequency-based View Selection in Gaussian Splatting Reconstruction**|Monica M. Q. Li et.al.|[2409.16470](http://arxiv.org/abs/2409.16470)|null|
