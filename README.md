@@ -175,9 +175,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**Adaptive High-Frequency Transformer for Diverse Wildlife Re-Identification**|Chenyue Li et.al.|[2410.06977](http://arxiv.org/abs/2410.06977)|null|
 |**2024-10-05**|**ETHcavation: A Dataset and Pipeline for Panoptic Scene Understanding and Object Tracking in Dynamic Construction Environments**|Lorenzo Terenzi et.al.|[2410.04250](http://arxiv.org/abs/2410.04250)|null|
 |**2024-10-03**|**Spatial-Temporal Multi-Cuts for Online Multiple-Camera Vehicle Tracking**|Fabian Herzog et.al.|[2410.02638](http://arxiv.org/abs/2410.02638)|**[link](https://github.com/fubel/stmc)**|
-|**2024-10-03**|**DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM**|Xuchen Li et.al.|[2410.02492](http://arxiv.org/abs/2410.02492)|null|
+|**2024-10-09**|**DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM**|Xuchen Li et.al.|[2410.02492](http://arxiv.org/abs/2410.02492)|null|
 |**2024-10-03**|**Spiking Neural Network as Adaptive Event Stream Slicer**|Jiahang Cao et.al.|[2410.02249](http://arxiv.org/abs/2410.02249)|null|
 |**2024-10-02**|**Tracking objects that change in appearance with phase synchrony**|Sabine Muzellec et.al.|[2410.02094](http://arxiv.org/abs/2410.02094)|null|
 |**2024-10-02**|**Samba: Synchronized Set-of-Sequences Modeling for Multiple Object Tracking**|Mattia Segu et.al.|[2410.01806](http://arxiv.org/abs/2410.01806)|null|
@@ -532,6 +533,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-08**|**Are Minimal Radial Distortion Solvers Necessary for Relative Pose Estimation?**|Charalambos Tzamos et.al.|[2410.05984](http://arxiv.org/abs/2410.05984)|**[link](https://github.com/kocurvik/rd)**|
 |**2024-10-04**|**Refinement of Monocular Depth Maps via Multi-View Differentiable Rendering**|Laura Fink et.al.|[2410.03861](http://arxiv.org/abs/2410.03861)|null|
 |**2024-10-01**|**Seamless Augmented Reality Integration in Arthroscopy: A Pipeline for Articular Reconstruction and Guidance**|Hongchao Shu et.al.|[2410.00386](http://arxiv.org/abs/2410.00386)|null|
 |**2024-09-29**|**Robust Incremental Structure-from-Motion with Hybrid Features**|Shaohui Liu et.al.|[2409.19811](http://arxiv.org/abs/2409.19811)|null|
