@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**ToMiE: Towards Modular Growth in Enhanced SMPL Skeleton for 3D Human with Animatable Garments**|Yifan Zhan et.al.|[2410.08082](http://arxiv.org/abs/2410.08082)|null|
+|**2024-10-10**|**Optimal-State Dynamics Estimation for Physics-based Human Motion Capture from Videos**|Cuong Le et.al.|[2410.07795](http://arxiv.org/abs/2410.07795)|**[link](https://github.com/cuongle1206/osdcap)**|
+|**2024-10-10**|**Invisibility Cloak: Disappearance under Human Pose Estimation via Backdoor Attacks**|Minxing Zhang et.al.|[2410.07670](http://arxiv.org/abs/2410.07670)|null|
 |**2024-10-07**|**D-PoSE: Depth as an Intermediate Representation for 3D Human Pose and Shape Estimation**|Nikolaos Vasilikopoulos et.al.|[2410.04889](http://arxiv.org/abs/2410.04889)|**[link](https://github.com/nvasilik/d-pose)**|
 |**2024-10-06**|**Enhancing 3D Human Pose Estimation Amidst Severe Occlusion with Dual Transformer Fusion**|Mehwish Ghafoor et.al.|[2410.04574](http://arxiv.org/abs/2410.04574)|**[link](https://github.com/mehwishg/dtf)**|
 |**2024-10-04**|**HRVMamba: High-Resolution Visual State Space Model for Dense Prediction**|Hao Zhang et.al.|[2410.03174](http://arxiv.org/abs/2410.03174)|null|
@@ -431,6 +434,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
 |**2024-10-04**|**MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion**|Junyi Zhang et.al.|[2410.03825](http://arxiv.org/abs/2410.03825)|null|
 |**2024-09-30**|**PuzzleBoard: A New Camera Calibration Pattern with Position Encoding**|Peer Stelldinger et.al.|[2409.20127](http://arxiv.org/abs/2409.20127)|**[link](https://github.com/PStelldinger/PuzzleBoard)**|
 |**2024-09-30**|**Robust Gaussian Splatting SLAM by Leveraging Loop Closure**|Zunjie Zhu et.al.|[2409.20111](http://arxiv.org/abs/2409.20111)|null|
@@ -521,6 +525,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**Surgical Depth Anything: Depth Estimation for Surgical Scenes using Foundation Models**|Ange Lou et.al.|[2410.07434](http://arxiv.org/abs/2410.07434)|null|
 |**2024-10-08**|**Are Minimal Radial Distortion Solvers Necessary for Relative Pose Estimation?**|Charalambos Tzamos et.al.|[2410.05984](http://arxiv.org/abs/2410.05984)|**[link](https://github.com/kocurvik/rd)**|
 |**2024-10-04**|**Refinement of Monocular Depth Maps via Multi-View Differentiable Rendering**|Laura Fink et.al.|[2410.03861](http://arxiv.org/abs/2410.03861)|null|
 |**2024-10-01**|**Seamless Augmented Reality Integration in Arthroscopy: A Pipeline for Articular Reconstruction and Guidance**|Hongchao Shu et.al.|[2410.00386](http://arxiv.org/abs/2410.00386)|null|
