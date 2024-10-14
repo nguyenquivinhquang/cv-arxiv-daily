@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Human mesh recovery
@@ -175,7 +175,7 @@ layout: default
 |**2024-10-03**|**Spatial-Temporal Multi-Cuts for Online Multiple-Camera Vehicle Tracking**|Fabian Herzog et.al.|[2410.02638](http://arxiv.org/abs/2410.02638)|**[link](https://github.com/fubel/stmc)**|
 |**2024-10-09**|**DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM**|Xuchen Li et.al.|[2410.02492](http://arxiv.org/abs/2410.02492)|null|
 |**2024-10-03**|**Spiking Neural Network as Adaptive Event Stream Slicer**|Jiahang Cao et.al.|[2410.02249](http://arxiv.org/abs/2410.02249)|null|
-|**2024-10-02**|**Tracking objects that change in appearance with phase synchrony**|Sabine Muzellec et.al.|[2410.02094](http://arxiv.org/abs/2410.02094)|null|
+|**2024-10-10**|**Tracking objects that change in appearance with phase synchrony**|Sabine Muzellec et.al.|[2410.02094](http://arxiv.org/abs/2410.02094)|null|
 |**2024-10-02**|**Samba: Synchronized Set-of-Sequences Modeling for Multiple Object Tracking**|Mattia Segu et.al.|[2410.01806](http://arxiv.org/abs/2410.01806)|null|
 |**2024-10-02**|**Open3DTrack: Towards Open-Vocabulary 3D Multi-Object Tracking**|Ayesha Ishaq et.al.|[2410.01678](http://arxiv.org/abs/2410.01678)|**[link](https://github.com/ayesha-ishaq/open3dtrack)**|
 |**2024-09-29**|**One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos**|Zechen Bai et.al.|[2409.19603](http://arxiv.org/abs/2409.19603)|null|
