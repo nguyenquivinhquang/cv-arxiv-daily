@@ -14,8 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**X-Fi: A Modality-Invariant Foundation Model for Multimodal Human Sensing**|Xinyan Chen et.al.|[2410.10167](http://arxiv.org/abs/2410.10167)|null|
+|**2024-10-13**|**InterMask: 3D Human Interaction Generation via Collaborative Masked Modelling**|Muhammad Gohar Javed et.al.|[2410.10010](http://arxiv.org/abs/2410.10010)|null|
+|**2024-10-13**|**Occluded Human Pose Estimation based on Limb Joint Augmentation**|Gangtao Han et.al.|[2410.09885](http://arxiv.org/abs/2410.09885)|null|
+|**2024-10-13**|**FAMOUS: High-Fidelity Monocular 3D Human Digitization Using View Synthesis**|Vishnu Mani Hema et.al.|[2410.09690](http://arxiv.org/abs/2410.09690)|null|
 |**2024-10-11**|**Enhancing Motion Variation in Text-to-Motion Models via Pose and Video Conditioned Editing**|Clayton Leite et.al.|[2410.08931](http://arxiv.org/abs/2410.08931)|null|
-|**2024-10-11**|**Do Unlearning Methods Remove Information from Language Model Weights?**|Aghyad Deeb et.al.|[2410.08827](http://arxiv.org/abs/2410.08827)|null|
+|**2024-10-11**|**Do Unlearning Methods Remove Information from Language Model Weights?**|Aghyad Deeb et.al.|[2410.08827](http://arxiv.org/abs/2410.08827)|**[link](https://github.com/aghyad-deeb/unlearning_evaluation)**|
 |**2024-10-10**|**ToMiE: Towards Modular Growth in Enhanced SMPL Skeleton for 3D Human with Animatable Garments**|Yifan Zhan et.al.|[2410.08082](http://arxiv.org/abs/2410.08082)|**[link](https://github.com/Yifever20002/ToMiE)**|
 |**2024-10-10**|**Optimal-State Dynamics Estimation for Physics-based Human Motion Capture from Videos**|Cuong Le et.al.|[2410.07795](http://arxiv.org/abs/2410.07795)|**[link](https://github.com/cuongle1206/osdcap)**|
 |**2024-10-10**|**Invisibility Cloak: Disappearance under Human Pose Estimation via Backdoor Attacks**|Minxing Zhang et.al.|[2410.07670](http://arxiv.org/abs/2410.07670)|null|
@@ -172,6 +176,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Motion-guided small MAV detection in complex and non-planar scenes**|Hanqing Guo et.al.|[2410.10527](http://arxiv.org/abs/2410.10527)|null|
+|**2024-10-14**|**SMART-TRACK: A Novel Kalman Filter-Guided Sensor Fusion For Robust UAV Object Tracking in Dynamic Environments**|Khaled Gabr et.al.|[2410.10409](http://arxiv.org/abs/2410.10409)|null|
+|**2024-10-14**|**DINTR: Tracking via Diffusion-based Interpolation**|Pha Nguyen et.al.|[2410.10053](http://arxiv.org/abs/2410.10053)|null|
+|**2024-10-11**|**Enhanced Kalman with Adaptive Appearance Motion SORT for Grounded Generic Multiple Object Tracking**|Duy Le Dinh Anh et.al.|[2410.09243](http://arxiv.org/abs/2410.09243)|null|
 |**2024-10-11**|**VideoSAM: Open-World Video Segmentation**|Pinxue Guo et.al.|[2410.08781](http://arxiv.org/abs/2410.08781)|null|
 |**2024-10-11**|**Efficient Multi-Object Tracking on Edge Devices via Reconstruction-Based Channel Pruning**|Jan Müller et.al.|[2410.08769](http://arxiv.org/abs/2410.08769)|null|
 |**2024-10-11**|**VOVTrack: Exploring the Potentiality in Videos for Open-Vocabulary Object Tracking**|Zekun Qian et.al.|[2410.08529](http://arxiv.org/abs/2410.08529)|null|
@@ -442,6 +450,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**MLP-SLAM: Multilayer Perceptron-Based Simultaneous Localization and Mapping With a Dynamic and Static Object Discriminator**|Taozhe Li et.al.|[2410.10669](http://arxiv.org/abs/2410.10669)|null|
+|**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374](http://arxiv.org/abs/2410.09374)|**[link](https://github.com/nail-hnu/esvo2)**|
 |**2024-10-11**|**Look Gauss, No Pose: Novel View Synthesis using Gaussian Splatting without Accurate Pose Initialization**|Christian Schmidt et.al.|[2410.08743](http://arxiv.org/abs/2410.08743)|**[link](https://github.com/schmiddo/noposegs)**|
 |**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
 |**2024-10-04**|**MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion**|Junyi Zhang et.al.|[2410.03825](http://arxiv.org/abs/2410.03825)|null|
@@ -534,6 +544,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|null|
 |**2024-10-09**|**Surgical Depth Anything: Depth Estimation for Surgical Scenes using Foundation Models**|Ange Lou et.al.|[2410.07434](http://arxiv.org/abs/2410.07434)|null|
 |**2024-10-08**|**Are Minimal Radial Distortion Solvers Necessary for Relative Pose Estimation?**|Charalambos Tzamos et.al.|[2410.05984](http://arxiv.org/abs/2410.05984)|**[link](https://github.com/kocurvik/rd)**|
 |**2024-10-04**|**Refinement of Monocular Depth Maps via Multi-View Differentiable Rendering**|Laura Fink et.al.|[2410.03861](http://arxiv.org/abs/2410.03861)|null|
