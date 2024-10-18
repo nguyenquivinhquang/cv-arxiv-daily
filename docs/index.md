@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.17
+## Updated on 2024.10.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Human mesh recovery
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-15**|**Learned Neural Physics Simulation for Articulated 3D Human Pose Reconstruction**|Mykhaylo Andriluka et.al.|[2410.12023](http://arxiv.org/abs/2410.12023)|null|
 |**2024-10-14**|**X-Fi: A Modality-Invariant Foundation Model for Multimodal Human Sensing**|Xinyan Chen et.al.|[2410.10167](http://arxiv.org/abs/2410.10167)|null|
-|**2024-10-13**|**InterMask: 3D Human Interaction Generation via Collaborative Masked Modelling**|Muhammad Gohar Javed et.al.|[2410.10010](http://arxiv.org/abs/2410.10010)|null|
+|**2024-10-16**|**InterMask: 3D Human Interaction Generation via Collaborative Masked Modelling**|Muhammad Gohar Javed et.al.|[2410.10010](http://arxiv.org/abs/2410.10010)|null|
 |**2024-10-13**|**Occluded Human Pose Estimation based on Limb Joint Augmentation**|Gangtao Han et.al.|[2410.09885](http://arxiv.org/abs/2410.09885)|null|
 |**2024-10-13**|**FAMOUS: High-Fidelity Monocular 3D Human Digitization Using View Synthesis**|Vishnu Mani Hema et.al.|[2410.09690](http://arxiv.org/abs/2410.09690)|null|
 |**2024-10-11**|**Enhancing Motion Variation in Text-to-Motion Models via Pose and Video Conditioned Editing**|Clayton Leite et.al.|[2410.08931](http://arxiv.org/abs/2410.08931)|null|
@@ -177,7 +177,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-14**|**UAV3D: A Large-scale 3D Perception Benchmark for Unmanned Aerial Vehicles**|Hui Ye et.al.|[2410.11125](http://arxiv.org/abs/2410.11125)|null|
+|**2024-10-17**|**UAV3D: A Large-scale 3D Perception Benchmark for Unmanned Aerial Vehicles**|Hui Ye et.al.|[2410.11125](http://arxiv.org/abs/2410.11125)|null|
 |**2024-10-14**|**Motion-guided small MAV detection in complex and non-planar scenes**|Hanqing Guo et.al.|[2410.10527](http://arxiv.org/abs/2410.10527)|null|
 |**2024-10-14**|**SMART-TRACK: A Novel Kalman Filter-Guided Sensor Fusion For Robust UAV Object Tracking in Dynamic Environments**|Khaled Gabr et.al.|[2410.10409](http://arxiv.org/abs/2410.10409)|null|
 |**2024-10-14**|**DINTR: Tracking via Diffusion-based Interpolation**|Pha Nguyen et.al.|[2410.10053](http://arxiv.org/abs/2410.10053)|null|
