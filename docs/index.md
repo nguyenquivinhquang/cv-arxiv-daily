@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Multi-modal Pose Diffuser: A Multimodal Generative Conditional Pose Prior**|Calvin-Khang Ta et.al.|[2410.14540](http://arxiv.org/abs/2410.14540)|null|
 |**2024-10-15**|**Learned Neural Physics Simulation for Articulated 3D Human Pose Reconstruction**|Mykhaylo Andriluka et.al.|[2410.12023](http://arxiv.org/abs/2410.12023)|null|
 |**2024-10-18**|**X-Fi: A Modality-Invariant Foundation Model for Multimodal Human Sensing**|Xinyan Chen et.al.|[2410.10167](http://arxiv.org/abs/2410.10167)|null|
 |**2024-10-16**|**InterMask: 3D Human Interaction Generation via Collaborative Masked Modelling**|Muhammad Gohar Javed et.al.|[2410.10010](http://arxiv.org/abs/2410.10010)|null|
@@ -177,6 +178,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Enhancing In-vehicle Multiple Object Tracking Systems with Embeddable Ising Machines**|Kosuke Tatsumura et.al.|[2410.14093](http://arxiv.org/abs/2410.14093)|null|
 |**2024-10-17**|**Temporal-Enhanced Multimodal Transformer for Referring Multi-Object Tracking and Segmentation**|Changcheng Xiao et.al.|[2410.13437](http://arxiv.org/abs/2410.13437)|null|
 |**2024-10-17**|**TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal**|Yanpeng Jia et.al.|[2410.13240](http://arxiv.org/abs/2410.13240)|null|
 |**2024-10-17**|**UAV3D: A Large-scale 3D Perception Benchmark for Unmanned Aerial Vehicles**|Hui Ye et.al.|[2410.11125](http://arxiv.org/abs/2410.11125)|null|
