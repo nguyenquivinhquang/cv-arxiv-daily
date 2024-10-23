@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**Joker: Conditional 3D Head Synthesis with Extreme Facial Expressions**|Malte Prinzler et.al.|[2410.16395](http://arxiv.org/abs/2410.16395)|null|
 |**2024-10-21**|**ARTS: Semi-Analytical Regressor using Disentangled Skeletal Representations for Human Mesh Recovery from Videos**|Tao Tang et.al.|[2410.15582](http://arxiv.org/abs/2410.15582)|**[link](https://github.com/tangtao-pku/arts)**|
 |**2024-10-18**|**Multi-modal Pose Diffuser: A Multimodal Generative Conditional Pose Prior**|Calvin-Khang Ta et.al.|[2410.14540](http://arxiv.org/abs/2410.14540)|null|
 |**2024-10-15**|**Learned Neural Physics Simulation for Articulated 3D Human Pose Reconstruction**|Mykhaylo Andriluka et.al.|[2410.12023](http://arxiv.org/abs/2410.12023)|null|
@@ -179,6 +180,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**MPT: A Large-scale Multi-Phytoplankton Tracking Benchmark**|Yang Yu et.al.|[2410.16695](http://arxiv.org/abs/2410.16695)|null|
+|**2024-10-19**|**The Solution for Single Object Tracking Task of Perception Test Challenge 2024**|Zhiqiang Zhong et.al.|[2410.16329](http://arxiv.org/abs/2410.16329)|null|
 |**2024-10-20**|**TrackMe:A Simple and Effective Multiple Object Tracking Annotation Tool**|Thinh Phan et.al.|[2410.15518](http://arxiv.org/abs/2410.15518)|null|
 |**2024-10-20**|**Multiset Combinatorial Gray Codes with Application to Proximity Sensor Networks**|Chung Shue Chen et.al.|[2410.15428](http://arxiv.org/abs/2410.15428)|null|
 |**2024-10-19**|**3D Multi-Object Tracking Employing MS-GLMB Filter for Autonomous Driving**|Linh Van Ma et.al.|[2410.14977](http://arxiv.org/abs/2410.14977)|**[link](https://github.com/linh-gist/ms-glmb-nuScenes)**|
