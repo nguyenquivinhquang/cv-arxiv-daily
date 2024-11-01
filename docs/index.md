@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-31**|**Stereo-Talker: Audio-driven 3D Human Synthesis with Prior-Guided Mixture-of-Experts**|Xiang Deng et.al.|[2410.23836](http://arxiv.org/abs/2410.23836)|null|
 |**2024-10-29**|**HRPVT: High-Resolution Pyramid Vision Transformer for medium and small-scale human pose estimation**|Zhoujie Xu et.al.|[2410.22079](http://arxiv.org/abs/2410.22079)|null|
 |**2024-10-28**|**LoDAvatar: Hierarchical Embedding and Adaptive Levels of Detail with Gaussian Splatting for Enhanced Human Avatars**|Xiaonuo Dongye et.al.|[2410.20789](http://arxiv.org/abs/2410.20789)|null|
 |**2024-10-29**|**BLAPose: Enhancing 3D Human Pose Estimation with Bone Length Adjustment**|Chih-Hsiang Hsu et.al.|[2410.20731](http://arxiv.org/abs/2410.20731)|**[link](https://github.com/hs1ang-hsu/BLAPose)**|
@@ -187,6 +188,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-31**|**Extended Object Tracking and Classification based on Linear Splines**|Matteo Tesori et.al.|[2410.24183](http://arxiv.org/abs/2410.24183)|null|
+|**2024-10-30**|**IP-MOT: Instance Prompt Learning for Cross-Domain Multi-Object Tracking**|Run Luo et.al.|[2410.23907](http://arxiv.org/abs/2410.23907)|null|
 |**2024-10-28**|**Joint Audio-Visual Idling Vehicle Detection with Streamlined Input Dependencies**|Xiwen Li et.al.|[2410.21170](http://arxiv.org/abs/2410.21170)|null|
 |**2024-10-28**|**Evaluating the Robustness of LiDAR Point Cloud Tracking Against Adversarial Attack**|Shengjing Tian et.al.|[2410.20893](http://arxiv.org/abs/2410.20893)|null|
 |**2024-10-27**|**NT-VOT211: A Large-Scale Benchmark for Night-time Visual Object Tracking**|Yu Liu et.al.|[2410.20421](http://arxiv.org/abs/2410.20421)|**[link](https://github.com/liuyuml/nv-vot211)**|
