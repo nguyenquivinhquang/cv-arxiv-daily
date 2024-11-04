@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.03
+## Updated on 2024.11.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -190,7 +190,7 @@
 |**2024-01-30**|**Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers**|Jianbin Jiao et.al.|[2401.16700](http://arxiv.org/abs/2401.16700)|null|
 |**2024-01-28**|**Multi-Person 3D Pose Estimation from Multi-View Uncalibrated Depth Cameras**|Yu-Jhe Li et.al.|[2401.15616](http://arxiv.org/abs/2401.15616)|null|
 
-<p align=right>(<a href=#updated-on-20241103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241104>back to top</a>)</p>
 
 ## Tracking
 
@@ -203,7 +203,7 @@
 |**2024-10-27**|**NT-VOT211: A Large-Scale Benchmark for Night-time Visual Object Tracking**|Yu Liu et.al.|[2410.20421](http://arxiv.org/abs/2410.20421)|**[link](https://github.com/liuyuml/nv-vot211)**|
 |**2024-10-27**|**Depth Attention for Robust RGB Tracking**|Yu Liu et.al.|[2410.20395](http://arxiv.org/abs/2410.20395)|**[link](https://github.com/liuyuml/depth-attention)**|
 |**2024-10-26**|**SFTrack: A Robust Scale and Motion Adaptive Algorithm for Tracking Small and Fast Moving Objects**|InPyo Song et.al.|[2410.20079](http://arxiv.org/abs/2410.20079)|null|
-|**2024-10-23**|**ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting**|Shaofei Cai et.al.|[2410.17856](http://arxiv.org/abs/2410.17856)|null|
+|**2024-10-23**|**ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting**|Shaofei Cai et.al.|[2410.17856](http://arxiv.org/abs/2410.17856)|**[link](https://github.com/CraftJarvis/ROCKET-1)**|
 |**2024-10-23**|**Real-time Vehicle-to-Vehicle Communication Based Network Cooperative Control System through Distributed Database and Multimodal Perception: Demonstrated in Crossroads**|Xinwen Zhu et.al.|[2410.17576](http://arxiv.org/abs/2410.17576)|**[link](https://github.com/essoz/distributed-intersection-traffic-coordination-with-lease)**|
 |**2024-10-23**|**OVT-B: A New Large-Scale Benchmark for Open-Vocabulary Multi-Object Tracking**|Haiji Liang et.al.|[2410.17534](http://arxiv.org/abs/2410.17534)|**[link](https://github.com/coo1sea/ovt-b-dataset)**|
 |**2024-10-22**|**MPT: A Large-scale Multi-Phytoplankton Tracking Benchmark**|Yang Yu et.al.|[2410.16695](http://arxiv.org/abs/2410.16695)|null|
@@ -486,7 +486,7 @@
 |**2024-02-14**|**Design and Realization of a Benchmarking Testbed for Evaluating Autonomous Platooning Algorithms**|Michael Shaham et.al.|[2402.09233](http://arxiv.org/abs/2402.09233)|null|
 |**2024-02-20**|**Camera Calibration through Geometric Constraints from Rotation and Projection Matrices**|Muhammad Waleed et.al.|[2402.08437](http://arxiv.org/abs/2402.08437)|**[link](https://github.com/cvlablums/cvgl-camera-calibration)**|
 
-<p align=right>(<a href=#updated-on-20241103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241104>back to top</a>)</p>
 
 ## SLAM
 
@@ -585,7 +585,7 @@
 |**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887](http://arxiv.org/abs/2401.01887)|null|
 |**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|**[link](https://github.com/ZikangYuan/sr_livo)**|
 
-<p align=right>(<a href=#updated-on-20241103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241104>back to top</a>)</p>
 
 ## SFM
 
@@ -689,7 +689,7 @@
 |**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937](http://arxiv.org/abs/2401.08937)|null|
 |**2024-01-16**|**Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions**|Yi-Fan Zuo et.al.|[2401.08043](http://arxiv.org/abs/2401.08043)|**[link](https://github.com/zyfff/canny-evt)**|
 
-<p align=right>(<a href=#updated-on-20241103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241104>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
