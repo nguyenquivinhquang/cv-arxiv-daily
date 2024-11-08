@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-07**|**Controlling Human Shape and Pose in Text-to-Image Diffusion Models via Domain Adaptation**|Benito Buchheim et.al.|[2411.04724](http://arxiv.org/abs/2411.04724)|null|
+|**2024-11-07**|**Pose2Trajectory: Using Transformers on Body Pose to Predict Tennis Player's Trajectory**|Ali K. AlShami et.al.|[2411.04501](http://arxiv.org/abs/2411.04501)|null|
+|**2024-11-07**|**FreeCap: Hybrid Calibration-Free Motion Capture in Open Environments**|Aoru Xue et.al.|[2411.04469](http://arxiv.org/abs/2411.04469)|null|
+|**2024-11-07**|**ProGraph: Temporally-alignable Probability Guided Graph Topological Modeling for 3D Human Reconstruction**|Hongsheng Wang et.al.|[2411.04399](http://arxiv.org/abs/2411.04399)|null|
+|**2024-11-06**|**PocoLoco: A Point Cloud Diffusion Model of Human Shape in Loose Clothing**|Siddharth Seth et.al.|[2411.04249](http://arxiv.org/abs/2411.04249)|**[link](https://github.com/sidsunny/pocoloco)**|
 |**2024-11-05**|**Self Supervised Networks for Learning Latent Space Representations of Human Body Scans and Motions**|Emmanuel Hartman et.al.|[2411.03475](http://arxiv.org/abs/2411.03475)|null|
 |**2024-11-05**|**HFGaussian: Learning Generalizable Gaussian Human with Integrated Human Features**|Arnab Dey et.al.|[2411.03086](http://arxiv.org/abs/2411.03086)|null|
 |**2024-10-29**|**Yoga Pose Classification Using Transfer Learning**|M. M. Akash et.al.|[2411.00833](http://arxiv.org/abs/2411.00833)|null|
@@ -493,6 +498,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796](http://arxiv.org/abs/2411.04796)|null|
 |**2024-11-03**|**Activating Self-Attention for Multi-Scene Absolute Pose Regression**|Miso Lee et.al.|[2411.01443](http://arxiv.org/abs/2411.01443)|**[link](https://github.com/dlalth557/ActMST)**|
 |**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231](http://arxiv.org/abs/2410.23231)|**[link](https://github.com/uestc-nnlab/lgu-slam)**|
 |**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang et.al.|[2410.22213](http://arxiv.org/abs/2410.22213)|null|
