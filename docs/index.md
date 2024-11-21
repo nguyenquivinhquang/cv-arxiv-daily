@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation**|Yuchen Yang et.al.|[2411.13026](http://arxiv.org/abs/2411.13026)|**[link](https://github.com/charrrrrlie/x-as-supervision)**|
+|**2024-11-19**|**From Text to Pose to Image: Improving Diffusion Model Control and Quality**|Clément Bonnett et.al.|[2411.12872](http://arxiv.org/abs/2411.12872)|**[link](https://github.com/clement-bonnet/text-to-pose)**|
+|**2024-11-19**|**Towards motion from video diffusion models**|Paul Janson et.al.|[2411.12831](http://arxiv.org/abs/2411.12831)|null|
 |**2024-11-19**|**Breathless: An 8-hour Performance Contrasting Human and Robot Expressiveness**|Catie Cuan et.al.|[2411.12361](http://arxiv.org/abs/2411.12361)|null|
 |**2024-11-18**|**DeforHMR: Vision Transformer with Deformable Cross-Attention for 3D Human Mesh Recovery**|Jaewoo Heo et.al.|[2411.11214](http://arxiv.org/abs/2411.11214)|null|
 |**2024-11-15**|**Motion Diffusion-Guided 3D Global HMR from a Dynamic Camera**|Jaewoo Heo et.al.|[2411.10582](http://arxiv.org/abs/2411.10582)|null|
@@ -210,6 +213,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**Gaze2AOI: Open Source Deep-learning Based System for Automatic Area of Interest Annotation with Eye Tracking Data**|Karolina Trajkovska et.al.|[2411.13346](http://arxiv.org/abs/2411.13346)|null|
+|**2024-11-20**|**Teaching VLMs to Localize Specific Objects from In-context Examples**|Sivan Doveh et.al.|[2411.13317](http://arxiv.org/abs/2411.13317)|**[link](https://github.com/sivandoveh/iploc)**|
+|**2024-11-20**|**Click; Single Object Tracking; Video Object Segmentation; Real-time Interaction**|Kuiran Wang et.al.|[2411.13183](http://arxiv.org/abs/2411.13183)|null|
+|**2024-11-20**|**Enhancing Thermal MOT: A Novel Box Association Method Leveraging Thermal Identity and Motion Similarity**|Wassim El Ahmar et.al.|[2411.12943](http://arxiv.org/abs/2411.12943)|null|
 |**2024-11-19**|**Resolution Improvement in OFDM-based Joint Communication and Sensing through Combined Tracking and Interpolation**|Charlotte Muth et.al.|[2411.12464](http://arxiv.org/abs/2411.12464)|null|
 |**2024-11-18**|**SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory**|Cheng-Yen Yang et.al.|[2411.11922](http://arxiv.org/abs/2411.11922)|**[link](https://github.com/yangchris11/samurai)**|
 |**2024-11-18**|**Learning a Neural Association Network for Self-supervised Multi-Object Tracking**|Shuai Li et.al.|[2411.11514](http://arxiv.org/abs/2411.11514)|null|
@@ -525,6 +532,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
+|**2024-11-20**|**DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Structure from Motion in the Wild**|Weicai Ye et.al.|[2411.13291](http://arxiv.org/abs/2411.13291)|null|
 |**2024-11-16**|**DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment**|Mangyu Kong et.al.|[2411.10722](http://arxiv.org/abs/2411.10722)|null|
 |**2024-11-15**|**USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**|Kang Chen et.al.|[2411.10504](http://arxiv.org/abs/2411.10504)|**[link](https://github.com/chenkang455/usp-gaussian)**|
 |**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195](http://arxiv.org/abs/2411.10195)|null|
@@ -629,6 +638,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Structure from Motion in the Wild**|Weicai Ye et.al.|[2411.13291](http://arxiv.org/abs/2411.13291)|null|
 |**2024-11-15**|**SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction**|Yutao Tang et.al.|[2411.12592](http://arxiv.org/abs/2411.12592)|**[link](https://github.com/snldmt/SPARS3R)**|
 |**2024-11-15**|**The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**|Yifu Tao et.al.|[2411.10546](http://arxiv.org/abs/2411.10546)|null|
 |**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879](http://arxiv.org/abs/2411.08879)|null|
