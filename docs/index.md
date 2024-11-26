@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**Utilizing Uncertainty in 2D Pose Detectors for Probabilistic 3D Human Mesh Recovery**|Tom Wehrbein et.al.|[2411.16289](http://arxiv.org/abs/2411.16289)|**[link](https://github.com/twehrbein/humr)**|
+|**2024-11-22**|**Personalization of Wearable Sensor-Based Joint Kinematic Estimation Using Computer Vision for Hip Exoskeleton Applications**|Changseob Song et.al.|[2411.15366](http://arxiv.org/abs/2411.15366)|null|
 |**2024-11-22**|**Personalised 3D Human Digital Twin with Soft-Body Feet for Walking Simulation**|Kum Yew Loke et.al.|[2411.14701](http://arxiv.org/abs/2411.14701)|null|
 |**2024-11-20**|**Developing Normative Gait Cycle Parameters for Clinical Analysis Using Human Pose Estimation**|Rahm Ranjan et.al.|[2411.13716](http://arxiv.org/abs/2411.13716)|null|
 |**2024-11-20**|**FabuLight-ASD: Unveiling Speech Activity via Body Language**|Hugo Carneiro et.al.|[2411.13674](http://arxiv.org/abs/2411.13674)|**[link](https://github.com/knowledgetechnologyuhh/fabulight-asd)**|
@@ -217,10 +219,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-24**|**FastTrackTr:Towards Fast Multi-Object Tracking with Transformers**|Pan Liao et.al.|[2411.15811](http://arxiv.org/abs/2411.15811)|null|
+|**2024-11-23**|**How Texts Help? A Fine-grained Evaluation to Reveal the Role of Language in Vision-Language Tracking**|Xuchen Li et.al.|[2411.15600](http://arxiv.org/abs/2411.15600)|null|
+|**2024-11-23**|**MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking**|Xinqi Liu et.al.|[2411.15459](http://arxiv.org/abs/2411.15459)|null|
 |**2024-11-22**|**Anti-Forgetting Adaptation for Unsupervised Person Re-identification**|Hao Chen et.al.|[2411.14695](http://arxiv.org/abs/2411.14695)|null|
 |**2024-11-20**|**Gaze2AOI: Open Source Deep-learning Based System for Automatic Area of Interest Annotation with Eye Tracking Data**|Karolina Trajkovska et.al.|[2411.13346](http://arxiv.org/abs/2411.13346)|null|
 |**2024-11-20**|**Teaching VLMs to Localize Specific Objects from In-context Examples**|Sivan Doveh et.al.|[2411.13317](http://arxiv.org/abs/2411.13317)|**[link](https://github.com/sivandoveh/iploc)**|
-|**2024-11-20**|**Click; Single Object Tracking; Video Object Segmentation; Real-time Interaction**|Kuiran Wang et.al.|[2411.13183](http://arxiv.org/abs/2411.13183)|null|
+|**2024-11-24**|**ClickTrack: Towards Real-time Interactive Single Object Tracking**|Kuiran Wang et.al.|[2411.13183](http://arxiv.org/abs/2411.13183)|null|
 |**2024-11-20**|**Enhancing Thermal MOT: A Novel Box Association Method Leveraging Thermal Identity and Motion Similarity**|Wassim El Ahmar et.al.|[2411.12943](http://arxiv.org/abs/2411.12943)|null|
 |**2024-11-19**|**Resolution Improvement in OFDM-based Joint Communication and Sensing through Combined Tracking and Interpolation**|Charlotte Muth et.al.|[2411.12464](http://arxiv.org/abs/2411.12464)|null|
 |**2024-11-18**|**SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory**|Cheng-Yen Yang et.al.|[2411.11922](http://arxiv.org/abs/2411.11922)|**[link](https://github.com/yangchris11/samurai)**|
@@ -537,6 +542,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis**|Hyojun Go et.al.|[2411.16443](http://arxiv.org/abs/2411.16443)|null|
+|**2024-11-25**|**One Diffusion to Generate Them All**|Duong H. Le et.al.|[2411.16318](http://arxiv.org/abs/2411.16318)|**[link](https://github.com/lehduong/onediffusion)**|
 |**2024-11-21**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358](http://arxiv.org/abs/2411.14358)|null|
 |**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
 |**2024-11-20**|**DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Structure from Motion in the Wild**|Weicai Ye et.al.|[2411.13291](http://arxiv.org/abs/2411.13291)|null|
@@ -544,7 +551,7 @@ layout: default
 |**2024-11-15**|**USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**|Kang Chen et.al.|[2411.10504](http://arxiv.org/abs/2411.10504)|**[link](https://github.com/chenkang455/usp-gaussian)**|
 |**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195](http://arxiv.org/abs/2411.10195)|null|
 |**2024-11-13**|**DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization**|Yueming Xu et.al.|[2411.08373](http://arxiv.org/abs/2411.08373)|null|
-|**2024-11-12**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw et.al.|[2411.08231](http://arxiv.org/abs/2411.08231)|null|
+|**2024-11-24**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw et.al.|[2411.08231](http://arxiv.org/abs/2411.08231)|null|
 |**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796](http://arxiv.org/abs/2411.04796)|null|
 |**2024-11-18**|**Activating Self-Attention for Multi-Scene Absolute Pose Regression**|Miso Lee et.al.|[2411.01443](http://arxiv.org/abs/2411.01443)|**[link](https://github.com/dlalth557/ActMST)**|
 |**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231](http://arxiv.org/abs/2410.23231)|**[link](https://github.com/uestc-nnlab/lgu-slam)**|
@@ -644,6 +651,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779](http://arxiv.org/abs/2411.15779)|null|
 |**2024-11-20**|**DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Structure from Motion in the Wild**|Weicai Ye et.al.|[2411.13291](http://arxiv.org/abs/2411.13291)|null|
 |**2024-11-15**|**SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction**|Yutao Tang et.al.|[2411.12592](http://arxiv.org/abs/2411.12592)|**[link](https://github.com/snldmt/SPARS3R)**|
 |**2024-11-15**|**The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**|Yifu Tao et.al.|[2411.10546](http://arxiv.org/abs/2411.10546)|null|
