@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.26
+## Updated on 2024.11.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Human mesh recovery
@@ -19,7 +19,7 @@ layout: default
 |**2024-11-22**|**Personalised 3D Human Digital Twin with Soft-Body Feet for Walking Simulation**|Kum Yew Loke et.al.|[2411.14701](http://arxiv.org/abs/2411.14701)|null|
 |**2024-11-20**|**Developing Normative Gait Cycle Parameters for Clinical Analysis Using Human Pose Estimation**|Rahm Ranjan et.al.|[2411.13716](http://arxiv.org/abs/2411.13716)|null|
 |**2024-11-20**|**FabuLight-ASD: Unveiling Speech Activity via Body Language**|Hugo Carneiro et.al.|[2411.13674](http://arxiv.org/abs/2411.13674)|**[link](https://github.com/knowledgetechnologyuhh/fabulight-asd)**|
-|**2024-11-19**|**VioPose: Violin Performance 4D Pose Estimation by Hierarchical Audiovisual Inference**|Seong Jong Yoo et.al.|[2411.13607](http://arxiv.org/abs/2411.13607)|**[link](https://github.com/SeongJong-Yoo/VioPose)**|
+|**2024-11-25**|**VioPose: Violin Performance 4D Pose Estimation by Hierarchical Audiovisual Inference**|Seong Jong Yoo et.al.|[2411.13607](http://arxiv.org/abs/2411.13607)|**[link](https://github.com/SeongJong-Yoo/VioPose)**|
 |**2024-11-20**|**X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation**|Yuchen Yang et.al.|[2411.13026](http://arxiv.org/abs/2411.13026)|**[link](https://github.com/charrrrrlie/x-as-supervision)**|
 |**2024-11-22**|**From Text to Pose to Image: Improving Diffusion Model Control and Quality**|Clément Bonnet et.al.|[2411.12872](http://arxiv.org/abs/2411.12872)|**[link](https://github.com/clement-bonnet/text-to-pose)**|
 |**2024-11-19**|**Towards motion from video diffusion models**|Paul Janson et.al.|[2411.12831](http://arxiv.org/abs/2411.12831)|null|
