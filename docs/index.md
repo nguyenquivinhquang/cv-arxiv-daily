@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**GeneMAN: Generalizable Single-Image 3D Human Reconstruction from Multi-Source Human Data**|Wentao Wang et.al.|[2411.18624](http://arxiv.org/abs/2411.18624)|null|
+|**2024-11-27**|**PersonaCraft: Personalized Full-Body Image Synthesis for Multiple Identities from Single References Using 3D-Model-Conditioned Diffusion**|Gwanghyun Kim et.al.|[2411.18068](http://arxiv.org/abs/2411.18068)|null|
+|**2024-11-26**|**Beyond Walking: A Large-Scale Image-Text Benchmark for Text-based Person Anomaly Search**|Shuyu Yang et.al.|[2411.17776](http://arxiv.org/abs/2411.17776)|null|
 |**2024-11-26**|**DRiVE: Diffusion-based Rigging Empowers Generation of Versatile and Expressive Characters**|Mingze Sun et.al.|[2411.17423](http://arxiv.org/abs/2411.17423)|null|
 |**2024-11-25**|**UniPose: A Unified Multimodal Framework for Human Pose Comprehension, Generation and Editing**|Yiheng Li et.al.|[2411.16781](http://arxiv.org/abs/2411.16781)|null|
 |**2024-11-25**|**GAST: Sequential Gaussian Avatars with Hierarchical Spatio-temporal Context**|Wangze Xu et.al.|[2411.16768](http://arxiv.org/abs/2411.16768)|null|
@@ -223,6 +226,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**A comparison of extended object tracking with multi-modal sensors in indoor environment**|Jiangtao Shuai et.al.|[2411.18476](http://arxiv.org/abs/2411.18476)|null|
+|**2024-11-27**|**Efficient Dynamic LiDAR Odometry for Mobile Robots with Structured Point Clouds**|Jonathan Lichtenfeld et.al.|[2411.18443](http://arxiv.org/abs/2411.18443)|null|
+|**2024-11-27**|**When Large Vision-Language Models Meet Person Re-Identification**|Qizao Wang et.al.|[2411.18111](http://arxiv.org/abs/2411.18111)|null|
 |**2024-11-26**|**A Distractor-Aware Memory for Visual Object Tracking with SAM2**|Jovana Videnovic et.al.|[2411.17576](http://arxiv.org/abs/2411.17576)|**[link](https://github.com/jovanavidenovic/dam4sam)**|
 |**2024-11-24**|**FastTrackTr:Towards Fast Multi-Object Tracking with Transformers**|Pan Liao et.al.|[2411.15811](http://arxiv.org/abs/2411.15811)|null|
 |**2024-11-23**|**How Texts Help? A Fine-grained Evaluation to Reveal the Role of Language in Vision-Language Tracking**|Xuchen Li et.al.|[2411.15600](http://arxiv.org/abs/2411.15600)|null|
