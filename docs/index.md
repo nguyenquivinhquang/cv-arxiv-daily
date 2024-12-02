@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**SAT-HMR: Real-Time Multi-Person 3D Mesh Estimation via Scale-Adaptive Tokens**|Chi Su et.al.|[2411.19824](http://arxiv.org/abs/2411.19824)|null|
+|**2024-11-29**|**Real-Time Anomaly Detection in Video Streams**|Fabien Poirier et.al.|[2411.19731](http://arxiv.org/abs/2411.19731)|null|
+|**2024-11-27**|**Lifting Motion to the 3D World via 2D Diffusion**|Jiaman Li et.al.|[2411.18808](http://arxiv.org/abs/2411.18808)|null|
+|**2024-11-27**|**GaussianSpeech: Audio-Driven Gaussian Avatars**|Shivangi Aneja et.al.|[2411.18675](http://arxiv.org/abs/2411.18675)|null|
+|**2024-11-27**|**OOD-HOI: Text-Driven 3D Whole-Body Human-Object Interactions Generation Beyond Training Domains**|Yixuan Zhang et.al.|[2411.18660](http://arxiv.org/abs/2411.18660)|null|
 |**2024-11-27**|**GeneMAN: Generalizable Single-Image 3D Human Reconstruction from Multi-Source Human Data**|Wentao Wang et.al.|[2411.18624](http://arxiv.org/abs/2411.18624)|null|
 |**2024-11-27**|**PersonaCraft: Personalized Full-Body Image Synthesis for Multiple Identities from Single References Using 3D-Model-Conditioned Diffusion**|Gwanghyun Kim et.al.|[2411.18068](http://arxiv.org/abs/2411.18068)|null|
 |**2024-11-26**|**Beyond Walking: A Large-Scale Image-Text Benchmark for Text-based Person Anomaly Search**|Shuyu Yang et.al.|[2411.17776](http://arxiv.org/abs/2411.17776)|null|
@@ -226,6 +231,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**Perception Test 2024: Challenge Summary and a Novel Hour-Long VideoQA Benchmark**|Joseph Heyward et.al.|[2411.19941](http://arxiv.org/abs/2411.19941)|null|
+|**2024-11-28**|**HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos**|Prithviraj Banerjee et.al.|[2411.19167](http://arxiv.org/abs/2411.19167)|null|
+|**2024-11-28**|**Visual SLAMMOT Considering Multiple Motion Models**|Peilin Tian et.al.|[2411.19134](http://arxiv.org/abs/2411.19134)|null|
+|**2024-11-28**|**CrossTracker: Robust Multi-modal 3D Multi-Object Tracking via Cross Correction**|Lipeng Gu et.al.|[2411.18850](http://arxiv.org/abs/2411.18850)|null|
 |**2024-11-27**|**A comparison of extended object tracking with multi-modal sensors in indoor environment**|Jiangtao Shuai et.al.|[2411.18476](http://arxiv.org/abs/2411.18476)|null|
 |**2024-11-27**|**Efficient Dynamic LiDAR Odometry for Mobile Robots with Structured Point Clouds**|Jonathan Lichtenfeld et.al.|[2411.18443](http://arxiv.org/abs/2411.18443)|**[link](https://github.com/tu-darmstadt-ros-pkg/dynamic_direct_lidar_odometry)**|
 |**2024-11-27**|**When Large Vision-Language Models Meet Person Re-Identification**|Qizao Wang et.al.|[2411.18111](http://arxiv.org/abs/2411.18111)|null|
@@ -553,6 +562,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-28**|**Lost & Found: Updating Dynamic 3D Scene Graphs from Egocentric Observations**|Tjark Behrens et.al.|[2411.19162](http://arxiv.org/abs/2411.19162)|null|
+|**2024-11-27**|**AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers**|Sherwin Bahmani et.al.|[2411.18673](http://arxiv.org/abs/2411.18673)|null|
 |**2024-11-25**|**SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis**|Hyojun Go et.al.|[2411.16443](http://arxiv.org/abs/2411.16443)|**[link](https://github.com/gohyojun15/SplatFlow)**|
 |**2024-11-25**|**One Diffusion to Generate Them All**|Duong H. Le et.al.|[2411.16318](http://arxiv.org/abs/2411.16318)|**[link](https://github.com/lehduong/onediffusion)**|
 |**2024-11-21**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358](http://arxiv.org/abs/2411.14358)|null|
@@ -662,6 +673,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**RoMo: Robust Motion Segmentation Improves Structure from Motion**|Lily Goli et.al.|[2411.18650](http://arxiv.org/abs/2411.18650)|null|
 |**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779](http://arxiv.org/abs/2411.15779)|null|
 |**2024-11-20**|**DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Structure from Motion in the Wild**|Weicai Ye et.al.|[2411.13291](http://arxiv.org/abs/2411.13291)|null|
 |**2024-11-15**|**SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction**|Yutao Tang et.al.|[2411.12592](http://arxiv.org/abs/2411.12592)|**[link](https://github.com/snldmt/SPARS3R)**|
