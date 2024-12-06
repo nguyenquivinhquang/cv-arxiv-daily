@@ -22,6 +22,8 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
+    "Personalize segmentation":
+        filters: ["Personalize segmentation"]
     "Human mesh recovery":
         filters: ["Human mesh recover", "Human pose estimation", "3D Human", "human pose"]
     "Tracking":
