@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -10,10 +6,21 @@ layout: default
 ## Updated on 2024.12.06
 > Usage instructions: [here](./docs/README.md#usage)
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href=#human-mesh-recovery>Human mesh recovery</a></li>
+    <li><a href=#tracking>Tracking</a></li>
+    <li><a href=#slam>SLAM</a></li>
+    <li><a href=#sfm>SFM</a></li>
+    <li><a href=#personalize-segmentation>Personalize segmentation</a></li>
+  </ol>
+</details>
+
 ## Human mesh recovery
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2024-12-05**|**BodyMetric: Evaluating the Realism of HumanBodies in Text-to-Image Generation**|Nefeli Andreou et.al.|[2412.04086](http://arxiv.org/abs/2412.04086)|null|
 |**2024-12-04**|**Human Multi-View Synthesis from a Single-View Model:Transferred Body and Face Representations**|Yu Feng et.al.|[2412.03011](http://arxiv.org/abs/2412.03011)|null|
 |**2024-12-03**|**EgoCast: Forecasting Egocentric Human Pose in the Wild**|Maria Escobar et.al.|[2412.02903](http://arxiv.org/abs/2412.02903)|null|
@@ -236,10 +243,12 @@ layout: default
 |**2024-01-30**|**Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers**|Jianbin Jiao et.al.|[2401.16700](http://arxiv.org/abs/2401.16700)|null|
 |**2024-01-28**|**Multi-Person 3D Pose Estimation from Multi-View Uncalibrated Depth Cameras**|Yu-Jhe Li et.al.|[2401.15616](http://arxiv.org/abs/2401.15616)|null|
 
+<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
+
 ## Tracking
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2024-12-04**|**Distillation of Diffusion Features for Semantic Correspondence**|Frank Fundel et.al.|[2412.03512](http://arxiv.org/abs/2412.03512)|null|
 |**2024-12-03**|**MVCTrack: Boosting 3D Point Cloud Tracking via Multimodal-Guided Virtual Cues**|Zhaofeng Hu et.al.|[2412.02734](http://arxiv.org/abs/2412.02734)|null|
 |**2024-12-03**|**A Bidirectional Long Short Term Memory Approach for Infrastructure Health Monitoring Using On-board Vibration Response**|R. R. Samani et.al.|[2412.02643](http://arxiv.org/abs/2412.02643)|null|
@@ -579,10 +588,12 @@ layout: default
 |**2024-02-14**|**Design and Realization of a Benchmarking Testbed for Evaluating Autonomous Platooning Algorithms**|Michael Shaham et.al.|[2402.09233](http://arxiv.org/abs/2402.09233)|null|
 |**2024-02-20**|**Camera Calibration through Geometric Constraints from Rotation and Projection Matrices**|Muhammad Waleed et.al.|[2402.08437](http://arxiv.org/abs/2402.08437)|**[link](https://github.com/cvlablums/cvgl-camera-calibration)**|
 
+<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
+
 ## SLAM
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146](http://arxiv.org/abs/2412.03146)|null|
 |**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950](http://arxiv.org/abs/2412.02950)|null|
 |**2024-11-28**|**Lost & Found: Updating Dynamic 3D Scene Graphs from Egocentric Observations**|Tjark Behrens et.al.|[2411.19162](http://arxiv.org/abs/2411.19162)|**[link](https://github.com/behretj/LostFound)**|
@@ -692,10 +703,12 @@ layout: default
 |**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887](http://arxiv.org/abs/2401.01887)|null|
 |**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|**[link](https://github.com/ZikangYuan/sr_livo)**|
 
+<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
+
 ## SFM
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2024-12-05**|**MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos**|Zhengqi Li et.al.|[2412.04463](http://arxiv.org/abs/2412.04463)|null|
 |**2024-12-02**|**SfM-Free 3D Gaussian Splatting via Hierarchical Training**|Bo Ji et.al.|[2412.01553](http://arxiv.org/abs/2412.01553)|**[link](https://github.com/jibo27/3dgs_hierarchical_training)**|
 |**2024-12-02**|**MVImgNet2.0: A Larger-scale Dataset of Multi-view Images**|Xiaoguang Han et.al.|[2412.01430](http://arxiv.org/abs/2412.01430)|null|
@@ -806,10 +819,12 @@ layout: default
 |**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937](http://arxiv.org/abs/2401.08937)|null|
 |**2024-01-16**|**Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions**|Yi-Fan Zuo et.al.|[2401.08043](http://arxiv.org/abs/2401.08043)|**[link](https://github.com/zyfff/canny-evt)**|
 
+<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
+
 ## Personalize segmentation
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2024-11-25**|**Utilizing Uncertainty in 2D Pose Detectors for Probabilistic 3D Human Mesh Recovery**|Tom Wehrbein et.al.|[2411.16289](http://arxiv.org/abs/2411.16289)|**[link](https://github.com/twehrbein/humr)**|
 |**2024-11-25**|**Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain**|Hangyul Yoon et.al.|[2411.16123](http://arxiv.org/abs/2411.16123)|**[link](https://github.com/facebookresearch/segment-anything)**|
 |**2024-11-17**|**Person Segmentation and Action Classification for Multi-Channel Hemisphere Field of View LiDAR Sensors**|Svetlana Seliunina et.al.|[2411.11151](http://arxiv.org/abs/2411.11151)|**[link](https://github.com/AIS-Bonn/lidar_person_action_detection)**|
@@ -820,6 +835,8 @@ layout: default
 |**2023-04-15**|**ALiSNet: Accurate and Lightweight Human Segmentation Network for Fashion E-Commerce**|Amrollah Seifoddini et.al.|[2304.07533](http://arxiv.org/abs/2304.07533)|null|
 |**2022-05-11**|**Invisible-to-Visible: Privacy-Aware Human Segmentation using Airborne Ultrasound via Collaborative Learning Probabilistic U-Net**|Risako Tanigawa et.al.|[2205.05293](http://arxiv.org/abs/2205.05293)|null|
 |**2021-04-20**|**Fashion-Guided Adversarial Attack on Person Segmentation**|Marc Treu et.al.|[2104.08422](http://arxiv.org/abs/2104.08422)|**[link](https://github.com/nii-yamagishilab/fashion_adv)**|
+
+<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
