@@ -14,7 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-05**|**BodyMetric: Evaluating the Realism of HumanBodies in Text-to-Image Generation**|Nefeli Andreou et.al.|[2412.04086](http://arxiv.org/abs/2412.04086)|null|
+|**2024-12-06**|**Text to Blind Motion**|Hee Jae Kim et.al.|[2412.05277](http://arxiv.org/abs/2412.05277)|null|
+|**2024-12-05**|**ProPLIKS: Probablistic 3D human body pose estimation**|Karthik Shetty et.al.|[2412.04665](http://arxiv.org/abs/2412.04665)|null|
+|**2024-12-06**|**BodyMetric: Evaluating the Realism of Human Bodies in Text-to-Image Generation**|Nefeli Andreou et.al.|[2412.04086](http://arxiv.org/abs/2412.04086)|null|
 |**2024-12-04**|**Human Multi-View Synthesis from a Single-View Model:Transferred Body and Face Representations**|Yu Feng et.al.|[2412.03011](http://arxiv.org/abs/2412.03011)|null|
 |**2024-12-03**|**EgoCast: Forecasting Egocentric Human Pose in the Wild**|Maria Escobar et.al.|[2412.02903](http://arxiv.org/abs/2412.02903)|null|
 |**2024-12-03**|**AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction**|Lingteng Qiu et.al.|[2412.02684](http://arxiv.org/abs/2412.02684)|null|
@@ -240,6 +242,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**HOLa: HoloLens Object Labeling**|Michael Schwimmbeck et.al.|[2412.04945](http://arxiv.org/abs/2412.04945)|**[link](https://github.com/mschwimmbeck/hola)**|
+|**2024-12-06**|**Beyond Boxes: Mask-Guided Spatio-Temporal Feature Aggregation for Video Object Detection**|Khurram Azeem Hashmi et.al.|[2412.04915](http://arxiv.org/abs/2412.04915)|null|
 |**2024-12-04**|**Distillation of Diffusion Features for Semantic Correspondence**|Frank Fundel et.al.|[2412.03512](http://arxiv.org/abs/2412.03512)|null|
 |**2024-12-03**|**MVCTrack: Boosting 3D Point Cloud Tracking via Multimodal-Guided Virtual Cues**|Zhaofeng Hu et.al.|[2412.02734](http://arxiv.org/abs/2412.02734)|**[link](https://github.com/StiphyJay/MVCTrack)**|
 |**2024-12-03**|**A Bidirectional Long Short Term Memory Approach for Infrastructure Health Monitoring Using On-board Vibration Response**|R. R. Samani et.al.|[2412.02643](http://arxiv.org/abs/2412.02643)|null|
