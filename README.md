@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**SimAvatar: Simulation-Ready Avatars with Layered Hair and Clothing**|Xueting Li et.al.|[2412.09545](http://arxiv.org/abs/2412.09545)|null|
 |**2024-12-11**|**BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation**|Shengze Wang et.al.|[2412.08640](http://arxiv.org/abs/2412.08640)|null|
 |**2024-12-05**|**Mogo: RQ Hierarchical Causal Transformer for High-Quality 3D Human Motion Generation**|Dongjie Fu et.al.|[2412.07797](http://arxiv.org/abs/2412.07797)|null|
 |**2024-12-10**|**3DTrajMaster: Mastering 3D Trajectory for Multi-Entity Motion in Video Generation**|Xiao Fu et.al.|[2412.07759](http://arxiv.org/abs/2412.07759)|null|
@@ -257,6 +258,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**NormalFlow: Fast, Robust, and Accurate Contact-based Object 6DoF Pose Tracking with Vision-based Tactile Sensors**|Hung-Jui Huang et.al.|[2412.09617](http://arxiv.org/abs/2412.09617)|**[link](https://github.com/rpl-cmu/normalflow)**|
+|**2024-12-12**|**Temporal-Assisted Beamforming and Trajectory Prediction in Sensing-Enabled UAV Communications**|Shengcai Zhou et.al.|[2412.09097](http://arxiv.org/abs/2412.09097)|null|
 |**2024-12-11**|**TGOSPA Metric Parameters Selection and Evaluation for Visual Multi-object Tracking**|Jan Krejčí et.al.|[2412.08321](http://arxiv.org/abs/2412.08321)|null|
 |**2024-12-11**|**Post-Hoc MOTS: Exploring the Capabilities of Time-Symmetric Multi-Object Tracking**|Gergely Szabó et.al.|[2412.08313](http://arxiv.org/abs/2412.08313)|null|
 |**2024-12-11**|**DTAA: A Detect, Track and Avoid Architecture for navigation in spaces with Multiple Velocity Objects**|Samuel Nordström et.al.|[2412.08121](http://arxiv.org/abs/2412.08121)|null|
@@ -612,6 +615,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**Stereo4D: Learning How Things Move in 3D from Internet Stereo Videos**|Linyi Jin et.al.|[2412.09621](http://arxiv.org/abs/2412.09621)|null|
+|**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209](http://arxiv.org/abs/2412.09209)|null|
 |**2024-12-11**|**Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization**|Siyan Dong et.al.|[2412.08376](http://arxiv.org/abs/2412.08376)|null|
 |**2024-12-09**|**MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds**|Zhenggang Tang et.al.|[2412.06974](http://arxiv.org/abs/2412.06974)|null|
 |**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|**[link](https://github.com/sair-lab/SeqACE)**|
