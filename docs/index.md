@@ -14,11 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Motion-2-to-3: Leveraging 2D Motion Data to Boost 3D Motion Generation**|Huaijin Pi et.al.|[2412.13111](http://arxiv.org/abs/2412.13111)|null|
+|**2024-12-17**|**ShotVL: Human-Centric Highlight Frame Retrieval via Language Queries**|Wangyu Xue et.al.|[2412.12675](http://arxiv.org/abs/2412.12675)|null|
 |**2024-12-16**|**Generative Inbetweening through Frame-wise Conditions-Driven Video Generation**|Tianyi Zhu et.al.|[2412.11755](http://arxiv.org/abs/2412.11755)|null|
 |**2024-12-16**|**3D $^2$ -Actor: Learning Pose-Conditioned 3D-Aware Denoiser for Realistic Gaussian Avatar Modeling**|Zichen Tang et.al.|[2412.11599](http://arxiv.org/abs/2412.11599)|**[link](https://github.com/silence-tang/gaussianactor)**|
 |**2024-12-15**|**Sonicmesh: Enhancing 3D Human Mesh Reconstruction in Vision-Impaired Environments With Acoustic Signals**|Xiaoxuan Liang et.al.|[2412.11325](http://arxiv.org/abs/2412.11325)|null|
 |**2024-12-15**|**GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control**|Mariam Hassan et.al.|[2412.11198](http://arxiv.org/abs/2412.11198)|null|
-|**2024-12-15**|**CFSynthesis: Controllable and Free-view 3D Human Video Synthesis**|Cui Liyuan et.al.|[2412.11067](http://arxiv.org/abs/2412.11067)|null|
+|**2024-12-17**|**CFSynthesis: Controllable and Free-view 3D Human Video Synthesis**|Liyuan Cui et.al.|[2412.11067](http://arxiv.org/abs/2412.11067)|null|
 |**2024-12-14**|**NoisyEQA: Benchmarking Embodied Question Answering Against Noisy Queries**|Tao Wu et.al.|[2412.10726](http://arxiv.org/abs/2412.10726)|null|
 |**2024-12-13**|**ExeChecker: Where Did I Go Wrong?**|Yiwen Gu et.al.|[2412.10573](http://arxiv.org/abs/2412.10573)|null|
 |**2024-12-13**|**The Language of Motion: Unifying Verbal and Non-verbal Language of 3D Human Motion**|Changan Chen et.al.|[2412.10523](http://arxiv.org/abs/2412.10523)|null|
@@ -259,6 +261,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**License Plate Detection and Character Recognition Using Deep Learning and Font Evaluation**|Zahra Ebrahimi Vargoorani et.al.|[2412.12572](http://arxiv.org/abs/2412.12572)|null|
+|**2024-12-17**|**Tell Me What to Track: Infusing Robust Language Guidance for Enhanced Referring Multi-Object Tracking**|Wenjun Huang et.al.|[2412.12561](http://arxiv.org/abs/2412.12561)|null|
+|**2024-12-13**|**Vehicle Detection and Classification for Toll collection using YOLOv11 and Ensemble OCR**|Karthik Sivakoti et.al.|[2412.12191](http://arxiv.org/abs/2412.12191)|null|
 |**2024-12-15**|**Exploring Enhanced Contextual Information for Video-Level Object Tracking**|Ben Kang et.al.|[2412.11023](http://arxiv.org/abs/2412.11023)|**[link](https://github.com/kangben258/MCITrack)**|
 |**2024-12-14**|**Heterogeneous Graph Transformer for Multiple Tiny Object Tracking in RGB-T Videos**|Qingyu Xu et.al.|[2412.10861](http://arxiv.org/abs/2412.10861)|**[link](https://github.com/xuqingyu26/hgtmt)**|
 |**2024-12-14**|**Patch-level Sounding Object Tracking for Audio-Visual Question Answering**|Zhangbin Li et.al.|[2412.10749](http://arxiv.org/abs/2412.10749)|null|
