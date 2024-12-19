@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.18
+## Updated on 2024.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Human mesh recovery
@@ -20,7 +20,7 @@ layout: default
 |**2024-12-16**|**3D $^2$ -Actor: Learning Pose-Conditioned 3D-Aware Denoiser for Realistic Gaussian Avatar Modeling**|Zichen Tang et.al.|[2412.11599](http://arxiv.org/abs/2412.11599)|**[link](https://github.com/silence-tang/gaussianactor)**|
 |**2024-12-15**|**Sonicmesh: Enhancing 3D Human Mesh Reconstruction in Vision-Impaired Environments With Acoustic Signals**|Xiaoxuan Liang et.al.|[2412.11325](http://arxiv.org/abs/2412.11325)|null|
 |**2024-12-15**|**GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control**|Mariam Hassan et.al.|[2412.11198](http://arxiv.org/abs/2412.11198)|null|
-|**2024-12-17**|**CFSynthesis: Controllable and Free-view 3D Human Video Synthesis**|Liyuan Cui et.al.|[2412.11067](http://arxiv.org/abs/2412.11067)|null|
+|**2024-12-18**|**CFSynthesis: Controllable and Free-view 3D Human Video Synthesis**|Liyuan Cui et.al.|[2412.11067](http://arxiv.org/abs/2412.11067)|null|
 |**2024-12-14**|**NoisyEQA: Benchmarking Embodied Question Answering Against Noisy Queries**|Tao Wu et.al.|[2412.10726](http://arxiv.org/abs/2412.10726)|null|
 |**2024-12-13**|**ExeChecker: Where Did I Go Wrong?**|Yiwen Gu et.al.|[2412.10573](http://arxiv.org/abs/2412.10573)|null|
 |**2024-12-13**|**The Language of Motion: Unifying Verbal and Non-verbal Language of 3D Human Motion**|Changan Chen et.al.|[2412.10523](http://arxiv.org/abs/2412.10523)|null|
