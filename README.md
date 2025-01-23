@@ -309,7 +309,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-21**|**InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling**|Yi Wang et.al.|[2501.12386](http://arxiv.org/abs/2501.12386)|**[link](https://github.com/opengvlab/internvideo)**|
+|**2025-01-22**|**InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling**|Yi Wang et.al.|[2501.12386](http://arxiv.org/abs/2501.12386)|**[link](https://github.com/opengvlab/internvideo)**|
 |**2025-01-20**|**PD-SORT: Occlusion-Robust Multi-Object Tracking Using Pseudo-Depth Cues**|Yanchao Wang et.al.|[2501.11288](http://arxiv.org/abs/2501.11288)|**[link](https://github.com/wangyc2000/pd_sort)**|
 |**2025-01-17**|**Spatio-temporal Graph Learning on Adaptive Mined Key Frames for High-performance Multi-Object Tracking**|Futian Wang et.al.|[2501.10129](http://arxiv.org/abs/2501.10129)|null|
 |**2025-01-13**|**SST-EM: Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing**|Varun Biyyala et.al.|[2501.07554](http://arxiv.org/abs/2501.07554)|**[link](https://github.com/custommetrics-sst/sst_customevaluationmetrics)**|
