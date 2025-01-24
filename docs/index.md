@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Deblur-Avatar: Animatable Avatars from Motion-Blurred Monocular Videos**|Xianrui Luo et.al.|[2501.13335](http://arxiv.org/abs/2501.13335)|null|
 |**2025-01-21**|**BlanketGen2-Fit3D: Synthetic Blanket Augmentation Towards Improving Real-World In-Bed Blanket Occluded Human Pose Estimation**|Tamás Karácsony et.al.|[2501.12318](http://arxiv.org/abs/2501.12318)|null|
 |**2025-01-19**|**Refinement Module based on Parse Graph of Feature Map for Human Pose Estimation**|Shibang Liu et.al.|[2501.11069](http://arxiv.org/abs/2501.11069)|null|
 |**2025-01-20**|**X-Dyna: Expressive Dynamic Human Image Animation**|Di Chang et.al.|[2501.10021](http://arxiv.org/abs/2501.10021)|**[link](https://github.com/bytedance/x-dyna)**|
@@ -300,6 +301,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**YOLO11-JDE: Fast and Accurate Multi-Object Tracking with Self-Supervised Re-ID**|Iñaki Erregue et.al.|[2501.13710](http://arxiv.org/abs/2501.13710)|null|
 |**2025-01-22**|**InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling**|Yi Wang et.al.|[2501.12386](http://arxiv.org/abs/2501.12386)|**[link](https://github.com/opengvlab/internvideo)**|
 |**2025-01-20**|**PD-SORT: Occlusion-Robust Multi-Object Tracking Using Pseudo-Depth Cues**|Yanchao Wang et.al.|[2501.11288](http://arxiv.org/abs/2501.11288)|**[link](https://github.com/wangyc2000/pd_sort)**|
 |**2025-01-17**|**Spatio-temporal Graph Learning on Adaptive Mined Key Frames for High-performance Multi-Object Tracking**|Futian Wang et.al.|[2501.10129](http://arxiv.org/abs/2501.10129)|null|
@@ -686,6 +688,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**|Jianing Yang et.al.|[2501.13928](http://arxiv.org/abs/2501.13928)|null|
+|**2025-01-23**|**FAST-LIVO2 on Resource-Constrained Platforms: LiDAR-Inertial-Visual Odometry with Efficient Memory and Computation**|Bingyang Zhou et.al.|[2501.13876](http://arxiv.org/abs/2501.13876)|null|
 |**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893](http://arxiv.org/abs/2501.11893)|null|
 |**2025-01-16**|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang et.al.|[2501.08659](http://arxiv.org/abs/2501.08659)|null|
 |**2025-01-13**|**Fixing the Scale and Shift in Monocular Depth For Camera Pose Estimation**|Yaqing Ding et.al.|[2501.07742](http://arxiv.org/abs/2501.07742)|**[link](https://github.com/yaqding/pose_monodepth)**|
