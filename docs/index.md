@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Measuring Physical Plausibility of 3D Human Poses Using Physics Simulation**|Nathan Louis et.al.|[2502.04483](http://arxiv.org/abs/2502.04483)|null|
 |**2025-02-04**|**Quasi-Conformal Convolution : A Learnable Convolution for Deep Learning on Riemann Surfaces**|Han Zhang et.al.|[2502.01356](http://arxiv.org/abs/2502.01356)|null|
 |**2025-02-03**|**WonderHuman: Hallucinating Unseen Parts in Dynamic 3D Human Reconstruction**|Zilong Wang et.al.|[2502.01045](http://arxiv.org/abs/2502.01045)|null|
 |**2025-01-30**|**SimpleDepthPose: Fast and Reliable Human Pose Estimation with RGBD-Images**|Daniel Bermuth et.al.|[2501.18478](http://arxiv.org/abs/2501.18478)|null|
@@ -313,6 +314,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**OneTrack-M: A multitask approach to transformer-based MOT models**|Luiz C. S. de Araujo et.al.|[2502.04478](http://arxiv.org/abs/2502.04478)|null|
 |**2025-02-06**|**RAMOTS: A Real-Time System for Aerial Multi-Object Tracking based on Deep Learning and Big Data Technology**|Nhat-Tan Do et.al.|[2502.03760](http://arxiv.org/abs/2502.03760)|null|
 |**2025-02-04**|**Rethinking Vision Transformer for Object Centric Foundation Models**|Manuel Traub et.al.|[2502.02763](http://arxiv.org/abs/2502.02763)|null|
 |**2025-02-04**|**INTACT: Inducing Noise Tolerance through Adversarial Curriculum Training for LiDAR-based Safety-Critical Perception and Autonomy**|Nastaran Darabi et.al.|[2502.01896](http://arxiv.org/abs/2502.01896)|null|
@@ -844,6 +846,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**Building Rome with Convex Optimization**|Haoyu Han et.al.|[2502.04640](http://arxiv.org/abs/2502.04640)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657](http://arxiv.org/abs/2502.02657)|null|
 |**2025-02-05**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo et.al.|[2502.02283](http://arxiv.org/abs/2502.02283)|null|
 |**2025-02-03**|**XR-VIO: High-precision Visual Inertial Odometry with Fast Initialization for XR Applications**|Shangjin Zhai et.al.|[2502.01297](http://arxiv.org/abs/2502.01297)|null|
