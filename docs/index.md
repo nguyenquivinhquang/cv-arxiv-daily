@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**Metamorphic Testing for Pose Estimation Systems**|Matias Duran et.al.|[2502.09460](http://arxiv.org/abs/2502.09460)|null|
+|**2025-02-13**|**Mathematical modeling and simulation of coupled aqueous humor flow and temperature distribution in a realistic 3D human eye geometry**|Thomas Saigre et.al.|[2502.09119](http://arxiv.org/abs/2502.09119)|null|
+|**2025-02-13**|**Text-driven 3D Human Generation via Contrastive Preference Optimization**|Pengfei Zhou et.al.|[2502.08977](http://arxiv.org/abs/2502.08977)|null|
 |**2025-02-11**|**EventEgo3D++: 3D Human Motion Capture from a Head-Mounted Event Camera**|Christen Millerdurai et.al.|[2502.07869](http://arxiv.org/abs/2502.07869)|null|
 |**2025-02-10**|**GAS: Generative Avatar Synthesis from a Single Image**|Yixing Lu et.al.|[2502.06957](http://arxiv.org/abs/2502.06957)|null|
 |**2025-02-05**|**Functional 3D Scene Synthesis through Human-Scene Optimization**|Yao Wei et.al.|[2502.06819](http://arxiv.org/abs/2502.06819)|null|
@@ -719,6 +722,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-12**|**LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features**|Shujie Zhou et.al.|[2502.08676](http://arxiv.org/abs/2502.08676)|null|
 |**2025-02-05**|**GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM**|Mingrui Li et.al.|[2502.03228](http://arxiv.org/abs/2502.03228)|null|
 |**2025-01-24**|**Light3R-SfM: Towards Feed-forward Structure-from-Motion**|Sven Elflein et.al.|[2501.14914](http://arxiv.org/abs/2501.14914)|null|
 |**2025-01-23**|**Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**|Jianing Yang et.al.|[2501.13928](http://arxiv.org/abs/2501.13928)|null|
