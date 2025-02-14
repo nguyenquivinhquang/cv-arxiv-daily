@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2025-02-10**|**GAS: Generative Avatar Synthesis from a Single Image**|Yixing Lu et.al.|[2502.06957](http://arxiv.org/abs/2502.06957)|null|
 |**2025-02-05**|**Functional 3D Scene Synthesis through Human-Scene Optimization**|Yao Wei et.al.|[2502.06819](http://arxiv.org/abs/2502.06819)|null|
 |**2025-02-09**|**Acquisition through My Eyes and Steps: A Joint Predictive Agent Model in Egocentric Worlds**|Lu Chen et.al.|[2502.05857](http://arxiv.org/abs/2502.05857)|null|
-|**2025-02-06**|**Measuring Physical Plausibility of 3D Human Poses Using Physics Simulation**|Nathan Louis et.al.|[2502.04483](http://arxiv.org/abs/2502.04483)|null|
+|**2025-02-06**|**Measuring Physical Plausibility of 3D Human Poses Using Physics Simulation**|Nathan Louis et.al.|[2502.04483](http://arxiv.org/abs/2502.04483)|**[link](https://github.com/MichiganCOG/Simulation_Physical_Plausibility)**|
 |**2025-02-04**|**Quasi-Conformal Convolution : A Learnable Convolution for Deep Learning on Riemann Surfaces**|Han Zhang et.al.|[2502.01356](http://arxiv.org/abs/2502.01356)|null|
 |**2025-02-03**|**WonderHuman: Hallucinating Unseen Parts in Dynamic 3D Human Reconstruction**|Zilong Wang et.al.|[2502.01045](http://arxiv.org/abs/2502.01045)|null|
 |**2025-01-30**|**SimpleDepthPose: Fast and Reliable Human Pose Estimation with RGBD-Images**|Daniel Bermuth et.al.|[2501.18478](http://arxiv.org/abs/2501.18478)|null|
@@ -321,7 +321,7 @@
 |**2024-01-30**|**Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers**|Jianbin Jiao et.al.|[2401.16700](http://arxiv.org/abs/2401.16700)|null|
 |**2024-01-28**|**Multi-Person 3D Pose Estimation from Multi-View Uncalibrated Depth Cameras**|Yu-Jhe Li et.al.|[2401.15616](http://arxiv.org/abs/2401.15616)|null|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 ## Tracking
 
@@ -330,7 +330,7 @@
 |**2025-02-10**|**Adaptive Perception for Unified Visual Multi-modal Object Tracking**|Xiantao Hu et.al.|[2502.06583](http://arxiv.org/abs/2502.06583)|null|
 |**2025-02-10**|**Group-CLIP Uncertainty Modeling for Group Re-Identification**|Qingxin Zhang et.al.|[2502.06460](http://arxiv.org/abs/2502.06460)|null|
 |**2025-02-09**|**Energy-Efficient Autonomous Aerial Navigation with Dynamic Vision Sensors: A Physics-Guided Neuromorphic Approach**|Sourav Sanyal et.al.|[2502.05938](http://arxiv.org/abs/2502.05938)|null|
-|**2025-02-08**|**Event Stream-based Visual Object Tracking: HDETrack V2 and A High-Definition Benchmark**|Shiao Wang et.al.|[2502.05574](http://arxiv.org/abs/2502.05574)|null|
+|**2025-02-08**|**Event Stream-based Visual Object Tracking: HDETrack V2 and A High-Definition Benchmark**|Shiao Wang et.al.|[2502.05574](http://arxiv.org/abs/2502.05574)|**[link](https://github.com/event-ahu/eventvot_benchmark)**|
 |**2025-02-06**|**OneTrack-M: A multitask approach to transformer-based MOT models**|Luiz C. S. de Araujo et.al.|[2502.04478](http://arxiv.org/abs/2502.04478)|null|
 |**2025-02-06**|**RAMOTS: A Real-Time System for Aerial Multi-Object Tracking based on Deep Learning and Big Data Technology**|Nhat-Tan Do et.al.|[2502.03760](http://arxiv.org/abs/2502.03760)|null|
 |**2025-02-04**|**Rethinking Vision Transformer for Object Centric Foundation Models**|Manuel Traub et.al.|[2502.02763](http://arxiv.org/abs/2502.02763)|null|
@@ -724,7 +724,7 @@
 |**2024-02-14**|**Design and Realization of a Benchmarking Testbed for Evaluating Autonomous Platooning Algorithms**|Michael Shaham et.al.|[2402.09233](http://arxiv.org/abs/2402.09233)|null|
 |**2024-02-20**|**Camera Calibration through Geometric Constraints from Rotation and Projection Matrices**|Muhammad Waleed et.al.|[2402.08437](http://arxiv.org/abs/2402.08437)|**[link](https://github.com/cvlablums/cvgl-camera-calibration)**|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 ## SLAM
 
@@ -861,7 +861,7 @@
 |**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887](http://arxiv.org/abs/2401.01887)|null|
 |**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|**[link](https://github.com/ZikangYuan/sr_livo)**|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 ## SFM
 
@@ -999,7 +999,7 @@
 |**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937](http://arxiv.org/abs/2401.08937)|null|
 |**2024-01-16**|**Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions**|Yi-Fan Zuo et.al.|[2401.08043](http://arxiv.org/abs/2401.08043)|**[link](https://github.com/zyfff/canny-evt)**|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 ## Personalize segmentation
 
@@ -1016,7 +1016,7 @@
 |**2022-05-11**|**Invisible-to-Visible: Privacy-Aware Human Segmentation using Airborne Ultrasound via Collaborative Learning Probabilistic U-Net**|Risako Tanigawa et.al.|[2205.05293](http://arxiv.org/abs/2205.05293)|null|
 |**2021-04-20**|**Fashion-Guided Adversarial Attack on Person Segmentation**|Marc Treu et.al.|[2104.08422](http://arxiv.org/abs/2104.08422)|**[link](https://github.com/nii-yamagishilab/fashion_adv)**|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

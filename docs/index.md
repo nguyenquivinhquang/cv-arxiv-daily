@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Human mesh recovery
@@ -18,7 +18,7 @@ layout: default
 |**2025-02-10**|**GAS: Generative Avatar Synthesis from a Single Image**|Yixing Lu et.al.|[2502.06957](http://arxiv.org/abs/2502.06957)|null|
 |**2025-02-05**|**Functional 3D Scene Synthesis through Human-Scene Optimization**|Yao Wei et.al.|[2502.06819](http://arxiv.org/abs/2502.06819)|null|
 |**2025-02-09**|**Acquisition through My Eyes and Steps: A Joint Predictive Agent Model in Egocentric Worlds**|Lu Chen et.al.|[2502.05857](http://arxiv.org/abs/2502.05857)|null|
-|**2025-02-06**|**Measuring Physical Plausibility of 3D Human Poses Using Physics Simulation**|Nathan Louis et.al.|[2502.04483](http://arxiv.org/abs/2502.04483)|null|
+|**2025-02-06**|**Measuring Physical Plausibility of 3D Human Poses Using Physics Simulation**|Nathan Louis et.al.|[2502.04483](http://arxiv.org/abs/2502.04483)|**[link](https://github.com/MichiganCOG/Simulation_Physical_Plausibility)**|
 |**2025-02-04**|**Quasi-Conformal Convolution : A Learnable Convolution for Deep Learning on Riemann Surfaces**|Han Zhang et.al.|[2502.01356](http://arxiv.org/abs/2502.01356)|null|
 |**2025-02-03**|**WonderHuman: Hallucinating Unseen Parts in Dynamic 3D Human Reconstruction**|Zilong Wang et.al.|[2502.01045](http://arxiv.org/abs/2502.01045)|null|
 |**2025-01-30**|**SimpleDepthPose: Fast and Reliable Human Pose Estimation with RGBD-Images**|Daniel Bermuth et.al.|[2501.18478](http://arxiv.org/abs/2501.18478)|null|
@@ -321,7 +321,7 @@ layout: default
 |**2025-02-10**|**Adaptive Perception for Unified Visual Multi-modal Object Tracking**|Xiantao Hu et.al.|[2502.06583](http://arxiv.org/abs/2502.06583)|null|
 |**2025-02-10**|**Group-CLIP Uncertainty Modeling for Group Re-Identification**|Qingxin Zhang et.al.|[2502.06460](http://arxiv.org/abs/2502.06460)|null|
 |**2025-02-09**|**Energy-Efficient Autonomous Aerial Navigation with Dynamic Vision Sensors: A Physics-Guided Neuromorphic Approach**|Sourav Sanyal et.al.|[2502.05938](http://arxiv.org/abs/2502.05938)|null|
-|**2025-02-08**|**Event Stream-based Visual Object Tracking: HDETrack V2 and A High-Definition Benchmark**|Shiao Wang et.al.|[2502.05574](http://arxiv.org/abs/2502.05574)|null|
+|**2025-02-08**|**Event Stream-based Visual Object Tracking: HDETrack V2 and A High-Definition Benchmark**|Shiao Wang et.al.|[2502.05574](http://arxiv.org/abs/2502.05574)|**[link](https://github.com/event-ahu/eventvot_benchmark)**|
 |**2025-02-06**|**OneTrack-M: A multitask approach to transformer-based MOT models**|Luiz C. S. de Araujo et.al.|[2502.04478](http://arxiv.org/abs/2502.04478)|null|
 |**2025-02-06**|**RAMOTS: A Real-Time System for Aerial Multi-Object Tracking based on Deep Learning and Big Data Technology**|Nhat-Tan Do et.al.|[2502.03760](http://arxiv.org/abs/2502.03760)|null|
 |**2025-02-04**|**Rethinking Vision Transformer for Object Centric Foundation Models**|Manuel Traub et.al.|[2502.02763](http://arxiv.org/abs/2502.02763)|null|
