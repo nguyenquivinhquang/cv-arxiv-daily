@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**X-Dancer: Expressive Music to Human Dance Video Generation**|Zeyuan Chen et.al.|[2502.17414](http://arxiv.org/abs/2502.17414)|null|
+|**2025-02-24**|**HVIS: A Human-like Vision and Inference System for Human Motion Prediction**|Kedi Lyu et.al.|[2502.16913](http://arxiv.org/abs/2502.16913)|null|
+|**2025-02-23**|**DeProPose: Deficiency-Proof 3D Human Pose Estimation via Adaptive Multi-View Fusion**|Jianbin Jiao et.al.|[2502.16419](http://arxiv.org/abs/2502.16419)|null|
+|**2025-02-21**|**Human Motion Prediction, Reconstruction, and Generation**|Canxuan Gang et.al.|[2502.15956](http://arxiv.org/abs/2502.15956)|null|
 |**2025-02-19**|**Multi-view Video-Pose Pretraining for Operating Room Surgical Activity Recognition**|Idris Hamoud et.al.|[2502.13883](http://arxiv.org/abs/2502.13883)|null|
 |**2025-02-19**|**Exploring Mutual Cross-Modal Attention for Context-Aware Human Affordance Generation**|Prasun Roy et.al.|[2502.13637](http://arxiv.org/abs/2502.13637)|**[link](https://github.com/prasunroy/mcma)**|
 |**2025-02-18**|**Spatiotemporal Multi-Camera Calibration using Freely Moving People**|Sang-Eun Lee et.al.|[2502.12546](http://arxiv.org/abs/2502.12546)|null|
@@ -329,6 +333,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**V-HOP: Visuo-Haptic 6D Object Pose Tracking**|Hongyu Li et.al.|[2502.17434](http://arxiv.org/abs/2502.17434)|null|
+|**2025-02-24**|**Enriching Physical-Virtual Interaction in AR Gaming by Tracking Identical Real Objects**|Liuchuan Yu et.al.|[2502.17399](http://arxiv.org/abs/2502.17399)|null|
+|**2025-02-24**|**CRTrack: Low-Light Semi-Supervised Multi-object Tracking Based on Consistency Regularization**|Zijing Zhao et.al.|[2502.16809](http://arxiv.org/abs/2502.16809)|null|
+|**2025-02-23**|**Benchmarking Online Object Trackers for Underwater Robot Position Locking Applications**|Ali Safa et.al.|[2502.16569](http://arxiv.org/abs/2502.16569)|null|
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-13**|**IMM-MOT: A Novel 3D Multi-object Tracking Framework with Interacting Multiple Model Filter**|Xiaohong Liu et.al.|[2502.09672](http://arxiv.org/abs/2502.09672)|null|
 |**2025-02-10**|**Adaptive Perception for Unified Visual Multi-modal Object Tracking**|Xiantao Hu et.al.|[2502.06583](http://arxiv.org/abs/2502.06583)|null|
@@ -873,6 +881,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
 |**2025-02-20**|**CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**|Qilin Zhang et.al.|[2502.14684](http://arxiv.org/abs/2502.14684)|**[link](https://github.com/zqlin0521/cdgs-release)**|
 |**2025-02-19**|**Structure-from-Sherds++: Robust Incremental 3D Reassembly of Axially Symmetric Pots from Unordered and Mixed Fragment Collections**|Seong Jong Yoo et.al.|[2502.13986](http://arxiv.org/abs/2502.13986)|null|
 |**2025-02-19**|**IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360 $^\circ$ Cameras**|Dongki Jung et.al.|[2502.12545](http://arxiv.org/abs/2502.12545)|null|
