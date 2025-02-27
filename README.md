@@ -343,8 +343,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Spectral-Enhanced Transformers: Leveraging Large-Scale Pretrained Models for Hyperspectral Object Tracking**|Shaheer Mohamed et.al.|[2502.18748](http://arxiv.org/abs/2502.18748)|null|
 |**2025-02-25**|**UASTrack: A Unified Adaptive Selection Framework with Modality-Customization in Single Object Tracking**|He Wang et.al.|[2502.18220](http://arxiv.org/abs/2502.18220)|null|
-|**2025-02-25**|**Easy-Poly: A Easy Polyhedral Framework For 3D Multi-Object Tracking**|Peng Zhang et.al.|[2502.17822](http://arxiv.org/abs/2502.17822)|null|
+|**2025-02-26**|**Easy-Poly: A Easy Polyhedral Framework For 3D Multi-Object Tracking**|Peng Zhang et.al.|[2502.17822](http://arxiv.org/abs/2502.17822)|null|
 |**2025-02-24**|**V-HOP: Visuo-Haptic 6D Object Pose Tracking**|Hongyu Li et.al.|[2502.17434](http://arxiv.org/abs/2502.17434)|null|
 |**2025-02-24**|**Enriching Physical-Virtual Interaction in AR Gaming by Tracking Identical Real Objects**|Liuchuan Yu et.al.|[2502.17399](http://arxiv.org/abs/2502.17399)|null|
 |**2025-02-24**|**CRTrack: Low-Light Semi-Supervised Multi-object Tracking Based on Consistency Regularization**|Zijing Zhao et.al.|[2502.16809](http://arxiv.org/abs/2502.16809)|null|
@@ -754,6 +755,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932](http://arxiv.org/abs/2502.18932)|null|
 |**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633](http://arxiv.org/abs/2502.15633)|null|
 |**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708](http://arxiv.org/abs/2502.13708)|null|
 |**2025-02-19**|**FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views**|Shangzhan Zhang et.al.|[2502.12138](http://arxiv.org/abs/2502.12138)|null|
