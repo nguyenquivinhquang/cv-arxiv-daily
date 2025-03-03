@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**BST: Badminton Stroke-type Transformer for Skeleton-based Action Recognition in Racket Sports**|Jing-Yuan Chang et.al.|[2502.21085](http://arxiv.org/abs/2502.21085)|null|
 |**2025-02-27**|**Avat3r: Large Animatable Gaussian Reconstruction Model for High-fidelity 3D Head Avatars**|Tobias Kirschstein et.al.|[2502.20220](http://arxiv.org/abs/2502.20220)|null|
 |**2025-02-27**|**Open-Vocabulary Semantic Part Segmentation of 3D Human**|Keito Suzuki et.al.|[2502.19782](http://arxiv.org/abs/2502.19782)|null|
 |**2025-02-26**|**Diffusion-based Planning with Learned Viability Filters**|Nicholas Ioannidis et.al.|[2502.19564](http://arxiv.org/abs/2502.19564)|null|
@@ -907,7 +908,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-24**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
+|**2025-02-27**|**Best Foot Forward: Robust Foot Reconstruction in-the-wild**|Kyle Fogarty et.al.|[2502.20511](http://arxiv.org/abs/2502.20511)|null|
+|**2025-02-28**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
 |**2025-02-20**|**CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**|Qilin Zhang et.al.|[2502.14684](http://arxiv.org/abs/2502.14684)|**[link](https://github.com/zqlin0521/cdgs-release)**|
 |**2025-02-19**|**Structure-from-Sherds++: Robust Incremental 3D Reassembly of Axially Symmetric Pots from Unordered and Mixed Fragment Collections**|Seong Jong Yoo et.al.|[2502.13986](http://arxiv.org/abs/2502.13986)|null|
 |**2025-02-19**|**IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360 $^\circ$ Cameras**|Dongki Jung et.al.|[2502.12545](http://arxiv.org/abs/2502.12545)|null|
