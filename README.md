@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Unified Human Localization and Trajectory Prediction with Monocular Vision**|Po-Chien Luan et.al.|[2503.03535](http://arxiv.org/abs/2503.03535)|null|
+|**2025-03-05**|**Enhancing Spoken Discourse Modeling in Language Models Using Gestural Cues**|Varsha Suresh et.al.|[2503.03474](http://arxiv.org/abs/2503.03474)|null|
+|**2025-03-04**|**Monocular Person Localization under Camera Ego-motion**|Yu Zhan et.al.|[2503.02916](http://arxiv.org/abs/2503.02916)|null|
 |**2025-03-04**|**A Transformer-Based Framework for Greek Sign Language Production using Extended Skeletal Motion Representations**|Chrysa Pratikaki et.al.|[2503.02421](http://arxiv.org/abs/2503.02421)|null|
 |**2025-03-03**|**Vid2Avatar-Pro: Authentic Avatar from Videos in the Wild via Universal Prior**|Chen Guo et.al.|[2503.01610](http://arxiv.org/abs/2503.01610)|null|
 |**2025-03-03**|**Generative Human Geometry Distribution**|Xiangjun Tang et.al.|[2503.01448](http://arxiv.org/abs/2503.01448)|null|
@@ -770,6 +773,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments**|Jie Deng et.al.|[2503.03373](http://arxiv.org/abs/2503.03373)|null|
 |**2025-03-03**|**MUSt3R: Multi-view Network for Stereo 3D Reconstruction**|Yohann Cabon et.al.|[2503.01661](http://arxiv.org/abs/2503.01661)|null|
 |**2025-03-04**|**DnD Filter: Differentiable State Estimation for Dynamic Systems using Diffusion Models**|Ziyu Wan et.al.|[2503.01274](http://arxiv.org/abs/2503.01274)|null|
 |**2025-03-01**|**CRADMap: Applied Distributed Volumetric Mapping with 5G-Connected Multi-Robots and 4D Radar Sensing**|Maaz Qureshi et.al.|[2503.00262](http://arxiv.org/abs/2503.00262)|null|
@@ -922,7 +926,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-03**|**ecg2o: A Seamless Extension of g2o for Equality-Constrained Factor Graph Optimization**|Anas Abdelkarim et.al.|[2503.01311](http://arxiv.org/abs/2503.01311)|null|
-|**2025-03-04**|**A Multi-Sensor Fusion Approach for Rapid Orthoimage Generation in Large-Scale UAV Mapping**|Jialei He et.al.|[2503.01202](http://arxiv.org/abs/2503.01202)|null|
+|**2025-03-05**|**A Multi-Sensor Fusion Approach for Rapid Orthoimage Generation in Large-Scale UAV Mapping**|Jialei He et.al.|[2503.01202](http://arxiv.org/abs/2503.01202)|null|
 |**2025-03-02**|**MTReD: 3D Reconstruction Dataset for Fly-over Videos of Maritime Domain**|Rui Yi Yong et.al.|[2503.00853](http://arxiv.org/abs/2503.00853)|null|
 |**2025-03-02**|**PSRGS:Progressive Spectral Residual of 3D Gaussian for High-Frequency Recovery**|BoCheng Li et.al.|[2503.00848](http://arxiv.org/abs/2503.00848)|null|
 |**2025-03-02**|**Multi-Cali Anything: Dense Feature Multi-Frame Structure-from-Motion for Large-Scale Camera Array Calibration**|Jinjiang You et.al.|[2503.00737](http://arxiv.org/abs/2503.00737)|**[link](https://github.com/yjjfish/multi-cali-anything)**|
