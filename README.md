@@ -21,6 +21,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**3D Human Interaction Generation: A Survey**|Siyuan Fan et.al.|[2503.13120](http://arxiv.org/abs/2503.13120)|null|
+|**2025-03-17**|**HIS-GPT: Towards 3D Human-In-Scene Multimodal Understanding**|Jiahe Zhao et.al.|[2503.12955](http://arxiv.org/abs/2503.12955)|null|
+|**2025-03-17**|**R3-Avatar: Record and Retrieve Temporal Codebook for Reconstructing Photorealistic Human Avatars**|Yifan Zhan et.al.|[2503.12751](http://arxiv.org/abs/2503.12751)|null|
+|**2025-03-15**|**Gun Detection Using Combined Human Pose and Weapon Appearance**|Amulya Reddy Maligireddy et.al.|[2503.12215](http://arxiv.org/abs/2503.12215)|null|
+|**2025-03-15**|**VTON 360: High-Fidelity Virtual Try-On from Any Viewing Direction**|Zijian He et.al.|[2503.12165](http://arxiv.org/abs/2503.12165)|null|
+|**2025-03-15**|**Tailor: An Integrated Text-Driven CG-Ready Human and Garment Generation System**|Zhiyao Sun et.al.|[2503.12052](http://arxiv.org/abs/2503.12052)|null|
 |**2025-03-14**|**Bring Your Rear Cameras for Egocentric 3D Human Pose Estimation**|Hiroyasu Akada et.al.|[2503.11652](http://arxiv.org/abs/2503.11652)|null|
 |**2025-03-14**|**Online Test-time Adaptation for 3D Human Pose Estimation: A Practical Perspective with Estimated 2D Poses**|Qiuxia Lin et.al.|[2503.11194](http://arxiv.org/abs/2503.11194)|null|
 |**2025-03-14**|**GaussianIP: Identity-Preserving Realistic 3D Human Generation via Human-Centric Diffusion Prior**|Zichen Tang et.al.|[2503.11143](http://arxiv.org/abs/2503.11143)|null|
@@ -375,6 +381,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Real-Time Multi-Object Tracking using YOLOv8 and SORT on a SoC FPGA**|Michal Danilowicz et.al.|[2503.13023](http://arxiv.org/abs/2503.13023)|null|
+|**2025-03-17**|**OptiPMB: Enhancing 3D Multi-Object Tracking with Optimized Poisson Multi-Bernoulli Filtering**|Guanhua Ding et.al.|[2503.12968](http://arxiv.org/abs/2503.12968)|null|
+|**2025-03-17**|**UncTrack: Reliable Visual Object Tracking with Uncertainty-Aware Prototype Memory Network**|Siyuan Yao et.al.|[2503.12888](http://arxiv.org/abs/2503.12888)|**[link](https://github.com/ManOfStory/UncTrack)**|
+|**2025-03-17**|**Dynamic-Dark SLAM: RGB-Thermal Cooperative Robot Vision Strategy for Multi-Person Tracking in Both Well-Lit and Low-Light Scenes**|Tatsuro Sakai et.al.|[2503.12768](http://arxiv.org/abs/2503.12768)|null|
+|**2025-03-16**|**History-Aware Transformation of ReID Features for Multiple Object Tracking**|Ruopeng Gao et.al.|[2503.12562](http://arxiv.org/abs/2503.12562)|null|
+|**2025-03-15**|**ROS-SAM: High-Quality Interactive Segmentation for Remote Sensing Moving Object**|Zhe Shan et.al.|[2503.12006](http://arxiv.org/abs/2503.12006)|null|
 |**2025-03-14**|**Cognitive Disentanglement for Referring Multi-Object Tracking**|Shaofeng Liang et.al.|[2503.11496](http://arxiv.org/abs/2503.11496)|null|
 |**2025-03-13**|**3D Extended Object Tracking based on Extruded B-Spline Side View Profiles**|Longfei Han et.al.|[2503.10730](http://arxiv.org/abs/2503.10730)|null|
 |**2025-03-13**|**OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer**|Jinyang Li et.al.|[2503.10616](http://arxiv.org/abs/2503.10616)|null|
@@ -962,6 +974,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization**|Yiwei Xu et.al.|[2503.13086](http://arxiv.org/abs/2503.13086)|null|
 |**2025-03-11**|**A Framework for Reducing the Complexity of Geometric Vision Problems and its Application to Two-View Triangulation with Approximation Bounds**|Felix Rydell et.al.|[2503.08142](http://arxiv.org/abs/2503.08142)|null|
 |**2025-03-11**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|**[link](https://github.com/parskatt/dad)**|
 |**2025-03-12**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
