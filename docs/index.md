@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Dance Like a Chicken: Low-Rank Stylization for Human Motion Diffusion**|Haim Sawdayee et.al.|[2503.19557](http://arxiv.org/abs/2503.19557)|null|
+|**2025-03-25**|**Multi-modal 3D Pose and Shape Estimation with Computed Tomography**|Mingxiao Tu et.al.|[2503.19405](http://arxiv.org/abs/2503.19405)|null|
+|**2025-03-25**|**DeClotH: Decomposable 3D Cloth and Human Body Reconstruction from a Single Image**|Hyeongjin Nam et.al.|[2503.19373](http://arxiv.org/abs/2503.19373)|null|
+|**2025-03-25**|**Analyzing the Synthetic-to-Real Domain Gap in 3D Hand Pose Estimation**|Zhuoran Zhao et.al.|[2503.19307](http://arxiv.org/abs/2503.19307)|null|
+|**2025-03-24**|**FRESA:Feedforward Reconstruction of Personalized Skinned Avatars from Few Images**|Rong Wang et.al.|[2503.19207](http://arxiv.org/abs/2503.19207)|null|
 |**2025-03-23**|**SimMotionEdit: Text-Based Human Motion Editing with Motion Similarity Prediction**|Zhengyuan Li et.al.|[2503.18211](http://arxiv.org/abs/2503.18211)|**[link](https://github.com/lzhyu/simmotionedit)**|
 |**2025-03-21**|**Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment**|Hiromu Taketsugu et.al.|[2503.17267](http://arxiv.org/abs/2503.17267)|null|
 |**2025-03-21**|**Auto-Regressive Diffusion for Generating 3D Human-Object Interactions**|Zichen Geng et.al.|[2503.16801](http://arxiv.org/abs/2503.16801)|null|
@@ -817,6 +822,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Scene-agnostic Pose Regression for Visual Localization**|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|null|
 |**2025-03-21**|**Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image**|Jerred Chen et.al.|[2503.17358](http://arxiv.org/abs/2503.17358)|null|
 |**2025-03-13**|**VicaSplat: A Single Run is All You Need for 3D Gaussian Splatting and Camera Estimation from Unposed Video Frames**|Zhiqi Li et.al.|[2503.10286](http://arxiv.org/abs/2503.10286)|null|
 |**2025-03-12**|**MonoSLAM: Robust Monocular SLAM with Global Structure Optimization**|Bingzheng Jiang et.al.|[2503.09296](http://arxiv.org/abs/2503.09296)|null|
