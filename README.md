@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**Zero-Shot Human-Object Interaction Synthesis with Multimodal Priors**|Yuke Lou et.al.|[2503.20118](http://arxiv.org/abs/2503.20118)|null|
 |**2025-03-25**|**Dance Like a Chicken: Low-Rank Stylization for Human Motion Diffusion**|Haim Sawdayee et.al.|[2503.19557](http://arxiv.org/abs/2503.19557)|null|
 |**2025-03-25**|**Multi-modal 3D Pose and Shape Estimation with Computed Tomography**|Mingxiao Tu et.al.|[2503.19405](http://arxiv.org/abs/2503.19405)|null|
 |**2025-03-25**|**DeClotH: Decomposable 3D Cloth and Human Body Reconstruction from a Single Image**|Hyeongjin Nam et.al.|[2503.19373](http://arxiv.org/abs/2503.19373)|null|
