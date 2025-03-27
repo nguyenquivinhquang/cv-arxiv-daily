@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.26
+## Updated on 2025.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Human mesh recovery
@@ -19,7 +19,7 @@ layout: default
 |**2025-03-25**|**DeClotH: Decomposable 3D Cloth and Human Body Reconstruction from a Single Image**|Hyeongjin Nam et.al.|[2503.19373](http://arxiv.org/abs/2503.19373)|null|
 |**2025-03-25**|**Analyzing the Synthetic-to-Real Domain Gap in 3D Hand Pose Estimation**|Zhuoran Zhao et.al.|[2503.19307](http://arxiv.org/abs/2503.19307)|null|
 |**2025-03-24**|**FRESA:Feedforward Reconstruction of Personalized Skinned Avatars from Few Images**|Rong Wang et.al.|[2503.19207](http://arxiv.org/abs/2503.19207)|null|
-|**2025-03-23**|**SimMotionEdit: Text-Based Human Motion Editing with Motion Similarity Prediction**|Zhengyuan Li et.al.|[2503.18211](http://arxiv.org/abs/2503.18211)|**[link](https://github.com/lzhyu/simmotionedit)**|
+|**2025-03-25**|**SimMotionEdit: Text-Based Human Motion Editing with Motion Similarity Prediction**|Zhengyuan Li et.al.|[2503.18211](http://arxiv.org/abs/2503.18211)|**[link](https://github.com/lzhyu/simmotionedit)**|
 |**2025-03-21**|**Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment**|Hiromu Taketsugu et.al.|[2503.17267](http://arxiv.org/abs/2503.17267)|null|
 |**2025-03-21**|**Auto-Regressive Diffusion for Generating 3D Human-Object Interactions**|Zichen Geng et.al.|[2503.16801](http://arxiv.org/abs/2503.16801)|null|
 |**2025-03-20**|**Reconstructing In-the-Wild Open-Vocabulary Human-Object Interactions**|Boran Wen et.al.|[2503.15898](http://arxiv.org/abs/2503.15898)|null|
