@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.06
+## Updated on 2025.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -399,7 +399,7 @@
 |**2024-01-30**|**Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers**|Jianbin Jiao et.al.|[2401.16700](http://arxiv.org/abs/2401.16700)|null|
 |**2024-01-28**|**Multi-Person 3D Pose Estimation from Multi-View Uncalibrated Depth Cameras**|Yu-Jhe Li et.al.|[2401.15616](http://arxiv.org/abs/2401.15616)|null|
 
-<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
 
 ## Tracking
 
@@ -409,7 +409,7 @@
 |**2025-04-02**|**Deep LG-Track: An Enhanced Localization-Confidence-Guided Multi-Object Tracker**|Ting Meng et.al.|[2504.01457](http://arxiv.org/abs/2504.01457)|null|
 |**2025-04-02**|**COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking**|Chunhui Zhang et.al.|[2504.01321](http://arxiv.org/abs/2504.01321)|**[link](https://github.com/983632847/awesome-multimodal-object-tracking)**|
 |**2025-04-01**|**IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**|Bangwei Liu et.al.|[2504.00954](http://arxiv.org/abs/2504.00954)|null|
-|**2025-03-29**|**Towards Mobile Sensing with Event Cameras on High-mobility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943](http://arxiv.org/abs/2503.22943)|null|
+|**2025-04-03**|**Towards Mobile Sensing with Event Cameras on High-agility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943](http://arxiv.org/abs/2503.22943)|null|
 |**2025-03-28**|**Hyperspectral Adapter for Object Tracking based on Hyperspectral Video**|Long Gao et.al.|[2503.22199](http://arxiv.org/abs/2503.22199)|null|
 |**2025-03-27**|**FusionSegReID: Advancing Person Re-Identification with Multimodal Retrieval and Precise Segmentation**|Jincheng Yan et.al.|[2503.21595](http://arxiv.org/abs/2503.21595)|null|
 |**2025-03-24**|**TrackID3x3: A Dataset and Algorithm for Multi-Player Tracking with Identification and Pose Estimation in 3x3 Basketball Full-court Videos**|Kazuhiro Yamada et.al.|[2503.18282](http://arxiv.org/abs/2503.18282)|null|
@@ -844,7 +844,7 @@
 |**2024-02-14**|**Design and Realization of a Benchmarking Testbed for Evaluating Autonomous Platooning Algorithms**|Michael Shaham et.al.|[2402.09233](http://arxiv.org/abs/2402.09233)|null|
 |**2024-02-20**|**Camera Calibration through Geometric Constraints from Rotation and Projection Matrices**|Muhammad Waleed et.al.|[2402.08437](http://arxiv.org/abs/2402.08437)|**[link](https://github.com/cvlablums/cvgl-camera-calibration)**|
 
-<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
 
 ## SLAM
 
@@ -855,7 +855,7 @@
 |**2025-03-31**|**Easi3R: Estimating Disentangled Motion from DUSt3R Without Training**|Xingyu Chen et.al.|[2503.24391](http://arxiv.org/abs/2503.24391)|**[link](https://github.com/inception3d/easi3r)**|
 |**2025-03-31**|**LiM-Loc: Visual Localization with Dense and Accurate 3D Reference Maps Directly Corresponding 2D Keypoints to 3D LiDAR Point Clouds**|Masahiko Tsuji et.al.|[2503.23664](http://arxiv.org/abs/2503.23664)|null|
 |**2025-03-29**|**Incorporating GNSS Information with LIDAR-Inertial Odometry for Accurate Land-Vehicle Localization**|Jintao Cheng et.al.|[2503.23199](http://arxiv.org/abs/2503.23199)|null|
-|**2025-03-29**|**Towards Mobile Sensing with Event Cameras on High-mobility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943](http://arxiv.org/abs/2503.22943)|null|
+|**2025-04-03**|**Towards Mobile Sensing with Event Cameras on High-agility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943](http://arxiv.org/abs/2503.22943)|null|
 |**2025-03-28**|**GCRayDiffusion: Pose-Free Surface Reconstruction via Geometric Consistent Ray Diffusion**|Li-Heng Chen et.al.|[2503.22349](http://arxiv.org/abs/2503.22349)|null|
 |**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761](http://arxiv.org/abs/2503.21761)|**[link](https://github.com/Davidyao99/uni4d)**|
 |**2025-03-27**|**STAMICS: Splat, Track And Map with Integrated Consistency and Semantics for Dense RGB-D SLAM**|Yongxu Wang et.al.|[2503.21425](http://arxiv.org/abs/2503.21425)|null|
@@ -1015,7 +1015,7 @@
 |**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887](http://arxiv.org/abs/2401.01887)|null|
 |**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|**[link](https://github.com/ZikangYuan/sr_livo)**|
 
-<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
 
 ## SFM
 
@@ -1177,7 +1177,7 @@
 |**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937](http://arxiv.org/abs/2401.08937)|null|
 |**2024-01-16**|**Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions**|Yi-Fan Zuo et.al.|[2401.08043](http://arxiv.org/abs/2401.08043)|**[link](https://github.com/zyfff/canny-evt)**|
 
-<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
 
 ## Personalize segmentation
 
@@ -1194,7 +1194,7 @@
 |**2022-05-11**|**Invisible-to-Visible: Privacy-Aware Human Segmentation using Airborne Ultrasound via Collaborative Learning Probabilistic U-Net**|Risako Tanigawa et.al.|[2205.05293](http://arxiv.org/abs/2205.05293)|null|
 |**2021-04-20**|**Fashion-Guided Adversarial Attack on Person Segmentation**|Marc Treu et.al.|[2104.08422](http://arxiv.org/abs/2104.08422)|**[link](https://github.com/nii-yamagishilab/fashion_adv)**|
 
-<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
