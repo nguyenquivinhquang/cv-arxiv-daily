@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Human mesh recovery
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-14**|**Benchmarking 3D Human Pose Estimation Models Under Occlusions**|Filipa Lino et.al.|[2504.10350](http://arxiv.org/abs/2504.10350)|null|
-|**2025-04-14**|**Differentially Private 2D Human Pose Estimation**|Kaushik Bhargav Sivangi et.al.|[2504.10190](http://arxiv.org/abs/2504.10190)|null|
+|**2025-04-15**|**Differentially Private 2D Human Pose Estimation**|Kaushik Bhargav Sivangi et.al.|[2504.10190](http://arxiv.org/abs/2504.10190)|null|
 |**2025-04-14**|**TT3D: Table Tennis 3D Reconstruction**|Thomas Gossard et.al.|[2504.10035](http://arxiv.org/abs/2504.10035)|null|
 |**2025-04-14**|**Efficient 2D to Full 3D Human Pose Uplifting including Joint Rotations**|Katja Ludwig et.al.|[2504.09953](http://arxiv.org/abs/2504.09953)|null|
 |**2025-04-11**|**EMO-X: Efficient Multi-Person Pose and Shape Estimation in One-Stage**|Haohang Jian et.al.|[2504.08718](http://arxiv.org/abs/2504.08718)|null|
@@ -410,8 +410,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-14**|**LLaVA-ReID: Selective Multi-image Questioner for Interactive Person Re-Identification**|Yiding Lu et.al.|[2504.10174](http://arxiv.org/abs/2504.10174)|null|
-|**2025-04-14**|**WildLive: Near Real-time Visual Wildlife Tracking onboard UAVs**|Nguyen Ngoc Dat et.al.|[2504.10165](http://arxiv.org/abs/2504.10165)|null|
+|**2025-04-15**|**LLaVA-ReID: Selective Multi-image Questioner for Interactive Person Re-Identification**|Yiding Lu et.al.|[2504.10174](http://arxiv.org/abs/2504.10174)|null|
+|**2025-04-15**|**WildLive: Near Real-time Visual Wildlife Tracking onboard UAVs**|Nguyen Ngoc Dat et.al.|[2504.10165](http://arxiv.org/abs/2504.10165)|null|
 |**2025-04-12**|**PapMOT: Exploring Adversarial Patch Attack against Multiple Object Tracking**|Jiahuan Long et.al.|[2504.09361](http://arxiv.org/abs/2504.09361)|null|
 |**2025-04-12**|**Text To 3D Object Generation For Scalable Room Assembly**|Sonia Laguna et.al.|[2504.09328](http://arxiv.org/abs/2504.09328)|null|
 |**2025-04-12**|**ReferGPT: Towards Zero-Shot Referring Multi-Object Tracking**|Tzoulio Chamiti et.al.|[2504.09195](http://arxiv.org/abs/2504.09195)|null|
@@ -419,7 +419,7 @@ layout: default
 |**2025-04-09**|**Multi-Object Tracking for Collision Avoidance Using Multiple Cameras in Open RAN Networks**|Jordi Serra et.al.|[2504.07163](http://arxiv.org/abs/2504.07163)|null|
 |**2025-04-13**|**VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**|Xinhao Li et.al.|[2504.06958](http://arxiv.org/abs/2504.06958)|null|
 |**2025-04-06**|**SAM2MOT: A Novel Paradigm of Multi-Object Tracking by Segmentation**|Junjie Jiang et.al.|[2504.04519](http://arxiv.org/abs/2504.04519)|**[link](https://github.com/TripleJoy/SAM2MOT)**|
-|**2025-04-05**|**Risk-Aware Robot Control in Dynamic Environments Using Belief Control Barrier Functions**|Shaohang Han et.al.|[2504.04097](http://arxiv.org/abs/2504.04097)|null|
+|**2025-04-05**|**Risk-Aware Robot Control in Dynamic Environments Using Belief Control Barrier Functions**|Shaohang Han et.al.|[2504.04097](http://arxiv.org/abs/2504.04097)|**[link](https://github.com/KTH-RPL-Planiacs/sample_based_bcbf)**|
 |**2025-04-04**|**TQD-Track: Temporal Query Denoising for 3D Multi-Object Tracking**|Shuxiao Ding et.al.|[2504.03258](http://arxiv.org/abs/2504.03258)|null|
 |**2025-04-03**|**Attention-Aware Multi-View Pedestrian Tracking**|Reef Alturki et.al.|[2504.03047](http://arxiv.org/abs/2504.03047)|null|
 |**2025-04-03**|**Data-Driven Object Tracking: Integrating Modular Neural Networks into a Kalman Framework**|Christian Alexander Holz et.al.|[2504.02519](http://arxiv.org/abs/2504.02519)|null|
