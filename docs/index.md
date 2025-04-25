@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**PICO: Reconstructing 3D People In Contact with Objects**|Alpár Cseke et.al.|[2504.17695](http://arxiv.org/abs/2504.17695)|null|
+|**2025-04-24**|**Unveiling Hidden Vulnerabilities in Digital Human Generation via Adversarial Attacks**|Zhiying Li et.al.|[2504.17457](http://arxiv.org/abs/2504.17457)|null|
 |**2025-04-23**|**WiFi based Human Fall and Activity Recognition using Transformer based Encoder Decoder and Graph Neural Networks**|Younggeol Cho et.al.|[2504.16655](http://arxiv.org/abs/2504.16655)|null|
 |**2025-04-17**|**SMPL-GPTexture: Dual-View 3D Human Texture Estimation using Text-to-Image Generation Models**|Mingxiao Tu et.al.|[2504.13378](http://arxiv.org/abs/2504.13378)|null|
 |**2025-04-18**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang et.al.|[2504.13167](http://arxiv.org/abs/2504.13167)|null|
@@ -879,6 +881,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636](http://arxiv.org/abs/2504.17636)|null|
+|**2025-04-24**|**Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent and Large-Scale Localization**|Guangyang Zeng et.al.|[2504.17410](http://arxiv.org/abs/2504.17410)|null|
 |**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|**[link](https://github.com/Chenyu-Wang567/All-Angles-Bench)**|
 |**2025-04-20**|**Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction**|Weirong Chen et.al.|[2504.14516](http://arxiv.org/abs/2504.14516)|null|
 |**2025-04-18**|**Mono3R: Exploiting Monocular Cues for Geometric 3D Reconstruction**|Wenyu Li et.al.|[2504.13419](http://arxiv.org/abs/2504.13419)|null|
@@ -1056,6 +1060,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Dynamic Camera Poses and Where to Find Them**|Chris Rockwell et.al.|[2504.17788](http://arxiv.org/abs/2504.17788)|null|
+|**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280](http://arxiv.org/abs/2504.17280)|null|
 |**2025-04-23**|**A Low-Cost Photogrammetry System for 3D Plant Modeling and Phenotyping**|Joe Hrzich et.al.|[2504.16840](http://arxiv.org/abs/2504.16840)|null|
 |**2025-04-23**|**PRaDA: Projective Radial Distortion Averaging**|Daniil Sinitsyn et.al.|[2504.16499](http://arxiv.org/abs/2504.16499)|null|
 |**2025-04-21**|**Towards Understanding Camera Motions in Any Video**|Zhiqiu Lin et.al.|[2504.15376](http://arxiv.org/abs/2504.15376)|null|
