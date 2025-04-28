@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Unify3D: An Augmented Holistic End-to-end Monocular 3D Human Reconstruction via Anatomy Shaping and Twins Negotiating**|Nanjie Yao et.al.|[2504.18215](http://arxiv.org/abs/2504.18215)|null|
 |**2025-04-24**|**PICO: Reconstructing 3D People In Contact with Objects**|Alpár Cseke et.al.|[2504.17695](http://arxiv.org/abs/2504.17695)|null|
 |**2025-04-24**|**Unveiling Hidden Vulnerabilities in Digital Human Generation via Adversarial Attacks**|Zhiying Li et.al.|[2504.17457](http://arxiv.org/abs/2504.17457)|null|
 |**2025-04-23**|**WiFi based Human Fall and Activity Recognition using Transformer based Encoder Decoder and Graph Neural Networks**|Younggeol Cho et.al.|[2504.16655](http://arxiv.org/abs/2504.16655)|null|
@@ -429,6 +430,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Multi-Sensor Fusion of Active and Passive Measurements for Extended Object Tracking**|Hong Zhu et.al.|[2504.18301](http://arxiv.org/abs/2504.18301)|null|
+|**2025-04-25**|**PerfCam: Digital Twinning for Production Lines Using 3D Gaussian Splatting and Vision Models**|Michel Gokan Khan et.al.|[2504.18165](http://arxiv.org/abs/2504.18165)|null|
+|**2025-04-25**|**S3MOT: Monocular 3D Object Tracking with Selective State Space Model**|Zhuohao Yan et.al.|[2504.18068](http://arxiv.org/abs/2504.18068)|null|
 |**2025-04-22**|**SonarT165: A Large-scale Benchmark and STFTrack Framework for Acoustic Object Tracking**|Yunfeng Li et.al.|[2504.15609](http://arxiv.org/abs/2504.15609)|null|
 |**2025-04-19**|**Adversarial Attack for RGB-Event based Visual Object Tracking**|Qiang Chen et.al.|[2504.14423](http://arxiv.org/abs/2504.14423)|null|
 |**2025-04-17**|**Effective Dual-Region Augmentation for Reduced Reliance on Large Amounts of Labeled Data**|Prasanna Reddy Pulakurthi et.al.|[2504.13077](http://arxiv.org/abs/2504.13077)|**[link](https://github.com/PrasannaPulakurthi/Foreground-Background-Augmentation)**|
@@ -892,6 +896,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**SmallGS: Gaussian Splatting-based Camera Pose Estimation for Small-Baseline Videos**|Yuxin Yao et.al.|[2504.17810](http://arxiv.org/abs/2504.17810)|null|
 |**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636](http://arxiv.org/abs/2504.17636)|null|
 |**2025-04-24**|**Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent and Large-Scale Localization**|Guangyang Zeng et.al.|[2504.17410](http://arxiv.org/abs/2504.17410)|null|
 |**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|**[link](https://github.com/Chenyu-Wang567/All-Angles-Bench)**|
