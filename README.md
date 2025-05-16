@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and $\mathcal{O}(T)$ Complexity**|Shihao Zou et.al.|[2505.10352](http://arxiv.org/abs/2505.10352)|null|
+|**2025-05-15**|**ADHMR: Aligning Diffusion-based Human Mesh Recovery via Direct Preference Optimization**|Wenhao Shen et.al.|[2505.10250](http://arxiv.org/abs/2505.10250)|**[link](https://github.com/shenwenhao01/adhmr)**|
 |**2025-05-14**|**UMotion: Uncertainty-driven Human Motion Estimation from Inertial and Ultra-wideband Units**|Huakun Liu et.al.|[2505.09393](http://arxiv.org/abs/2505.09393)|**[link](https://github.com/kk9six/umotion)**|
 |**2025-05-12**|**Sleep Position Classification using Transfer Learning for Bed-based Pressure Sensors**|Olivier Papillon et.al.|[2505.08111](http://arxiv.org/abs/2505.08111)|null|
 |**2025-05-12**|**Link to the Past: Temporal Propagation for Fast 3D Human Reconstruction from Monocular Video**|Matthew Marchellus et.al.|[2505.07333](http://arxiv.org/abs/2505.07333)|null|
