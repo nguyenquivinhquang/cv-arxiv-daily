@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Human mesh recovery
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction**|Nisarga Nilavadi et.al.|[2505.14866](http://arxiv.org/abs/2505.14866)|null|
 |**2025-05-19**|**KinTwin: Imitation Learning with Torque and Muscle Driven Biomechanical Models Enables Precise Replication of Able-Bodied and Impaired Movement from Markerless Motion Capture**|R. James Cotton et.al.|[2505.13436](http://arxiv.org/abs/2505.13436)|null|
 |**2025-05-19**|**CacheFlow: Fast Human Motion Prediction by Cached Normalizing Flow**|Takahiro Maeda et.al.|[2505.13140](http://arxiv.org/abs/2505.13140)|null|
 |**2025-05-19**|**UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes**|Zichen Geng et.al.|[2505.12774](http://arxiv.org/abs/2505.12774)|null|
@@ -22,7 +23,7 @@ layout: default
 |**2025-05-17**|**Black-box Adversaries from Latent Space: Unnoticeable Attacks on Human Pose and Shape Estimation**|Zhiying Li et.al.|[2505.12009](http://arxiv.org/abs/2505.12009)|null|
 |**2025-05-17**|**ElderFallGuard: Real-Time IoT and Computer Vision-Based Fall Detection System for Elderly Safety**|Tasrifur Riahi et.al.|[2505.11845](http://arxiv.org/abs/2505.11845)|null|
 |**2025-05-16**|**Towards Robust and Controllable Text-to-Motion via Masked Autoregressive Diffusion**|Zongye Zhang et.al.|[2505.11013](http://arxiv.org/abs/2505.11013)|null|
-|**2025-05-16**|**PoseBench3D: A Cross-Dataset Analysis Framework for 3D Human Pose Estimation**|Saad Manzur et.al.|[2505.10888](http://arxiv.org/abs/2505.10888)|null|
+|**2025-05-16**|**PoseBench3D: A Cross-Dataset Analysis Framework for 3D Human Pose Estimation**|Saad Manzur et.al.|[2505.10888](http://arxiv.org/abs/2505.10888)|**[link](https://github.com/bryanjvela/poselab3d)**|
 |**2025-05-15**|**SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and $\mathcal{O}(T)$ Complexity**|Shihao Zou et.al.|[2505.10352](http://arxiv.org/abs/2505.10352)|null|
 |**2025-05-15**|**ADHMR: Aligning Diffusion-based Human Mesh Recovery via Direct Preference Optimization**|Wenhao Shen et.al.|[2505.10250](http://arxiv.org/abs/2505.10250)|**[link](https://github.com/shenwenhao01/adhmr)**|
 |**2025-05-14**|**UMotion: Uncertainty-driven Human Motion Estimation from Inertial and Ultra-wideband Units**|Huakun Liu et.al.|[2505.09393](http://arxiv.org/abs/2505.09393)|**[link](https://github.com/kk9six/umotion)**|
@@ -1140,6 +1141,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814](http://arxiv.org/abs/2505.15814)|null|
 |**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
