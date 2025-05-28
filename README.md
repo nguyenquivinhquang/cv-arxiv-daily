@@ -22,6 +22,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Spectral Compression Transformer with Line Pose Graph for Monocular 3D Human Pose Estimation**|Zenghao Zheng et.al.|[2505.21309](http://arxiv.org/abs/2505.21309)|null|
+|**2025-05-27**|**Mamba-Driven Topology Fusion for Monocular 3-D Human Pose Estimation**|Zenghao Zheng et.al.|[2505.20611](http://arxiv.org/abs/2505.20611)|null|
+|**2025-05-26**|**CoRI: Synthesizing Communication of Robot Intent for Physical Human-Robot Interaction**|Junxiang Wang et.al.|[2505.20537](http://arxiv.org/abs/2505.20537)|null|
+|**2025-05-26**|**AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models**|Muyao Niu et.al.|[2505.20255](http://arxiv.org/abs/2505.20255)|null|
 |**2025-05-26**|**HF-VTON: High-Fidelity Virtual Try-On via Consistent Geometric and Semantic Alignment**|Ming Meng et.al.|[2505.19638](http://arxiv.org/abs/2505.19638)|null|
 |**2025-05-25**|**Disentangled Human Body Representation Based on Unsupervised Semantic-Aware Learning**|Lu Wang et.al.|[2505.19049](http://arxiv.org/abs/2505.19049)|null|
 |**2025-05-23**|**H2-COMPACT: Human-Humanoid Co-Manipulation via Adaptive Contact Trajectory Policies**|Geeta Chandra Raju Bethala et.al.|[2505.17627](http://arxiv.org/abs/2505.17627)|null|
@@ -479,6 +483,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Fully Spiking Neural Networks for Unified Frame-Event Object Tracking**|Jingjun Yang et.al.|[2505.20834](http://arxiv.org/abs/2505.20834)|null|
+|**2025-05-26**|**Video-based Direct Time Series Measurement of Along-Strike Slip on the Coseismic Surface Rupture During the 2025 Mw7.7 Myanmar Earthquake**|Jianhao Gao et.al.|[2505.20494](http://arxiv.org/abs/2505.20494)|null|
+|**2025-05-26**|**ReaMOT: A Benchmark and Framework for Reasoning-based Multi-Object Tracking**|Sijia Chen et.al.|[2505.20381](http://arxiv.org/abs/2505.20381)|null|
 |**2025-05-26**|**Progressive Scaling Visual Object Tracking**|Jack Hong et.al.|[2505.19990](http://arxiv.org/abs/2505.19990)|null|
 |**2025-05-24**|**Distributed Expectation Propagation for Multi-Object Tracking over Sensor Networks**|Qing Li et.al.|[2505.18795](http://arxiv.org/abs/2505.18795)|null|
 |**2025-05-24**|**FusionTrack: End-to-End Multi-Object Tracking in Arbitrary Multi-View Environment**|Xiaohe Li et.al.|[2505.18727](http://arxiv.org/abs/2505.18727)|null|
@@ -1172,6 +1179,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2505.20729](http://arxiv.org/abs/2505.20729)|null|
 |**2025-05-26**|**Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud**|Natsuki Takama et.al.|[2505.19854](http://arxiv.org/abs/2505.19854)|null|
 |**2025-05-25**|**Improving Novel view synthesis of 360 $^\circ$ Scenes in Extremely Sparse Views by Jointly Training Hemisphere Sampled Synthetic Images**|Guangan Chen et.al.|[2505.19264](http://arxiv.org/abs/2505.19264)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
@@ -1381,6 +1389,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Frame In-N-Out: Unbounded Controllable Image-to-Video Generation**|Boyang Wang et.al.|[2505.21491](http://arxiv.org/abs/2505.21491)|null|
+|**2025-05-27**|**Dynamic Vision from EEG Brain Recordings: How much does EEG know?**|Prajwal Singh et.al.|[2505.21385](http://arxiv.org/abs/2505.21385)|null|
+|**2025-05-27**|**SageAttention2++: A More Efficient Implementation of SageAttention2**|Jintao Zhang et.al.|[2505.21136](http://arxiv.org/abs/2505.21136)|null|
+|**2025-05-27**|**Minute-Long Videos with Dual Parallelisms**|Zeqing Wang et.al.|[2505.21070](http://arxiv.org/abs/2505.21070)|null|
+|**2025-05-27**|**RainFusion: Adaptive Video Generation Acceleration via Multi-Dimensional Visual Redundancy**|Aiyue Chen et.al.|[2505.21036](http://arxiv.org/abs/2505.21036)|null|
+|**2025-05-27**|**Frame-Level Captions for Long Video Generation with Complex Multi Scenes**|Guangcong Zheng et.al.|[2505.20827](http://arxiv.org/abs/2505.20827)|null|
+|**2025-05-27**|**Learning Generalizable Robot Policy with Human Demonstration Video as a Prompt**|Xiang Zhu et.al.|[2505.20795](http://arxiv.org/abs/2505.20795)|null|
+|**2025-05-27**|**Photography Perspective Composition: Towards Aesthetic Perspective Recommendation**|Lujian Yao et.al.|[2505.20655](http://arxiv.org/abs/2505.20655)|null|
+|**2025-05-27**|**Incorporating Flexible Image Conditioning into Text-to-Video Diffusion Models without Training**|Bolin Lai et.al.|[2505.20629](http://arxiv.org/abs/2505.20629)|null|
+|**2025-05-27**|**OpenS2V-Nexus: A Detailed Benchmark and Million-Scale Dataset for Subject-to-Video Generation**|Shenghai Yuan et.al.|[2505.20292](http://arxiv.org/abs/2505.20292)|**[link](https://github.com/PKU-YuanGroup/OpenS2V-Nexus)**|
 |**2025-05-27**|**Dynamic-I2V: Exploring Image-to-Video Generation Models via Multimodal LLM**|Peng Liu et.al.|[2505.19901](http://arxiv.org/abs/2505.19901)|null|
 |**2025-05-26**|**DriveCamSim: Generalizable Camera Simulation via Explicit Camera Modeling for Autonomous Driving**|Wenchao Sun et.al.|[2505.19692](http://arxiv.org/abs/2505.19692)|null|
 |**2025-05-26**|**TDVE-Assessor: Benchmarking and Evaluating the Quality of Text-Driven Video Editing with LMMs**|Juntong Wang et.al.|[2505.19535](http://arxiv.org/abs/2505.19535)|null|
