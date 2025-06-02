@@ -22,6 +22,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877](http://arxiv.org/abs/2505.24877)|null|
+|**2025-05-30**|**InteractAnything: Zero-shot Human Object Interaction Synthesis via LLM Feedback and Object Affordance Parsing**|Jinlu Zhang et.al.|[2505.24315](http://arxiv.org/abs/2505.24315)|null|
 |**2025-05-29**|**VITON-DRR: Details Retention Virtual Try-on via Non-rigid Registration**|Ben Li et.al.|[2505.23439](http://arxiv.org/abs/2505.23439)|**[link](https://github.com/minqili/viton-drr-main)**|
 |**2025-05-29**|**Quality assessment of 3D human animation: Subjective and objective evaluation**|Rim Rekik et.al.|[2505.23301](http://arxiv.org/abs/2505.23301)|null|
 |**2025-05-29**|**GeoMan: Temporally Consistent Human Geometry Estimation using Image-to-Video Diffusion**|Gwanghyun Kim et.al.|[2505.23085](http://arxiv.org/abs/2505.23085)|null|
@@ -1401,6 +1403,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873](http://arxiv.org/abs/2505.24873)|null|
+|**2025-05-30**|**DreamDance: Animating Character Art via Inpainting Stable Gaussian Worlds**|Jiaxu Zhang et.al.|[2505.24733](http://arxiv.org/abs/2505.24733)|null|
+|**2025-05-30**|**UniGeo: Taming Video Diffusion for Unified Consistent Geometry Estimation**|Yang-Tian Sun et.al.|[2505.24521](http://arxiv.org/abs/2505.24521)|null|
+|**2025-05-30**|**Interactive Video Generation via Domain Adaptation**|Ishaan Rawal et.al.|[2505.24253](http://arxiv.org/abs/2505.24253)|null|
+|**2025-05-30**|**STORK: Improving the Fidelity of Mid-NFE Sampling for Diffusion and Flow Matching Models**|Zheng Tan et.al.|[2505.24210](http://arxiv.org/abs/2505.24210)|null|
 |**2025-05-29**|**MAGREF: Masked Guidance for Any-Reference Video Generation**|Yufan Deng et.al.|[2505.23742](http://arxiv.org/abs/2505.23742)|**[link](https://github.com/magref-video/magref)**|
 |**2025-05-29**|**VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC Videos**|Tingyu Song et.al.|[2505.23693](http://arxiv.org/abs/2505.23693)|**[link](https://github.com/sighingsnow/vf-eval)**|
 |**2025-05-29**|**VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models**|Xiangdong Zhang et.al.|[2505.23656](http://arxiv.org/abs/2505.23656)|null|
