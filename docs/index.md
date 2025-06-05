@@ -485,6 +485,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Contour Errors: An Ego-Centric Metric for Reliable 3D Multi-Object Tracking**|Sharang Kaul et.al.|[2506.04122](http://arxiv.org/abs/2506.04122)|null|
+|**2025-06-03**|**SportMamba: Adaptive Non-Linear Multi-Object Tracking with State Space Models for Team Sports**|Dheeraj Khanna et.al.|[2506.03335](http://arxiv.org/abs/2506.03335)|null|
 |**2025-06-03**|**MVTD: A Benchmark Dataset for Maritime Visual Object Tracking**|Ahsan Baidar Bakht et.al.|[2506.02866](http://arxiv.org/abs/2506.02866)|null|
 |**2025-06-02**|**No Train Yet Gain: Towards Generic Multi-Object Tracking in Sports and Beyond**|Tomasz Stanczyk et.al.|[2506.01373](http://arxiv.org/abs/2506.01373)|null|
 |**2025-06-01**|**Depth-Aware Scoring and Hierarchical Alignment for Multiple Object Tracking**|Milad Khanchi et.al.|[2506.00774](http://arxiv.org/abs/2506.00774)|null|
@@ -994,6 +996,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
 |**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736](http://arxiv.org/abs/2506.02736)|**[link](https://github.com/qingshufan/GeneA-SLAM2)**|
 |**2025-06-02**|**Rig3R: Rig-Aware Conditioning for Learned 3D Reconstruction**|Samuel Li et.al.|[2506.02265](http://arxiv.org/abs/2506.02265)|null|
 |**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859](http://arxiv.org/abs/2505.22859)|null|
@@ -1186,6 +1189,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
+|**2025-06-04**|**Accelerating SfM-based Pose Estimation with Dominating Set**|Joji Joseph et.al.|[2506.03667](http://arxiv.org/abs/2506.03667)|null|
 |**2025-06-02**|**Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent**|Yaroslava Lochman et.al.|[2506.01940](http://arxiv.org/abs/2506.01940)|null|
 |**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756](http://arxiv.org/abs/2505.23756)|null|
 |**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089](http://arxiv.org/abs/2505.22089)|null|
@@ -1395,6 +1400,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228](http://arxiv.org/abs/2506.04228)|null|
+|**2025-06-04**|**UNIC: Unified In-Context Video Editing**|Zixuan Ye et.al.|[2506.04216](http://arxiv.org/abs/2506.04216)|null|
+|**2025-06-04**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|
+|**2025-06-04**|**DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models**|Ziyi Wu et.al.|[2506.03517](http://arxiv.org/abs/2506.03517)|null|
+|**2025-06-03**|**Chipmunk: Training-Free Acceleration of Diffusion Transformers with Dynamic Column-Sparse Deltas**|Austin Silveria et.al.|[2506.03275](http://arxiv.org/abs/2506.03275)|null|
 |**2025-06-03**|**IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation**|Yuanze Lin et.al.|[2506.03150](http://arxiv.org/abs/2506.03150)|null|
 |**2025-06-03**|**Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval**|Jiwen Yu et.al.|[2506.03141](http://arxiv.org/abs/2506.03141)|null|
 |**2025-06-03**|**CamCloneMaster: Enabling Reference-based Camera Control for Video Generation**|Yawen Luo et.al.|[2506.03140](http://arxiv.org/abs/2506.03140)|null|
