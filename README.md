@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,7 +30,7 @@
 |**2025-06-04**|**HuGeDiff: 3D Human Generation via Diffusion with Gaussian Splatting**|Maksym Ivashechkin et.al.|[2506.04351](http://arxiv.org/abs/2506.04351)|null|
 |**2025-06-03**|**Controllable Human-centric Keyframe Interpolation with Generative Prior**|Zujin Guo et.al.|[2506.03119](http://arxiv.org/abs/2506.03119)|null|
 |**2025-06-03**|**HumanRAM: Feed-forward Human Reconstruction and Animation Model using Transformers**|Zhiyuan Yu et.al.|[2506.03118](http://arxiv.org/abs/2506.03118)|null|
-|**2025-06-03**|**Learning Pyramid-structured Long-range Dependencies for 3D Human Pose Estimation**|Mingjie Wei et.al.|[2506.02853](http://arxiv.org/abs/2506.02853)|null|
+|**2025-06-03**|**Learning Pyramid-structured Long-range Dependencies for 3D Human Pose Estimation**|Mingjie Wei et.al.|[2506.02853](http://arxiv.org/abs/2506.02853)|**[link](https://github.com/MingjieWe/PGFormer)**|
 |**2025-06-02**|**PointT2I: LLM-based text-to-image generation via keypoints**|Taekyung Lee et.al.|[2506.01370](http://arxiv.org/abs/2506.01370)|null|
 |**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877](http://arxiv.org/abs/2505.24877)|null|
 |**2025-05-30**|**InteractAnything: Zero-shot Human Object Interaction Synthesis via LLM Feedback and Object Affordance Parsing**|Jinlu Zhang et.al.|[2505.24315](http://arxiv.org/abs/2505.24315)|null|
@@ -495,7 +495,7 @@
 |**2024-01-30**|**Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers**|Jianbin Jiao et.al.|[2401.16700](http://arxiv.org/abs/2401.16700)|null|
 |**2024-01-28**|**Multi-Person 3D Pose Estimation from Multi-View Uncalibrated Depth Cameras**|Yu-Jhe Li et.al.|[2401.15616](http://arxiv.org/abs/2401.15616)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 ## Tracking
 
@@ -503,7 +503,7 @@
 |---|---|---|---|---|
 |**2025-06-13**|**Design and Simulation of Vehicle Motion Tracking System using a Youla Controller Output Observation System**|Rongfei Li et.al.|[2506.11386](http://arxiv.org/abs/2506.11386)|null|
 |**2025-06-11**|**Optimizing Cooperative Multi-Object Tracking using Graph Signal Processing**|Maria Damanaki et.al.|[2506.09469](http://arxiv.org/abs/2506.09469)|null|
-|**2025-06-11**|**ReID5o: Achieving Omni Multi-modal Person Re-identification in a Single Model**|Jialong Zuo et.al.|[2506.09385](http://arxiv.org/abs/2506.09385)|null|
+|**2025-06-11**|**ReID5o: Achieving Omni Multi-modal Person Re-identification in a Single Model**|Jialong Zuo et.al.|[2506.09385](http://arxiv.org/abs/2506.09385)|**[link](https://github.com/zplusdragon/reid5o_orbench)**|
 |**2025-06-10**|**MOSE: A Novel Orchestration Framework for Stateful Microservice Migration at the Edge**|Antonio Calagna et.al.|[2506.09159](http://arxiv.org/abs/2506.09159)|null|
 |**2025-06-09**|**SAM2Auto: Auto Annotation Using FLASH**|Arash Rocky et.al.|[2506.07850](http://arxiv.org/abs/2506.07850)|null|
 |**2025-06-05**|**FRAME: Pre-Training Video Feature Representations via Anticipation and Memory**|Sethuraman TV et.al.|[2506.05543](http://arxiv.org/abs/2506.05543)|null|
@@ -1014,7 +1014,7 @@
 |**2024-02-14**|**Design and Realization of a Benchmarking Testbed for Evaluating Autonomous Platooning Algorithms**|Michael Shaham et.al.|[2402.09233](http://arxiv.org/abs/2402.09233)|null|
 |**2024-02-20**|**Camera Calibration through Geometric Constraints from Rotation and Projection Matrices**|Muhammad Waleed et.al.|[2402.08437](http://arxiv.org/abs/2402.08437)|**[link](https://github.com/cvlablums/cvgl-camera-calibration)**|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 ## SLAM
 
@@ -1214,7 +1214,7 @@
 |**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887](http://arxiv.org/abs/2401.01887)|null|
 |**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|**[link](https://github.com/ZikangYuan/sr_livo)**|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 ## SFM
 
@@ -1414,7 +1414,7 @@
 |**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937](http://arxiv.org/abs/2401.08937)|null|
 |**2024-01-16**|**Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions**|Yi-Fan Zuo et.al.|[2401.08043](http://arxiv.org/abs/2401.08043)|**[link](https://github.com/zyfff/canny-evt)**|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 ## Personalize segmentation
 
@@ -1432,7 +1432,7 @@
 |**2022-05-11**|**Invisible-to-Visible: Privacy-Aware Human Segmentation using Airborne Ultrasound via Collaborative Learning Probabilistic U-Net**|Risako Tanigawa et.al.|[2205.05293](http://arxiv.org/abs/2205.05293)|null|
 |**2021-04-20**|**Fashion-Guided Adversarial Attack on Person Segmentation**|Marc Treu et.al.|[2104.08422](http://arxiv.org/abs/2104.08422)|**[link](https://github.com/nii-yamagishilab/fashion_adv)**|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 ## Multi-subject personalised generation
 
@@ -1548,7 +1548,7 @@
 |**2025-05-20**|**Programmatic Video Prediction Using Large Language Models**|Hao Tang et.al.|[2505.14948](http://arxiv.org/abs/2505.14948)|**[link](https://github.com/metro-smiles/ProgGen)**|
 |**2025-05-20**|**Grouping First, Attending Smartly: Training-Free Acceleration for Diffusion Transformers**|Sucheng Ren et.al.|[2505.14687](http://arxiv.org/abs/2505.14687)|**[link](https://github.com/oliverrensu/grat)**|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

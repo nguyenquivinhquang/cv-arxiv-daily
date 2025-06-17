@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Human mesh recovery
@@ -22,7 +22,7 @@ layout: default
 |**2025-06-04**|**HuGeDiff: 3D Human Generation via Diffusion with Gaussian Splatting**|Maksym Ivashechkin et.al.|[2506.04351](http://arxiv.org/abs/2506.04351)|null|
 |**2025-06-03**|**Controllable Human-centric Keyframe Interpolation with Generative Prior**|Zujin Guo et.al.|[2506.03119](http://arxiv.org/abs/2506.03119)|null|
 |**2025-06-03**|**HumanRAM: Feed-forward Human Reconstruction and Animation Model using Transformers**|Zhiyuan Yu et.al.|[2506.03118](http://arxiv.org/abs/2506.03118)|null|
-|**2025-06-03**|**Learning Pyramid-structured Long-range Dependencies for 3D Human Pose Estimation**|Mingjie Wei et.al.|[2506.02853](http://arxiv.org/abs/2506.02853)|null|
+|**2025-06-03**|**Learning Pyramid-structured Long-range Dependencies for 3D Human Pose Estimation**|Mingjie Wei et.al.|[2506.02853](http://arxiv.org/abs/2506.02853)|**[link](https://github.com/MingjieWe/PGFormer)**|
 |**2025-06-02**|**PointT2I: LLM-based text-to-image generation via keypoints**|Taekyung Lee et.al.|[2506.01370](http://arxiv.org/abs/2506.01370)|null|
 |**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877](http://arxiv.org/abs/2505.24877)|null|
 |**2025-05-30**|**InteractAnything: Zero-shot Human Object Interaction Synthesis via LLM Feedback and Object Affordance Parsing**|Jinlu Zhang et.al.|[2505.24315](http://arxiv.org/abs/2505.24315)|null|
@@ -493,7 +493,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-13**|**Design and Simulation of Vehicle Motion Tracking System using a Youla Controller Output Observation System**|Rongfei Li et.al.|[2506.11386](http://arxiv.org/abs/2506.11386)|null|
 |**2025-06-11**|**Optimizing Cooperative Multi-Object Tracking using Graph Signal Processing**|Maria Damanaki et.al.|[2506.09469](http://arxiv.org/abs/2506.09469)|null|
-|**2025-06-11**|**ReID5o: Achieving Omni Multi-modal Person Re-identification in a Single Model**|Jialong Zuo et.al.|[2506.09385](http://arxiv.org/abs/2506.09385)|null|
+|**2025-06-11**|**ReID5o: Achieving Omni Multi-modal Person Re-identification in a Single Model**|Jialong Zuo et.al.|[2506.09385](http://arxiv.org/abs/2506.09385)|**[link](https://github.com/zplusdragon/reid5o_orbench)**|
 |**2025-06-10**|**MOSE: A Novel Orchestration Framework for Stateful Microservice Migration at the Edge**|Antonio Calagna et.al.|[2506.09159](http://arxiv.org/abs/2506.09159)|null|
 |**2025-06-09**|**SAM2Auto: Auto Annotation Using FLASH**|Arash Rocky et.al.|[2506.07850](http://arxiv.org/abs/2506.07850)|null|
 |**2025-06-05**|**FRAME: Pre-Training Video Feature Representations via Anticipation and Memory**|Sethuraman TV et.al.|[2506.05543](http://arxiv.org/abs/2506.05543)|null|
