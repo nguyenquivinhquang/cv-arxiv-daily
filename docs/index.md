@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Validation of AI-Based 3D Human Pose Estimation in a Cyber-Physical Environment**|Lisa Marie Otto et.al.|[2506.23739](http://arxiv.org/abs/2506.23739)|null|
 |**2025-06-26**|**LLaVA-Pose: Enhancing Human Pose and Action Understanding via Keypoint-Integrated Instruction Tuning**|Dewen Zhang et.al.|[2506.21317](http://arxiv.org/abs/2506.21317)|null|
 |**2025-06-25**|**3DGH: 3D Head Generation with Composable Hair and Face**|Chengan He et.al.|[2506.20875](http://arxiv.org/abs/2506.20875)|null|
 |**2025-06-24**|**Systematic Comparison of Projection Methods for Monocular 3D Human Pose Estimation on Fisheye Images**|Stephanie Käs et.al.|[2506.19747](http://arxiv.org/abs/2506.19747)|null|
@@ -503,6 +504,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Visual and Memory Dual Adapter for Multi-Modal Object Tracking**|Boyue Xu et.al.|[2506.23972](http://arxiv.org/abs/2506.23972)|null|
+|**2025-06-30**|**Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking**|Shiao Wang et.al.|[2506.23783](http://arxiv.org/abs/2506.23783)|null|
+|**2025-06-28**|**Optimal Trajectory Planning for Space Object Tracking with Collision-Avoidance Constraints**|Saif R. Kazi et.al.|[2506.22797](http://arxiv.org/abs/2506.22797)|null|
+|**2025-06-27**|**Improving Token-based Object Detection with Video**|Abhineet Singh et.al.|[2506.22562](http://arxiv.org/abs/2506.22562)|null|
 |**2025-06-27**|**R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning**|Biao Wang et.al.|[2506.21980](http://arxiv.org/abs/2506.21980)|null|
 |**2025-06-24**|**VideoPCDNet: Video Parsing and Prediction with Phase Correlation Networks**|Noel José Rodrigues Vicente et.al.|[2506.19621](http://arxiv.org/abs/2506.19621)|null|
 |**2025-06-24**|**Trajectory Prediction in Dynamic Object Tracking: A Critical Study**|Zhongping Dong et.al.|[2506.19341](http://arxiv.org/abs/2506.19341)|null|
@@ -1030,6 +1035,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-29**|**Event-based Stereo Visual-Inertial Odometry with Voxel Map**|Zhaoxing Zhang et.al.|[2506.23078](http://arxiv.org/abs/2506.23078)|null|
 |**2025-06-24**|**ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes**|Chenhao Zhang et.al.|[2506.21629](http://arxiv.org/abs/2506.21629)|null|
 |**2025-06-24**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242](http://arxiv.org/abs/2506.15242)|null|
 |**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang et.al.|[2506.09278](http://arxiv.org/abs/2506.09278)|null|
@@ -1230,6 +1236,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**|Ziao Liu et.al.|[2506.23611](http://arxiv.org/abs/2506.23611)|null|
 |**2025-06-27**|**Single-Scanline Relative Pose Estimation for Rolling Shutter Cameras**|Petr Hruby et.al.|[2506.22069](http://arxiv.org/abs/2506.22069)|null|
 |**2025-06-24**|**ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes**|Chenhao Zhang et.al.|[2506.21629](http://arxiv.org/abs/2506.21629)|null|
 |**2025-06-26**|**Wild refitting for black box prediction**|Martin J. Wainwright et.al.|[2506.21460](http://arxiv.org/abs/2506.21460)|null|
@@ -1449,6 +1456,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
+|**2025-06-30**|**VMoBA: Mixture-of-Block Attention for Video Diffusion Models**|Jianzong Wu et.al.|[2506.23858](http://arxiv.org/abs/2506.23858)|null|
+|**2025-06-30**|**RGC-VQA: An Exploration Database for Robotic-Generated Video Quality Assessment**|Jianing Jin et.al.|[2506.23852](http://arxiv.org/abs/2506.23852)|null|
+|**2025-06-30**|**SynMotion: Semantic-Visual Adaptation for Motion Customized Video Generation**|Shuai Tan et.al.|[2506.23690](http://arxiv.org/abs/2506.23690)|null|
+|**2025-06-30**|**ViewPoint: Panoramic Video Generation with Pretrained Diffusion Models**|Zixun Fang et.al.|[2506.23513](http://arxiv.org/abs/2506.23513)|null|
+|**2025-06-29**|**Causal-Entity Reflected Egocentric Traffic Accident Video Synthesis**|Lei-lei Li et.al.|[2506.23263](http://arxiv.org/abs/2506.23263)|null|
+|**2025-06-29**|**RoboScape: Physics-informed Embodied World Model**|Yu Shang et.al.|[2506.23135](http://arxiv.org/abs/2506.23135)|null|
+|**2025-06-28**|**Listener-Rewarded Thinking in VLMs for Image Preferences**|Alexander Gambashidze et.al.|[2506.22832](http://arxiv.org/abs/2506.22832)|null|
 |**2025-06-27**|**RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**|Liudi Yang et.al.|[2506.22007](http://arxiv.org/abs/2506.22007)|null|
 |**2025-06-26**|**SmoothSinger: A Conditional Diffusion Model for Singing Voice Synthesis with Multi-Resolution Architecture**|Kehan Sui et.al.|[2506.21478](http://arxiv.org/abs/2506.21478)|null|
 |**2025-06-27**|**ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models**|Hongbo Liu et.al.|[2506.21356](http://arxiv.org/abs/2506.21356)|null|
