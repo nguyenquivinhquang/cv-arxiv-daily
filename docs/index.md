@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.02
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Human mesh recovery
@@ -18,7 +18,7 @@ layout: default
 |**2025-06-26**|**LLaVA-Pose: Enhancing Human Pose and Action Understanding via Keypoint-Integrated Instruction Tuning**|Dewen Zhang et.al.|[2506.21317](http://arxiv.org/abs/2506.21317)|null|
 |**2025-06-25**|**3DGH: 3D Head Generation with Composable Hair and Face**|Chengan He et.al.|[2506.20875](http://arxiv.org/abs/2506.20875)|null|
 |**2025-06-24**|**Systematic Comparison of Projection Methods for Monocular 3D Human Pose Estimation on Fisheye Images**|Stephanie Käs et.al.|[2506.19747](http://arxiv.org/abs/2506.19747)|null|
-|**2025-06-23**|**Sequential keypoint density estimator: an overlooked baseline of skeleton-based video anomaly detection**|Anja Delić et.al.|[2506.18368](http://arxiv.org/abs/2506.18368)|null|
+|**2025-07-02**|**Sequential keypoint density estimator: an overlooked baseline of skeleton-based video anomaly detection**|Anja Delić et.al.|[2506.18368](http://arxiv.org/abs/2506.18368)|null|
 |**2025-06-19**|**CLIP-MG: Guiding Semantic Attention with Skeletal Pose Features and RGB Data for Micro-Gesture Recognition on the iMiGUE Dataset**|Santosh Patapati et.al.|[2506.16385](http://arxiv.org/abs/2506.16385)|null|
 |**2025-06-19**|**STAR-Pose: Efficient Low-Resolution Video Human Pose Estimation via Spatial-Temporal Adaptive Super-Resolution**|Yucheng Jin et.al.|[2506.16061](http://arxiv.org/abs/2506.16061)|null|
 |**2025-06-19**|**Beyond Audio and Pose: A General-Purpose Framework for Video Synchronization**|Yosub Shin et.al.|[2506.15937](http://arxiv.org/abs/2506.15937)|null|
