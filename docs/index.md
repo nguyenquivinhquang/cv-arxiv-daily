@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Human mesh recovery
@@ -1056,7 +1056,7 @@ layout: default
 |**2025-06-10**|**Princeton365: A Diverse Dataset with Accurate Camera Pose**|Karhan Kayan et.al.|[2506.09035](http://arxiv.org/abs/2506.09035)|null|
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005](http://arxiv.org/abs/2506.08005)|null|
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013](http://arxiv.org/abs/2506.07013)|null|
-|**2025-06-23**|**cuVSLAM: CUDA accelerated visual odometry and mapping**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|**[link](https://github.com/nvlabs/pycuvslam)**|
+|**2025-07-08**|**cuVSLAM: CUDA accelerated visual odometry and mapping**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|**[link](https://github.com/nvlabs/pycuvslam)**|
 |**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
 |**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736](http://arxiv.org/abs/2506.02736)|**[link](https://github.com/qingshufan/GeneA-SLAM2)**|
 |**2025-06-02**|**Rig3R: Rig-Aware Conditioning for Learned 3D Reconstruction**|Samuel Li et.al.|[2506.02265](http://arxiv.org/abs/2506.02265)|null|
@@ -1478,7 +1478,7 @@ layout: default
 |**2025-07-06**|**CLIP-RL: Surgical Scene Segmentation Using Contrastive Language-Vision Pretraining & Reinforcement Learning**|Fatmaelzahraa Ali Ahmed et.al.|[2507.04317](http://arxiv.org/abs/2507.04317)|null|
 |**2025-07-05**|**PresentAgent: Multimodal Agent for Presentation Video Generation**|Jingwei Shi et.al.|[2507.04036](http://arxiv.org/abs/2507.04036)|null|
 |**2025-07-05**|**EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation**|Rang Meng et.al.|[2507.03905](http://arxiv.org/abs/2507.03905)|null|
-|**2025-07-04**|**StreamDiT: Real-Time Streaming Text-to-Video Generation**|Akio Kodaira et.al.|[2507.03745](http://arxiv.org/abs/2507.03745)|null|
+|**2025-07-08**|**StreamDiT: Real-Time Streaming Text-to-Video Generation**|Akio Kodaira et.al.|[2507.03745](http://arxiv.org/abs/2507.03745)|null|
 |**2025-07-03**|**RefTok: Reference-Based Tokenization for Video Generation**|Xiang Fan et.al.|[2507.02862](http://arxiv.org/abs/2507.02862)|null|
 |**2025-07-03**|**Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**|Xin Zhou et.al.|[2507.02860](http://arxiv.org/abs/2507.02860)|null|
 |**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|

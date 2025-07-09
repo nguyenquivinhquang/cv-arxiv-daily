@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -512,7 +512,7 @@
 |**2024-01-30**|**Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers**|Jianbin Jiao et.al.|[2401.16700](http://arxiv.org/abs/2401.16700)|null|
 |**2024-01-28**|**Multi-Person 3D Pose Estimation from Multi-View Uncalibrated Depth Cameras**|Yu-Jhe Li et.al.|[2401.15616](http://arxiv.org/abs/2401.15616)|null|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 ## Tracking
 
@@ -1054,7 +1054,7 @@
 |**2024-02-14**|**Design and Realization of a Benchmarking Testbed for Evaluating Autonomous Platooning Algorithms**|Michael Shaham et.al.|[2402.09233](http://arxiv.org/abs/2402.09233)|null|
 |**2024-02-20**|**Camera Calibration through Geometric Constraints from Rotation and Projection Matrices**|Muhammad Waleed et.al.|[2402.08437](http://arxiv.org/abs/2402.08437)|**[link](https://github.com/cvlablums/cvgl-camera-calibration)**|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 ## SLAM
 
@@ -1068,7 +1068,7 @@
 |**2025-06-10**|**Princeton365: A Diverse Dataset with Accurate Camera Pose**|Karhan Kayan et.al.|[2506.09035](http://arxiv.org/abs/2506.09035)|null|
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005](http://arxiv.org/abs/2506.08005)|null|
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013](http://arxiv.org/abs/2506.07013)|null|
-|**2025-06-23**|**cuVSLAM: CUDA accelerated visual odometry and mapping**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|**[link](https://github.com/nvlabs/pycuvslam)**|
+|**2025-07-08**|**cuVSLAM: CUDA accelerated visual odometry and mapping**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|**[link](https://github.com/nvlabs/pycuvslam)**|
 |**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
 |**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736](http://arxiv.org/abs/2506.02736)|**[link](https://github.com/qingshufan/GeneA-SLAM2)**|
 |**2025-06-02**|**Rig3R: Rig-Aware Conditioning for Learned 3D Reconstruction**|Samuel Li et.al.|[2506.02265](http://arxiv.org/abs/2506.02265)|null|
@@ -1258,7 +1258,7 @@
 |**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887](http://arxiv.org/abs/2401.01887)|null|
 |**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|**[link](https://github.com/ZikangYuan/sr_livo)**|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 ## SFM
 
@@ -1465,7 +1465,7 @@
 |**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937](http://arxiv.org/abs/2401.08937)|null|
 |**2024-01-16**|**Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions**|Yi-Fan Zuo et.al.|[2401.08043](http://arxiv.org/abs/2401.08043)|**[link](https://github.com/zyfff/canny-evt)**|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 ## Personalize segmentation
 
@@ -1483,7 +1483,7 @@
 |**2022-05-11**|**Invisible-to-Visible: Privacy-Aware Human Segmentation using Airborne Ultrasound via Collaborative Learning Probabilistic U-Net**|Risako Tanigawa et.al.|[2205.05293](http://arxiv.org/abs/2205.05293)|null|
 |**2021-04-20**|**Fashion-Guided Adversarial Attack on Person Segmentation**|Marc Treu et.al.|[2104.08422](http://arxiv.org/abs/2104.08422)|**[link](https://github.com/nii-yamagishilab/fashion_adv)**|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 ## Multi-subject personalised generation
 
@@ -1496,7 +1496,7 @@
 |**2025-07-06**|**CLIP-RL: Surgical Scene Segmentation Using Contrastive Language-Vision Pretraining & Reinforcement Learning**|Fatmaelzahraa Ali Ahmed et.al.|[2507.04317](http://arxiv.org/abs/2507.04317)|null|
 |**2025-07-05**|**PresentAgent: Multimodal Agent for Presentation Video Generation**|Jingwei Shi et.al.|[2507.04036](http://arxiv.org/abs/2507.04036)|null|
 |**2025-07-05**|**EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation**|Rang Meng et.al.|[2507.03905](http://arxiv.org/abs/2507.03905)|null|
-|**2025-07-04**|**StreamDiT: Real-Time Streaming Text-to-Video Generation**|Akio Kodaira et.al.|[2507.03745](http://arxiv.org/abs/2507.03745)|null|
+|**2025-07-08**|**StreamDiT: Real-Time Streaming Text-to-Video Generation**|Akio Kodaira et.al.|[2507.03745](http://arxiv.org/abs/2507.03745)|null|
 |**2025-07-03**|**RefTok: Reference-Based Tokenization for Video Generation**|Xiang Fan et.al.|[2507.02862](http://arxiv.org/abs/2507.02862)|null|
 |**2025-07-03**|**Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**|Xin Zhou et.al.|[2507.02860](http://arxiv.org/abs/2507.02860)|null|
 |**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
@@ -1665,7 +1665,7 @@
 |**2025-05-20**|**Programmatic Video Prediction Using Large Language Models**|Hao Tang et.al.|[2505.14948](http://arxiv.org/abs/2505.14948)|**[link](https://github.com/metro-smiles/ProgGen)**|
 |**2025-05-20**|**Grouping First, Attending Smartly: Training-Free Acceleration for Diffusion Transformers**|Sucheng Ren et.al.|[2505.14687](http://arxiv.org/abs/2505.14687)|**[link](https://github.com/oliverrensu/grat)**|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
