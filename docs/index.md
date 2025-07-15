@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**ProGait: A Multi-Purpose Video Dataset and Benchmark for Transfemoral Prosthesis Users**|Xiangyu Yin et.al.|[2507.10223](http://arxiv.org/abs/2507.10223)|null|
+|**2025-07-14**|**OpenHuman4D: Open-Vocabulary 4D Human Parsing**|Keito Suzuki et.al.|[2507.09880](http://arxiv.org/abs/2507.09880)|null|
+|**2025-07-13**|**VST-Pose: A Velocity-Integrated Spatiotem-poral Attention Network for Human WiFi Pose Estimation**|Xinyu Zhang et.al.|[2507.09672](http://arxiv.org/abs/2507.09672)|null|
+|**2025-07-12**|**PoseLLM: Enhancing Language-Guided Human Pose Estimation with MLP Alignment**|Dewen Zhang et.al.|[2507.09139](http://arxiv.org/abs/2507.09139)|null|
 |**2025-07-10**|**Temporally Consistent Amodal Completion for 3D Human-Object Interaction Reconstruction**|Hyungjun Doh et.al.|[2507.08137](http://arxiv.org/abs/2507.08137)|null|
 |**2025-07-10**|**GGMotion: Group Graph Dynamics-Kinematics Networks for Human Motion Prediction**|Shuaijin Wan et.al.|[2507.07515](http://arxiv.org/abs/2507.07515)|null|
 |**2025-07-08**|**SImpHAR: Advancing impedance-based human activity recognition using 3D simulation and text-to-motion models**|Lala Shakti Swarup Ray et.al.|[2507.06405](http://arxiv.org/abs/2507.06405)|null|
@@ -511,6 +515,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**OpenHuman4D: Open-Vocabulary 4D Human Parsing**|Keito Suzuki et.al.|[2507.09880](http://arxiv.org/abs/2507.09880)|null|
+|**2025-07-12**|**On the Fragility of Multimodal Perception to Temporal Misalignment in Autonomous Driving**|Md Hasan Shahriar et.al.|[2507.09095](http://arxiv.org/abs/2507.09095)|null|
 |**2025-07-11**|**RoundaboutHD: High-Resolution Real-World Urban Environment Benchmark for Multi-Camera Vehicle Tracking**|Yuqiang Lin et.al.|[2507.08729](http://arxiv.org/abs/2507.08729)|null|
 |**2025-07-11**|**SAM2RL: Towards Reinforcement Learning Memory Control in Segment Anything Model 2**|Alen Adamyan et.al.|[2507.08548](http://arxiv.org/abs/2507.08548)|null|
 |**2025-07-10**|**HiM2SAM: Enhancing SAM2 with Hierarchical Motion Estimation and Memory Optimization towards Long-term Tracking**|Ruixiang Chen et.al.|[2507.07603](http://arxiv.org/abs/2507.07603)|null|
@@ -1058,6 +1064,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Kaleidoscopic Background Attack: Disrupting Pose Estimation with Multi-Fold Radial Symmetry Textures**|Xinlong Ding et.al.|[2507.10265](http://arxiv.org/abs/2507.10265)|null|
 |**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903](http://arxiv.org/abs/2507.07903)|null|
 |**2025-06-30**|**VOCAL: Visual Odometry via ContrAstive Learning**|Chi-Yao Huang et.al.|[2507.00243](http://arxiv.org/abs/2507.00243)|null|
 |**2025-06-29**|**Event-based Stereo Visual-Inertial Odometry with Voxel Map**|Zhaoxing Zhang et.al.|[2506.23078](http://arxiv.org/abs/2506.23078)|null|
@@ -1483,8 +1490,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-12**|**$I^{2}$ -World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**|Zhimin Liao et.al.|[2507.09144](http://arxiv.org/abs/2507.09144)|null|
+|**2025-07-11**|**Taming generative video models for zero-shot optical flow extraction**|Seungwoo Kim et.al.|[2507.09082](http://arxiv.org/abs/2507.09082)|null|
+|**2025-07-11**|**Detecting Deepfake Talking Heads from Facial Biometric Anomalies**|Justin D. Norman et.al.|[2507.08917](http://arxiv.org/abs/2507.08917)|null|
 |**2025-07-11**|**Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective**|Hangjie Yuan et.al.|[2507.08801](http://arxiv.org/abs/2507.08801)|null|
 |**2025-07-11**|**Upsample What Matters: Region-Adaptive Latent Sampling for Accelerated Diffusion Transformers**|Wongi Jeong et.al.|[2507.08422](http://arxiv.org/abs/2507.08422)|null|
+|**2025-07-14**|**M2DAO-Talker: Harmonizing Multi-granular Motion Decoupling and Alternating Optimization for Talking-head Generation**|Kui Jiang et.al.|[2507.08307](http://arxiv.org/abs/2507.08307)|null|
 |**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982](http://arxiv.org/abs/2507.07982)|null|
 |**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978](http://arxiv.org/abs/2507.07978)|null|
 |**2025-07-10**|**Scaling RL to Long Videos**|Yukang Chen et.al.|[2507.07966](http://arxiv.org/abs/2507.07966)|null|
